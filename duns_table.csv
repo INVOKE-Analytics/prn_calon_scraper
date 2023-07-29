@@ -1,0 +1,614 @@
+dun_id,dun_code,dun_name,parliament_id,parliament_code,parliament_name,state_id,state_name
+1,N01,Titi Tinggi,1,P001,Padang Besar,1,Perlis
+2,N02,Beseri,1,P001,Padang Besar,1,Perlis
+3,N03,Chuping,1,P001,Padang Besar,1,Perlis
+4,N04,Mata Ayer,1,P001,Padang Besar,1,Perlis
+5,N05,Santan,1,P001,Padang Besar,1,Perlis
+6,N06,Bintong,2,P002,Kangar,1,Perlis
+7,N07,Sena,2,P002,Kangar,1,Perlis
+8,N08,Indera Kayangan,2,P002,Kangar,1,Perlis
+9,N09,Kuala Perlis,2,P002,Kangar,1,Perlis
+10,N10,Kayang,2,P002,Kangar,1,Perlis
+11,N11,Pauh,3,P003,Arau,1,Perlis
+12,N12,Tambun Tulang,3,P003,Arau,1,Perlis
+13,N13,Guar Sanji,3,P003,Arau,1,Perlis
+14,N14,Simpang Empat,3,P003,Arau,1,Perlis
+15,N15,Sanglang,3,P003,Arau,1,Perlis
+16,N01,Ayer Hangat,4,P004,Langkawi,2,Kedah
+17,N02,Kuah,4,P004,Langkawi,2,Kedah
+18,N03,Kota Siputeh,5,P005,Jerlun,2,Kedah
+19,N04,Ayer Hitam,5,P005,Jerlun,2,Kedah
+20,N05,Bukit Kayu Hitam,6,P006,Kubang Pasu,2,Kedah
+21,N06,Jitra,6,P006,Kubang Pasu,2,Kedah
+22,N07,Kuala Nerang,7,P007,Padang Terap,2,Kedah
+23,N08,Pedu,7,P007,Padang Terap,2,Kedah
+24,N09,Bukit Lada,8,P008,Pokok Sena,2,Kedah
+25,N10,Bukit Pinang,8,P008,Pokok Sena,2,Kedah
+26,N11,Derga,8,P008,Pokok Sena,2,Kedah
+27,N12,Suka Menanti,9,P009,Alor Setar,2,Kedah
+28,N13,Kota Darul Aman,9,P009,Alor Setar,2,Kedah
+29,N14,Alor Mengkudu,9,P009,Alor Setar,2,Kedah
+30,N15,Anak Bukit,10,P010,Kuala Kedah,2,Kedah
+31,N16,Kubang Rotan,10,P010,Kuala Kedah,2,Kedah
+32,N17,Pengkalan Kundor,10,P010,Kuala Kedah,2,Kedah
+33,N18,Tokai,11,P011,Pendang,2,Kedah
+34,N19,Sungai Tiang,11,P011,Pendang,2,Kedah
+35,N20,Sungai Limau,12,P012,Jerai,2,Kedah
+36,N21,Guar Chempedak,12,P012,Jerai,2,Kedah
+37,N22,Gurun,12,P012,Jerai,2,Kedah
+38,N23,Belantek,13,P013,Sik,2,Kedah
+39,N24,Jeneri,13,P013,Sik,2,Kedah
+40,N25,Bukit Selambau,14,P014,Merbok,2,Kedah
+41,N26,Tanjong Dawai,14,P014,Merbok,2,Kedah
+42,N27,Pantai Merdeka,15,P015,Sungai Petani,2,Kedah
+43,N28,Bakar Arang,15,P015,Sungai Petani,2,Kedah
+44,N29,Sidam,15,P015,Sungai Petani,2,Kedah
+45,N30,Bayu,16,P016,Baling,2,Kedah
+46,N31,Kupang,16,P016,Baling,2,Kedah
+47,N32,Kuala Ketil,16,P016,Baling,2,Kedah
+48,N33,Merbau Pulas,17,P017,Padang Serai,2,Kedah
+49,N34,Lunas,17,P017,Padang Serai,2,Kedah
+50,N35,Kulim,18,P018,Kulim-Bandar Baharu,2,Kedah
+51,N36,Bandar Baharu,18,P018,Kulim-Bandar Baharu,2,Kedah
+52,N01,Pengkalan Kubor,19,P019,Tumpat,3,Kelantan
+53,N02,Kelaboran,19,P019,Tumpat,3,Kelantan
+54,N03,Pasir Pekan,19,P019,Tumpat,3,Kelantan
+55,N04,Wakaf Bharu,19,P019,Tumpat,3,Kelantan
+56,N05,Kijang,20,P020,Pengkalan Chepa,3,Kelantan
+57,N06,Chempaka,20,P020,Pengkalan Chepa,3,Kelantan
+58,N07,Panchor,20,P020,Pengkalan Chepa,3,Kelantan
+59,N08,Tanjong Mas,21,P021,Kota Bharu,3,Kelantan
+60,N09,Kota Lama,21,P021,Kota Bharu,3,Kelantan
+61,N10,Bunut Payong,21,P021,Kota Bharu,3,Kelantan
+62,N11,Tendong,22,P022,Pasir Mas,3,Kelantan
+63,N12,Pengkalan Pasir,22,P022,Pasir Mas,3,Kelantan
+64,N13,Meranti,22,P022,Pasir Mas,3,Kelantan
+65,N14,Chetok,23,P023,Rantau Panjang,3,Kelantan
+66,N15,Gual Periok,23,P023,Rantau Panjang,3,Kelantan
+67,N16,Apam Putra,23,P023,Rantau Panjang,3,Kelantan
+68,N17,Salor,24,P024,Kubang Kerian,3,Kelantan
+69,N18,Pasir Tumboh,24,P024,Kubang Kerian,3,Kelantan
+70,N19,Demit,24,P024,Kubang Kerian,3,Kelantan
+71,N20,Tawang,25,P025,Bachok,3,Kelantan
+72,N21,Pantai Lama,25,P025,Bachok,3,Kelantan
+73,N22,Jelawat,25,P025,Bachok,3,Kelantan
+74,N23,Melor,26,P026,Ketereh,3,Kelantan
+75,N24,Kadok,26,P026,Ketereh,3,Kelantan
+76,N25,Kok Lanas,26,P026,Ketereh,3,Kelantan
+77,N26,Bukit Panau,27,P027,Tanah Merah,3,Kelantan
+78,N27,Gual Ipoh,27,P027,Tanah Merah,3,Kelantan
+79,N28,Kemahang,27,P027,Tanah Merah,3,Kelantan
+80,N29,Selising,28,P028,Pasir Puteh,3,Kelantan
+81,N30,Limbongan,28,P028,Pasir Puteh,3,Kelantan
+82,N31,Semerak,28,P028,Pasir Puteh,3,Kelantan
+83,N32,Gaal,28,P028,Pasir Puteh,3,Kelantan
+84,N33,Pulai Chondong,29,P029,Machang,3,Kelantan
+85,N34,Temangan,29,P029,Machang,3,Kelantan
+86,N35,Kemuning,29,P029,Machang,3,Kelantan
+87,N36,Bukit Bunga,30,P030,Jeli,3,Kelantan
+88,N37,Air Lanas,30,P030,Jeli,3,Kelantan
+89,N38,Kuala Balah,30,P030,Jeli,3,Kelantan
+90,N39,Mengkebang,31,P031,Kuala Krai,3,Kelantan
+91,N40,Guchil,31,P031,Kuala Krai,3,Kelantan
+92,N41,Manek Urai,31,P031,Kuala Krai,3,Kelantan
+93,N42,Dabong,31,P031,Kuala Krai,3,Kelantan
+94,N43,Nenggiri,32,P032,Gua Musang,3,Kelantan
+95,N44,Paloh,32,P032,Gua Musang,3,Kelantan
+96,N45,Galas,32,P032,Gua Musang,3,Kelantan
+97,N01,Kuala Besut,33,P033,Besut,4,Terengganu
+98,N02,Kota Putera,33,P033,Besut,4,Terengganu
+99,N03,Jertih,33,P033,Besut,4,Terengganu
+100,N04,Hulu Besut,33,P033,Besut,4,Terengganu
+101,N05,Jabi,34,P034,Setiu,4,Terengganu
+102,N06,Permaisuri,34,P034,Setiu,4,Terengganu
+103,N07,Langkap,34,P034,Setiu,4,Terengganu
+104,N08,Batu Rakit,34,P034,Setiu,4,Terengganu
+105,N09,Tepuh,35,P035,Kuala Nerus,4,Terengganu
+106,N10,Buluh Gading,35,P035,Kuala Nerus,4,Terengganu
+107,N11,Seberang Takir,35,P035,Kuala Nerus,4,Terengganu
+108,N12,Bukit Tunggal,35,P035,Kuala Nerus,4,Terengganu
+109,N13,Wakaf Mempelam,36,P036,Kuala Terengganu,4,Terengganu
+110,N14,Bandar,36,P036,Kuala Terengganu,4,Terengganu
+111,N15,Ladang,36,P036,Kuala Terengganu,4,Terengganu
+112,N16,Batu Buruk,36,P036,Kuala Terengganu,4,Terengganu
+113,N17,Alur Limbat,37,P037,Marang,4,Terengganu
+114,N18,Bukit Payung,37,P037,Marang,4,Terengganu
+115,N19,Ru Rendang,37,P037,Marang,4,Terengganu
+116,N20,Pengkalan Berangan,37,P037,Marang,4,Terengganu
+117,N21,Telemung,38,P038,Hulu Terengganu,4,Terengganu
+118,N22,Manir,38,P038,Hulu Terengganu,4,Terengganu
+119,N23,Kuala Berang,38,P038,Hulu Terengganu,4,Terengganu
+120,N24,Ajil,38,P038,Hulu Terengganu,4,Terengganu
+121,N25,Bukit Besi,39,P039,Dungun,4,Terengganu
+122,N26,Rantau Abang,39,P039,Dungun,4,Terengganu
+123,N27,Sura,39,P039,Dungun,4,Terengganu
+124,N28,Paka,39,P039,Dungun,4,Terengganu
+125,N29,Kemasik,40,P040,Kemaman,4,Terengganu
+126,N30,Kijal,40,P040,Kemaman,4,Terengganu
+127,N31,Cukai,40,P040,Kemaman,4,Terengganu
+128,N32,Air Putih,40,P040,Kemaman,4,Terengganu
+129,N01,Penaga,41,P041,Kepala Batas,5,Pulau Pinang
+130,N02,Bertam,41,P041,Kepala Batas,5,Pulau Pinang
+131,N03,Pinang Tunggal,41,P041,Kepala Batas,5,Pulau Pinang
+132,N04,Permatang Berangan,42,P042,Tasek Gelugor,5,Pulau Pinang
+133,N05,Sungai Dua,42,P042,Tasek Gelugor,5,Pulau Pinang
+134,N06,Telok Ayer Tawar,42,P042,Tasek Gelugor,5,Pulau Pinang
+135,N07,Sungai Puyu,43,P043,Bagan,5,Pulau Pinang
+136,N08,Bagan Jermal,43,P043,Bagan,5,Pulau Pinang
+137,N09,Bagan Dalam,43,P043,Bagan,5,Pulau Pinang
+138,N10,Seberang Jaya,44,P044,Permatang Pauh,5,Pulau Pinang
+139,N11,Permatang Pasir,44,P044,Permatang Pauh,5,Pulau Pinang
+140,N12,Penanti,44,P044,Permatang Pauh,5,Pulau Pinang
+141,N13,Berapit,45,P045,Bukit Mertajam,5,Pulau Pinang
+142,N14,Machang Bubuk,45,P045,Bukit Mertajam,5,Pulau Pinang
+143,N15,Padang Lalang,45,P045,Bukit Mertajam,5,Pulau Pinang
+144,N16,Perai,46,P046,Batu Kawan,5,Pulau Pinang
+145,N17,Bukit Tengah,46,P046,Batu Kawan,5,Pulau Pinang
+146,N18,Bukit Tambun,46,P046,Batu Kawan,5,Pulau Pinang
+147,N19,Jawi,47,P047,Nibong Tebal,5,Pulau Pinang
+148,N20,Sungai Bakap,47,P047,Nibong Tebal,5,Pulau Pinang
+149,N21,Sungai Acheh,47,P047,Nibong Tebal,5,Pulau Pinang
+150,N22,Tanjong Bunga,48,P048,Bukit Bendera,5,Pulau Pinang
+151,N23,Air Putih,48,P048,Bukit Bendera,5,Pulau Pinang
+152,N24,Kebun Bunga,48,P048,Bukit Bendera,5,Pulau Pinang
+153,N25,Pulau Tikus,48,P048,Bukit Bendera,5,Pulau Pinang
+154,N26,Padang Kota,49,P049,Tanjong,5,Pulau Pinang
+155,N27,Pengkalan Kota,49,P049,Tanjong,5,Pulau Pinang
+156,N28,Komtar,49,P049,Tanjong,5,Pulau Pinang
+157,N29,Datok Keramat,50,P050,Jelutong,5,Pulau Pinang
+158,N30,Sungai Pinang,50,P050,Jelutong,5,Pulau Pinang
+159,N31,Batu Lancang,50,P050,Jelutong,5,Pulau Pinang
+160,N32,Seri Delima,51,P051,Bukit Gelugor,5,Pulau Pinang
+161,N33,Air Itam,51,P051,Bukit Gelugor,5,Pulau Pinang
+162,N34,Paya Terubong,51,P051,Bukit Gelugor,5,Pulau Pinang
+163,N35,Batu Uban,52,P052,Bayan Baru,5,Pulau Pinang
+164,N36,Pantai Jerejak,52,P052,Bayan Baru,5,Pulau Pinang
+165,N37,Batu Maung,52,P052,Bayan Baru,5,Pulau Pinang
+166,N38,Bayan Lepas,53,P053,Balik Pulau,5,Pulau Pinang
+167,N39,Pulau Betong,53,P053,Balik Pulau,5,Pulau Pinang
+168,N40,Telok Bahang,53,P053,Balik Pulau,5,Pulau Pinang
+169,N01,Pengkalan Hulu,54,P054,Gerik,6,Perak
+170,N02,Temengor,54,P054,Gerik,6,Perak
+171,N03,Kenering,55,P055,Lenggong,6,Perak
+172,N04,Kota Tampan,55,P055,Lenggong,6,Perak
+173,N05,Selama,56,P056,Larut,6,Perak
+174,N06,Kubu Gajah,56,P056,Larut,6,Perak
+175,N07,Batu Kurau,56,P056,Larut,6,Perak
+176,N08,Titi Serong,57,P057,Parit Buntar,6,Perak
+177,N09,Kuala Kurau,57,P057,Parit Buntar,6,Perak
+178,N10,Alor Pongsu,58,P058,Bagan Serai,6,Perak
+179,N11,Gunong Semanggol,58,P058,Bagan Serai,6,Perak
+180,N12,Selinsing,58,P058,Bagan Serai,6,Perak
+181,N13,Kuala Sepetang,59,P059,Bukit Gantang,6,Perak
+182,N14,Changkat Jering,59,P059,Bukit Gantang,6,Perak
+183,N15,Trong,59,P059,Bukit Gantang,6,Perak
+184,N16,Kamunting,60,P060,Taiping,6,Perak
+185,N17,Pokok Assam,60,P060,Taiping,6,Perak
+186,N18,Aulong,60,P060,Taiping,6,Perak
+187,N19,Chenderoh,61,P061,Padang Rengas,6,Perak
+188,N20,Lubok Merbau,61,P061,Padang Rengas,6,Perak
+189,N21,Lintang,62,P062,Sungai Siput,6,Perak
+190,N22,Jalong,62,P062,Sungai Siput,6,Perak
+191,N23,Manjoi,63,P063,Tambun,6,Perak
+192,N24,Hulu Kinta,63,P063,Tambun,6,Perak
+193,N25,Canning,64,P064,Ipoh Timor,6,Perak
+194,N26,Tebing Tinggi,64,P064,Ipoh Timor,6,Perak
+195,N27,Pasir Pinji,64,P064,Ipoh Timor,6,Perak
+196,N28,Bercham,65,P065,Ipoh Barat,6,Perak
+197,N29,Kepayang,65,P065,Ipoh Barat,6,Perak
+198,N30,Buntong,65,P065,Ipoh Barat,6,Perak
+199,N31,Jelapang,66,P066,Batu Gajah,6,Perak
+200,N32,Menglembu,66,P066,Batu Gajah,6,Perak
+201,N33,Tronoh,66,P066,Batu Gajah,6,Perak
+202,N34,Bukit Chandan,67,P067,Kuala Kangsar,6,Perak
+203,N35,Manong,67,P067,Kuala Kangsar,6,Perak
+204,N36,Pengkalan Baharu,68,P068,Beruas,6,Perak
+205,N37,Pantai Remis,68,P068,Beruas,6,Perak
+206,N38,Astaka,68,P068,Beruas,6,Perak
+207,N39,Belanja,69,P069,Parit,6,Perak
+208,N40,Bota,69,P069,Parit,6,Perak
+209,N41,Malim Nawar,70,P070,Kampar,6,Perak
+210,N42,Keranji,70,P070,Kampar,6,Perak
+211,N43,Tualang Sekah,70,P070,Kampar,6,Perak
+212,N44,Sungai Rapat,71,P071,Gopeng,6,Perak
+213,N45,Simpang Pulai,71,P071,Gopeng,6,Perak
+214,N46,Teja,71,P071,Gopeng,6,Perak
+215,N47,Chenderiang,72,P072,Tapah,6,Perak
+216,N48,Ayer Kuning,72,P072,Tapah,6,Perak
+217,N49,Sungai Manik,73,P073,Pasir Salak,6,Perak
+218,N50,Kampong Gajah,73,P073,Pasir Salak,6,Perak
+219,N51,Pasir Panjang,74,P074,Lumut,6,Perak
+220,N52,Pangkor,74,P074,Lumut,6,Perak
+221,N53,Rungkup,75,P075,Bagan Datuk,6,Perak
+222,N54,Hutan Melintang,75,P075,Bagan Datuk,6,Perak
+223,N55,Pasir Bedamar,76,P076,Teluk Intan,6,Perak
+224,N56,Changkat Jong,76,P076,Teluk Intan,6,Perak
+225,N57,Sungkai,77,P077,Tanjong Malim,6,Perak
+226,N58,Slim,77,P077,Tanjong Malim,6,Perak
+227,N59,Behrang,77,P077,Tanjong Malim,6,Perak
+228,N01,Tanah Rata,78,P078,Cameron Highlands,7,Pahang
+229,N02,Jelai,78,P078,Cameron Highlands,7,Pahang
+230,N03,Padang Tengku,79,P079,Lipis,7,Pahang
+231,N04,Cheka,79,P079,Lipis,7,Pahang
+232,N05,Benta,79,P079,Lipis,7,Pahang
+233,N06,Batu Talam,80,P080,Raub,7,Pahang
+234,N07,Tras,80,P080,Raub,7,Pahang
+235,N08,Dong,80,P080,Raub,7,Pahang
+236,N09,Tahan,81,P081,Jerantut,7,Pahang
+237,N10,Damak,81,P081,Jerantut,7,Pahang
+238,N11,Pulau Tawar,81,P081,Jerantut,7,Pahang
+239,N12,Beserah,82,P082,Indera Mahkota,7,Pahang
+240,N13,Semambu,82,P082,Indera Mahkota,7,Pahang
+241,N14,Teruntum,83,P083,Kuantan,7,Pahang
+242,N15,Tanjung Lumpur,83,P083,Kuantan,7,Pahang
+243,N16,Inderepura,83,P083,Kuantan,7,Pahang
+244,N17,Sungai Lembing,84,P084,Paya Besar,7,Pahang
+245,N18,Lepar,84,P084,Paya Besar,7,Pahang
+246,N19,Panching,84,P084,Paya Besar,7,Pahang
+247,N20,Pulau Manis,85,P085,Pekan,7,Pahang
+248,N21,Peramu Jaya,85,P085,Pekan,7,Pahang
+249,N22,Bebar,85,P085,Pekan,7,Pahang
+250,N23,Chini,85,P085,Pekan,7,Pahang
+251,N24,Luit,86,P086,Maran,7,Pahang
+252,N25,Kuala Sentul,86,P086,Maran,7,Pahang
+253,N26,Chenor,86,P086,Maran,7,Pahang
+254,N27,Jenderak,87,P087,Kuala Krau,7,Pahang
+255,N28,Kerdau,87,P087,Kuala Krau,7,Pahang
+256,N29,Jengka,87,P087,Kuala Krau,7,Pahang
+257,N30,Mentakab,88,P088,Temerloh,7,Pahang
+258,N31,Lanchang,88,P088,Temerloh,7,Pahang
+259,N32,Kuala Semantan,88,P088,Temerloh,7,Pahang
+260,N33,Bilut,89,P089,Bentong,7,Pahang
+261,N34,Ketari,89,P089,Bentong,7,Pahang
+262,N35,Sabai,89,P089,Bentong,7,Pahang
+263,N36,Pelangai,89,P089,Bentong,7,Pahang
+264,N37,Guai,90,P090,Bera,7,Pahang
+265,N38,Triang,90,P090,Bera,7,Pahang
+266,N39,Kemayan,90,P090,Bera,7,Pahang
+267,N40,Bukit Ibam,91,P091,Rompin,7,Pahang
+268,N41,Muadzam Shah,91,P091,Rompin,7,Pahang
+269,N42,Tioman,91,P091,Rompin,7,Pahang
+270,N01,Sungai Air Tawar,92,P092,Sabak Bernam,8,Selangor
+271,N02,Sabak,92,P092,Sabak Bernam,8,Selangor
+272,N03,Sungai Panjang,93,P093,Sungai Besar,8,Selangor
+273,N04,Sekinchan,93,P093,Sungai Besar,8,Selangor
+274,N05,Hulu Bernam,94,P094,Hulu Selangor,8,Selangor
+275,N06,Kuala Kubu Bharu,94,P094,Hulu Selangor,8,Selangor
+276,N07,Batang Kali,94,P094,Hulu Selangor,8,Selangor
+277,N08,Sungai Burong,95,P095,Tanjong Karang,8,Selangor
+278,N09,Permatang,95,P095,Tanjong Karang,8,Selangor
+279,N10,Bukit Melawati,96,P096,Kuala Selangor,8,Selangor
+280,N11,Ijok,96,P096,Kuala Selangor,8,Selangor
+281,N12,Jeram,96,P096,Kuala Selangor,8,Selangor
+282,N13,Kuang,97,P097,Selayang,8,Selangor
+283,N14,Rawang,97,P097,Selayang,8,Selangor
+284,N15,Taman Templer,97,P097,Selayang,8,Selangor
+285,N16,Sungai Tua,98,P098,Gombak,8,Selangor
+286,N17,Gombak Setia,98,P098,Gombak,8,Selangor
+287,N18,Hulu Kelang,98,P098,Gombak,8,Selangor
+288,N19,Bukit Antarabangsa,99,P099,Ampang,8,Selangor
+289,N20,Lembah Jaya,99,P099,Ampang,8,Selangor
+290,N21,Pandan Indah,100,P100,Pandan,8,Selangor
+291,N22,Teratai,100,P100,Pandan,8,Selangor
+292,N23,Dusun Tua,101,P101,Hulu Langat,8,Selangor
+293,N24,Semenyih,101,P101,Hulu Langat,8,Selangor
+294,N25,Kajang,102,P102,Bangi,8,Selangor
+295,N26,Sungai Ramal,102,P102,Bangi,8,Selangor
+296,N27,Balakong,102,P102,Bangi,8,Selangor
+297,N28,Seri Kembangan,103,P103,Puchong,8,Selangor
+298,N29,Seri Serdang,103,P103,Puchong,8,Selangor
+299,N30,Kinrara,104,P104,Subang,8,Selangor
+300,N31,Subang Jaya,104,P104,Subang,8,Selangor
+301,N32,Seri Setia,105,P105,Petaling Jaya,8,Selangor
+302,N33,Taman Medan,105,P105,Petaling Jaya,8,Selangor
+303,N34,Bukit Gasing,105,P105,Petaling Jaya,8,Selangor
+304,N35,Kampung Tunku,106,P106,Damansara,8,Selangor
+305,N36,Bandar Utama,106,P106,Damansara,8,Selangor
+306,N37,Bukit Lanjan,106,P106,Damansara,8,Selangor
+307,N38,Paya Jaras,107,P107,Sungai Buloh,8,Selangor
+308,N39,Kota Damansara,107,P107,Sungai Buloh,8,Selangor
+309,N40,Kota Anggerik,108,P108,Shah Alam,8,Selangor
+310,N41,Batu Tiga,108,P108,Shah Alam,8,Selangor
+311,N42,Meru,109,P109,Kapar,8,Selangor
+312,N43,Sementa,109,P109,Kapar,8,Selangor
+313,N44,Selat Klang,109,P109,Kapar,8,Selangor
+314,N45,Bandar Baru Klang,110,P110,Klang,8,Selangor
+315,N46,Pelabuhan Klang,110,P110,Klang,8,Selangor
+316,N47,Pandamaran,110,P110,Klang,8,Selangor
+317,N48,Sentosa,111,P111,Kota Raja,8,Selangor
+318,N49,Sungai Kandis,111,P111,Kota Raja,8,Selangor
+319,N50,Kota Kemuning,111,P111,Kota Raja,8,Selangor
+320,N51,Sijangkang,112,P112,Kuala Langat,8,Selangor
+321,N52,Banting,112,P112,Kuala Langat,8,Selangor
+322,N53,Morib,112,P112,Kuala Langat,8,Selangor
+323,N54,Tanjong Sepat,113,P113,Sepang,8,Selangor
+324,N55,Dengkil,113,P113,Sepang,8,Selangor
+325,N56,Sungai Pelek,113,P113,Sepang,8,Selangor
+326,N/A,N/A,114,P114,Kepong,9,W.P Kuala Lumpur
+327,N/A,N/A,115,P115,Batu,9,W.P Kuala Lumpur
+328,N/A,N/A,116,P116,Wangsa Maju,9,W.P Kuala Lumpur
+329,N/A,N/A,117,P117,Segambut,9,W.P Kuala Lumpur
+330,N/A,N/A,118,P118,Setiawangsa,9,W.P Kuala Lumpur
+331,N/A,N/A,119,P119,Titiwangsa,9,W.P Kuala Lumpur
+332,N/A,N/A,120,P120,Bukit Bintang,9,W.P Kuala Lumpur
+333,N/A,N/A,121,P121,Lembah Pantai,9,W.P Kuala Lumpur
+334,N/A,N/A,122,P122,Seputeh,9,W.P Kuala Lumpur
+335,N/A,N/A,123,P123,Cheras,9,W.P Kuala Lumpur
+336,N/A,N/A,124,P124,Bandar Tun Razak,9,W.P Kuala Lumpur
+337,N/A,N/A,125,P125,Putrajaya,10,W.P Putrajaya
+338,N01,Chennah,126,P126,Jelebu,11,Negeri Sembilan
+339,N02,Pertang,126,P126,Jelebu,11,Negeri Sembilan
+340,N03,Sungai Lui,126,P126,Jelebu,11,Negeri Sembilan
+341,N04,Klawang,126,P126,Jelebu,11,Negeri Sembilan
+342,N05,Serting,127,P127,Jempol,11,Negeri Sembilan
+343,N06,Palong,127,P127,Jempol,11,Negeri Sembilan
+344,N07,Jeram Padang,127,P127,Jempol,11,Negeri Sembilan
+345,N08,Bahau,127,P127,Jempol,11,Negeri Sembilan
+346,N09,Lenggeng,128,P128,Seremban,11,Negeri Sembilan
+347,N10,Nilai,128,P128,Seremban,11,Negeri Sembilan
+348,N11,Lobak,128,P128,Seremban,11,Negeri Sembilan
+349,N12,Temiang,128,P128,Seremban,11,Negeri Sembilan
+350,N13,Sikamat,128,P128,Seremban,11,Negeri Sembilan
+351,N14,Ampangan,128,P128,Seremban,11,Negeri Sembilan
+352,N15,Juasseh,129,P129,Kuala Pilah,11,Negeri Sembilan
+353,N16,Seri Menanti,129,P129,Kuala Pilah,11,Negeri Sembilan
+354,N17,Senaling,129,P129,Kuala Pilah,11,Negeri Sembilan
+355,N18,Pilah,129,P129,Kuala Pilah,11,Negeri Sembilan
+356,N19,Johol,129,P129,Kuala Pilah,11,Negeri Sembilan
+357,N20,Labu,130,P130,Rasah,11,Negeri Sembilan
+358,N21,Bukit Kepayang,130,P130,Rasah,11,Negeri Sembilan
+359,N22,Rahang,130,P130,Rasah,11,Negeri Sembilan
+360,N23,Mambau,130,P130,Rasah,11,Negeri Sembilan
+361,N24,Seremban Jaya,130,P130,Rasah,11,Negeri Sembilan
+362,N25,Paroi,131,P131,Rembau,11,Negeri Sembilan
+363,N26,Chembong,131,P131,Rembau,11,Negeri Sembilan
+364,N27,Rantau,131,P131,Rembau,11,Negeri Sembilan
+365,N28,Kota,131,P131,Rembau,11,Negeri Sembilan
+366,N29,Chuah,132,P132,Port Dickson,11,Negeri Sembilan
+367,N30,Lukut,132,P132,Port Dickson,11,Negeri Sembilan
+368,N31,Bagan Pinang,132,P132,Port Dickson,11,Negeri Sembilan
+369,N32,Linggi,132,P132,Port Dickson,11,Negeri Sembilan
+370,N33,Sri Tanjung,132,P132,Port Dickson,11,Negeri Sembilan
+371,N34,Gemas,133,P133,Tampin,11,Negeri Sembilan
+372,N35,Gemencheh,133,P133,Tampin,11,Negeri Sembilan
+373,N36,Repah,133,P133,Tampin,11,Negeri Sembilan
+374,N01,Kuala Linggi,134,P134,Masjid Tanah,12,Melaka
+375,N02,Tanjung Bidara,134,P134,Masjid Tanah,12,Melaka
+376,N03,Ayer Limau,134,P134,Masjid Tanah,12,Melaka
+377,N04,Lendu,134,P134,Masjid Tanah,12,Melaka
+378,N05,Taboh Naning,134,P134,Masjid Tanah,12,Melaka
+379,N06,Rembia,135,P135,Alor Gajah,12,Melaka
+380,N07,Gadek,135,P135,Alor Gajah,12,Melaka
+381,N08,Machap Jaya,135,P135,Alor Gajah,12,Melaka
+382,N09,Durian Tunggal,135,P135,Alor Gajah,12,Melaka
+383,N10,Asahan,135,P135,Alor Gajah,12,Melaka
+384,N11,Sungai Udang,136,P136,Tangga Batu,12,Melaka
+385,N12,Pantai Kundor,136,P136,Tangga Batu,12,Melaka
+386,N13,Paya Rumput,136,P136,Tangga Batu,12,Melaka
+387,N14,Kelebang,136,P136,Tangga Batu,12,Melaka
+388,N15,Pengkalan Batu,137,P137,Hang Tuah Jaya,12,Melaka
+389,N16,Ayer Keroh,137,P137,Hang Tuah Jaya,12,Melaka
+390,N17,Bukit Katil,137,P137,Hang Tuah Jaya,12,Melaka
+391,N18,Ayer Molek,137,P137,Hang Tuah Jaya,12,Melaka
+392,N19,Kesidang,138,P138,Kota Melaka,12,Melaka
+393,N20,Kota Laksamana,138,P138,Kota Melaka,12,Melaka
+394,N21,Duyong,138,P138,Kota Melaka,12,Melaka
+395,N22,Bandar Hilir,138,P138,Kota Melaka,12,Melaka
+396,N23,Telok Mas,138,P138,Kota Melaka,12,Melaka
+397,N24,Bemban,139,P139,Jasin,12,Melaka
+398,N25,Rim,139,P139,Jasin,12,Melaka
+399,N26,Serkam,139,P139,Jasin,12,Melaka
+400,N27,Merlimau,139,P139,Jasin,12,Melaka
+401,N28,Sungai Rambai,139,P139,Jasin,12,Melaka
+402,N01,Buloh Kasap,140,P140,Segamat,13,Johor
+403,N02,Jementah,140,P140,Segamat,13,Johor
+404,N03,Pemanis,141,P141,Sekijang,13,Johor
+405,N04,Kemelah,141,P141,Sekijang,13,Johor
+406,N05,Tenang,142,P142,Labis,13,Johor
+407,N06,Bekok,142,P142,Labis,13,Johor
+408,N07,Bukit Kepong,143,P143,Pagoh,13,Johor
+409,N08,Bukit Pasir,143,P143,Pagoh,13,Johor
+410,N09,Gambir,144,P144,Ledang,13,Johor
+411,N10,Tangkak,144,P144,Ledang,13,Johor
+412,N11,Serom,144,P144,Ledang,13,Johor
+413,N12,Bentayan,145,P145,Bakri,13,Johor
+414,N13,Simpang Jeram,145,P145,Bakri,13,Johor
+415,N14,Bukit Naning,145,P145,Bakri,13,Johor
+416,N15,Maharani,146,P146,Muar,13,Johor
+417,N16,Sungai Balang,146,P146,Muar,13,Johor
+418,N17,Semerah,147,P147,Parit Sulong,13,Johor
+419,N18,Sri Medan,147,P147,Parit Sulong,13,Johor
+420,N19,Yong Peng,148,P148,Ayer Hitam,13,Johor
+421,N20,Semarang,148,P148,Ayer Hitam,13,Johor
+422,N21,Parit Yaani,149,P149,Sri Gading,13,Johor
+423,N22,Parit Raja,149,P149,Sri Gading,13,Johor
+424,N23,Penggaram,150,P150,Batu Pahat,13,Johor
+425,N24,Senggarang,150,P150,Batu Pahat,13,Johor
+426,N25,Rengit,150,P150,Batu Pahat,13,Johor
+427,N26,Machap,151,P151,Simpang Renggam,13,Johor
+428,N27,Layang-Layang,151,P151,Simpang Renggam,13,Johor
+429,N28,Mengkibol,152,P152,Kluang,13,Johor
+430,N29,Mahkota,152,P152,Kluang,13,Johor
+431,N30,Paloh,153,P153,Sembrong,13,Johor
+432,N31,Kahang,153,P153,Sembrong,13,Johor
+433,N32,Endau,154,P154,Mersing,13,Johor
+434,N33,Tenggaroh,154,P154,Mersing,13,Johor
+435,N34,Panti,155,P155,Tenggara,13,Johor
+436,N35,Pasir Raja,155,P155,Tenggara,13,Johor
+437,N36,Sedili,156,P156,Kota Tinggi,13,Johor
+438,N37,Johor Lama,156,P156,Kota Tinggi,13,Johor
+439,N38,Penawar,157,P157,Pengerang,13,Johor
+440,N39,Tanjung Surat,157,P157,Pengerang,13,Johor
+441,N40,Tiram,158,P158,Tebrau,13,Johor
+442,N41,Puteri Wangsa,158,P158,Tebrau,13,Johor
+443,N42,Johor Jaya,159,P159,Pasir Gudang,13,Johor
+444,N43,Permas,159,P159,Pasir Gudang,13,Johor
+445,N44,Larkin,160,P160,Johor Bahru,13,Johor
+446,N45,Stulang,160,P160,Johor Bahru,13,Johor
+447,N46,Perling,161,P161,Pulai,13,Johor
+448,N47,Kempas,161,P161,Pulai,13,Johor
+449,N48,Skudai,162,P162,Iskandar Puteri,13,Johor
+450,N49,Kota Iskandar,162,P162,Iskandar Puteri,13,Johor
+451,N50,Bukit Permai,163,P163,Kulai,13,Johor
+452,N51,Bukit Batu,163,P163,Kulai,13,Johor
+453,N52,Senai,163,P163,Kulai,13,Johor
+454,N53,Benut,164,P164,Pontian,13,Johor
+455,N54,Pulai Sebatang,164,P164,Pontian,13,Johor
+456,N55,Pekan Nanas,165,P165,Tanjung Piai,13,Johor
+457,N56,Kukup,165,P165,Tanjung Piai,13,Johor
+458,N/A,N/A,166,P166,Labuan,14,W.P Labuan
+459,N01,Banggi,167,P167,Kudat,15,Sabah
+460,N02,Bengkoka,167,P167,Kudat,15,Sabah
+461,N03,Pitas,167,P167,Kudat,15,Sabah
+462,N04,Tanjong Kapor,167,P167,Kudat,15,Sabah
+463,N05,Matunggong,168,P168,Kota Marudu,15,Sabah
+464,N06,Bandau,168,P168,Kota Marudu,15,Sabah
+465,N07,Tandek,168,P168,Kota Marudu,15,Sabah
+466,N08,Pintasan,169,P169,Kota Belud,15,Sabah
+467,N09,Tempasuk,169,P169,Kota Belud,15,Sabah
+468,N10,Usukan,169,P169,Kota Belud,15,Sabah
+469,N11,Kadamaian,169,P169,Kota Belud,15,Sabah
+470,N12,Sulaman,170,P170,Tuaran,15,Sabah
+471,N13,Pantai Dalit,170,P170,Tuaran,15,Sabah
+472,N14,Tamparuli,170,P170,Tuaran,15,Sabah
+473,N15,Kiulu,170,P170,Tuaran,15,Sabah
+474,N16,Karambunai,171,P171,Sepanggar,15,Sabah
+475,N17,Darau,171,P171,Sepanggar,15,Sabah
+476,N18,Inanam,171,P171,Sepanggar,15,Sabah
+477,N19,Likas,172,P172,Kota Kinabalu,15,Sabah
+478,N20,Api-Api,172,P172,Kota Kinabalu,15,Sabah
+479,N21,Luyang,172,P172,Kota Kinabalu,15,Sabah
+480,N22,Tanjung Aru,173,P173,Putatan,15,Sabah
+481,N23,Petagas,173,P173,Putatan,15,Sabah
+482,N24,Tanjung Keramat,173,P173,Putatan,15,Sabah
+483,N25,Kapayan,174,P174,Penampang,15,Sabah
+484,N26,Moyog,174,P174,Penampang,15,Sabah
+485,N27,Limbahau,175,P175,Papar,15,Sabah
+486,N28,Kawang,175,P175,Papar,15,Sabah
+487,N29,Pantai Manis,175,P175,Papar,15,Sabah
+488,N30,Bongawan,176,P176,Kimanis,15,Sabah
+489,N31,Membakut,176,P176,Kimanis,15,Sabah
+490,N32,Klias,177,P177,Beaufort,15,Sabah
+491,N33,Kuala Penyu,177,P177,Beaufort,15,Sabah
+492,N34,Lumadan,178,P178,Sipitang,15,Sabah
+493,N35,Sindumin,178,P178,Sipitang,15,Sabah
+494,N36,Kundasang,179,P179,Ranau,15,Sabah
+495,N37,Karanaan,179,P179,Ranau,15,Sabah
+496,N38,Paginatan,179,P179,Ranau,15,Sabah
+497,N39,Tambunan,180,P180,Keningau,15,Sabah
+498,N40,Bingkor,180,P180,Keningau,15,Sabah
+499,N41,Liawan,180,P180,Keningau,15,Sabah
+500,N42,Melalap,181,P181,Tenom,15,Sabah
+501,N43,Kemabong,181,P181,Tenom,15,Sabah
+502,N44,Tulid,182,P182,Pensiangan,15,Sabah
+503,N45,Sook,182,P182,Pensiangan,15,Sabah
+504,N46,Nabawan,182,P182,Pensiangan,15,Sabah
+505,N47,Telupid,183,P183,Beluran,15,Sabah
+506,N48,Sugut,183,P183,Beluran,15,Sabah
+507,N49,Labuk,183,P183,Beluran,15,Sabah
+508,N50,Gum-Gum,184,P184,Libaran,15,Sabah
+509,N51,Sungai Manila,184,P184,Libaran,15,Sabah
+510,N52,Sungai Sibuga,184,P184,Libaran,15,Sabah
+511,N53,Sekong,185,P185,Batu Sapi,15,Sabah
+512,N54,Karamunting,185,P185,Batu Sapi,15,Sabah
+513,N55,Elopura,186,P186,Sandakan,15,Sabah
+514,N56,Tanjong Papat,186,P186,Sandakan,15,Sabah
+515,N57,Kuamut,187,P187,Kinabatangan,15,Sabah
+516,N58,Lamag,187,P187,Kinabatangan,15,Sabah
+517,N59,Sukau,187,P187,Kinabatangan,15,Sabah
+518,N60,Tungku,188,P188,Lahad Datu,15,Sabah
+519,N61,Segama,188,P188,Lahad Datu,15,Sabah
+520,N62,Silam,188,P188,Lahad Datu,15,Sabah
+521,N63,Kunak,188,P188,Lahad Datu,15,Sabah
+522,N64,Sulabayan,189,P189,Semporna,15,Sabah
+523,N65,Senallang,189,P189,Semporna,15,Sabah
+524,N66,Bugaya,189,P189,Semporna,15,Sabah
+525,N67,Balung,190,P190,Tawau,15,Sabah
+526,N68,Apas,190,P190,Tawau,15,Sabah
+527,N69,Sri Tanjong,190,P190,Tawau,15,Sabah
+528,N70,Kukusan,191,P191,Kalabakan,15,Sabah
+529,N71,Tanjung Batu,191,P191,Kalabakan,15,Sabah
+530,N72,Merotai,191,P191,Kalabakan,15,Sabah
+531,N73,Sebatik,191,P191,Kalabakan,15,Sabah
+532,N01,Opar,192,P192,Mas Gading,16,Sarawak
+533,N02,Tasik Biru,192,P192,Mas Gading,16,Sarawak
+534,N03,Tanjong Datu,193,P193,Santubong,16,Sarawak
+535,N04,Pantai Damai,193,P193,Santubong,16,Sarawak
+536,N05,Demak Laut,193,P193,Santubong,16,Sarawak
+537,N06,Tupong,194,P194,Petra Jaya,16,Sarawak
+538,N07,Samariang,194,P194,Petra Jaya,16,Sarawak
+539,N08,Satok,194,P194,Petra Jaya,16,Sarawak
+540,N09,Padungan,195,P195,Bandar Kuching,16,Sarawak
+541,N10,Pending,195,P195,Bandar Kuching,16,Sarawak
+542,N11,Batu Lintang,195,P195,Bandar Kuching,16,Sarawak
+543,N12,Kota Sentosa,196,P196,Stampin,16,Sarawak
+544,N13,Batu Kitang,196,P196,Stampin,16,Sarawak
+545,N14,Batu Kawah,196,P196,Stampin,16,Sarawak
+546,N15,Asajaya,197,P197,Kota Samarahan,16,Sarawak
+547,N16,Muara Tuang,197,P197,Kota Samarahan,16,Sarawak
+548,N17,Stakan,197,P197,Kota Samarahan,16,Sarawak
+549,N18,Serembu,198,P198,Puncak Borneo,16,Sarawak
+550,N19,Mambong,198,P198,Puncak Borneo,16,Sarawak
+551,N20,Tarat,198,P198,Puncak Borneo,16,Sarawak
+552,N21,Tebedu,199,P199,Serian,16,Sarawak
+553,N22,Kedup,199,P199,Serian,16,Sarawak
+554,N23,Bukit Semuja,199,P199,Serian,16,Sarawak
+555,N24,Sadong Jaya,200,P200,Batang Sadong,16,Sarawak
+556,N25,Simunjan,200,P200,Batang Sadong,16,Sarawak
+557,N26,Gedong,200,P200,Batang Sadong,16,Sarawak
+558,N27,Sebuyau,201,P201,Batang Lupar,16,Sarawak
+559,N28,Lingga,201,P201,Batang Lupar,16,Sarawak
+560,N29,Beting Maro,201,P201,Batang Lupar,16,Sarawak
+561,N30,Balai Ringin,202,P202,Sri Aman,16,Sarawak
+562,N31,Bukit Begunan,202,P202,Sri Aman,16,Sarawak
+563,N32,Simanggang,202,P202,Sri Aman,16,Sarawak
+564,N33,Engkilili,203,P203,Lubok Antu,16,Sarawak
+565,N34,Batang Ai,203,P203,Lubok Antu,16,Sarawak
+566,N35,Saribas,204,P204,Betong,16,Sarawak
+567,N36,Layar,204,P204,Betong,16,Sarawak
+568,N37,Bukit Saban,204,P204,Betong,16,Sarawak
+569,N38,Kalaka,205,P205,Saratok,16,Sarawak
+570,N39,Krian,205,P205,Saratok,16,Sarawak
+571,N40,Kabong,205,P205,Saratok,16,Sarawak
+572,N41,Kuala Rajang,206,P206,Tanjong Manis,16,Sarawak
+573,N42,Semop,206,P206,Tanjong Manis,16,Sarawak
+574,N43,Daro,207,P207,Igan,16,Sarawak
+575,N44,Jemoreng,207,P207,Igan,16,Sarawak
+576,N45,Repok,208,P208,Sarikei,16,Sarawak
+577,N46,Meradong,208,P208,Sarikei,16,Sarawak
+578,N47,Pakan,209,P209,Julau,16,Sarawak
+579,N48,Meluan,209,P209,Julau,16,Sarawak
+580,N49,Ngemah,210,P210,Kanowit,16,Sarawak
+581,N50,Machan,210,P210,Kanowit,16,Sarawak
+582,N51,Bukit Assek,211,P211,Lanang,16,Sarawak
+583,N52,Dudong,211,P211,Lanang,16,Sarawak
+584,N53,Bawang Assan,212,P212,Sibu,16,Sarawak
+585,N54,Pelawan,212,P212,Sibu,16,Sarawak
+586,N55,Nangka,212,P212,Sibu,16,Sarawak
+587,N56,Dalat,213,P213,Mukah,16,Sarawak
+588,N57,Tellian,213,P213,Mukah,16,Sarawak
+589,N58,Balingian,213,P213,Mukah,16,Sarawak
+590,N59,Tamin,214,P214,Selangau,16,Sarawak
+591,N60,Kakus,214,P214,Selangau,16,Sarawak
+592,N61,Pelagus,215,P215,Kapit,16,Sarawak
+593,N62,Katibas,215,P215,Kapit,16,Sarawak
+594,N63,Bukit Goram,215,P215,Kapit,16,Sarawak
+595,N64,Baleh,216,P216,Hulu Rajang,16,Sarawak
+596,N65,Belaga,216,P216,Hulu Rajang,16,Sarawak
+597,N66,Murum,216,P216,Hulu Rajang,16,Sarawak
+598,N67,Jepak,217,P217,Bintulu,16,Sarawak
+599,N68,Tanjong Batu,217,P217,Bintulu,16,Sarawak
+600,N69,Kemena,217,P217,Bintulu,16,Sarawak
+601,N70,Samalaju,217,P217,Bintulu,16,Sarawak
+602,N71,Bekenu,218,P218,Sibuti,16,Sarawak
+603,N72,Lambir,218,P218,Sibuti,16,Sarawak
+604,N73,Piasau,219,P219,Miri,16,Sarawak
+605,N74,Pujut,219,P219,Miri,16,Sarawak
+606,N75,Senadin,219,P219,Miri,16,Sarawak
+607,N76,Marudi,220,P220,Baram,16,Sarawak
+608,N77,Telang Usan,220,P220,Baram,16,Sarawak
+609,N78,Mulu,220,P220,Baram,16,Sarawak
+610,N79,Bukit Kota,221,P221,Limbang,16,Sarawak
+611,N80,Batu Danau,221,P221,Limbang,16,Sarawak
+612,N81,Ba'kelalan,222,P222,Lawas,16,Sarawak
+613,N82,Bukit Sari,222,P222,Lawas,16,Sarawak

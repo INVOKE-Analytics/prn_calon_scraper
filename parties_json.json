@@ -1,0 +1,143 @@
+{
+	"table": "UnknownTable",
+	"rows": [
+		{
+			"id": 2,
+			"name": "BARISAN NASIONAL",
+			"name_1": "Barisan Nasional",
+			"abbreviation": "BN"
+		},
+		{
+			"id": 20,
+			"name": "PARTI BERSATU RAKYAT SABAH",
+			"name_1": "Barisan Nasional",
+			"abbreviation": "BN"
+		},
+		{
+			"id": 12,
+			"name": "PARTI BUMIPUTERA PERKASA MALAYSIA",
+			"name_1": "Gerakan Tanah Air",
+			"abbreviation": "GTA"
+		},
+		{
+			"id": 4,
+			"name": "PARTI PEJUANG TANAHAIR",
+			"name_1": "Gerakan Tanah Air",
+			"abbreviation": "GTA"
+		},
+		{
+			"id": 14,
+			"name": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 23,
+			"name": "PARTI SEDAR RAKYAT SARAWAK",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 22,
+			"name": "PARTY BUMI KENYALANG",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 21,
+			"name": "PARTI PERPADUAN RAKYAT SABAH",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 19,
+			"name": "PARTI SOSIALIS MALAYSIA",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 18,
+			"name": "PARTI UTAMA RAKYAT",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 17,
+			"name": "PARTI BANGSA DAYAK SARAWAK",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 16,
+			"name": "PARTI BANGSA MALAYSIA ",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 15,
+			"name": "IKATAN DEMOKRATIK MALAYSIA",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 11,
+			"name": "PARTI SARAWAK BERSATU",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 10,
+			"name": "PARTI GABUNGAN RAKYAT SABAH",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 9,
+			"name": "PARTI RAKYAT MALAYSIA",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 7,
+			"name": "GABUNGAN PARTI SARAWAK",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 6,
+			"name": "PARTI WARISAN SABAH",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 5,
+			"name": "BEBAS",
+			"name_1": "Lain-lain",
+			"abbreviation": "LAIN"
+		},
+		{
+			"id": 13,
+			"name": "DEMOCRATIC ACTION PARTY, MALAYSIA",
+			"name_1": "Pakatan Harapan",
+			"abbreviation": "PH"
+		},
+		{
+			"id": 1,
+			"name": "PAKATAN HARAPAN",
+			"name_1": "Pakatan Harapan",
+			"abbreviation": "PH"
+		},
+		{
+			"id": 8,
+			"name": "PARTI ISLAM SE MALAYSIA",
+			"name_1": "Perikatan Nasional",
+			"abbreviation": "PN"
+		},
+		{
+			"id": 3,
+			"name": "PERIKATAN NASIONAL",
+			"name_1": "Perikatan Nasional",
+			"abbreviation": "PN"
+		}
+	]
+}

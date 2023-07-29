@@ -1,0 +1,6136 @@
+{
+	"table": "UnknownTable",
+	"rows":
+	[
+		{
+			"dunId": 1,
+			"dunCode": "N01",
+			"dunName": "Titi Tinggi",
+			"parliamentId": 1,
+			"parliamentCode": "P001",
+			"parliamentName": "Padang Besar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 2,
+			"dunCode": "N02",
+			"dunName": "Beseri",
+			"parliamentId": 1,
+			"parliamentCode": "P001",
+			"parliamentName": "Padang Besar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 3,
+			"dunCode": "N03",
+			"dunName": "Chuping",
+			"parliamentId": 1,
+			"parliamentCode": "P001",
+			"parliamentName": "Padang Besar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 4,
+			"dunCode": "N04",
+			"dunName": "Mata Ayer",
+			"parliamentId": 1,
+			"parliamentCode": "P001",
+			"parliamentName": "Padang Besar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 5,
+			"dunCode": "N05",
+			"dunName": "Santan",
+			"parliamentId": 1,
+			"parliamentCode": "P001",
+			"parliamentName": "Padang Besar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 6,
+			"dunCode": "N06",
+			"dunName": "Bintong",
+			"parliamentId": 2,
+			"parliamentCode": "P002",
+			"parliamentName": "Kangar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 7,
+			"dunCode": "N07",
+			"dunName": "Sena",
+			"parliamentId": 2,
+			"parliamentCode": "P002",
+			"parliamentName": "Kangar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 8,
+			"dunCode": "N08",
+			"dunName": "Indera Kayangan",
+			"parliamentId": 2,
+			"parliamentCode": "P002",
+			"parliamentName": "Kangar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 9,
+			"dunCode": "N09",
+			"dunName": "Kuala Perlis",
+			"parliamentId": 2,
+			"parliamentCode": "P002",
+			"parliamentName": "Kangar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 10,
+			"dunCode": "N10",
+			"dunName": "Kayang",
+			"parliamentId": 2,
+			"parliamentCode": "P002",
+			"parliamentName": "Kangar",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 11,
+			"dunCode": "N11",
+			"dunName": "Pauh",
+			"parliamentId": 3,
+			"parliamentCode": "P003",
+			"parliamentName": "Arau",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 12,
+			"dunCode": "N12",
+			"dunName": "Tambun Tulang",
+			"parliamentId": 3,
+			"parliamentCode": "P003",
+			"parliamentName": "Arau",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 13,
+			"dunCode": "N13",
+			"dunName": "Guar Sanji",
+			"parliamentId": 3,
+			"parliamentCode": "P003",
+			"parliamentName": "Arau",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 14,
+			"dunCode": "N14",
+			"dunName": "Simpang Empat",
+			"parliamentId": 3,
+			"parliamentCode": "P003",
+			"parliamentName": "Arau",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 15,
+			"dunCode": "N15",
+			"dunName": "Sanglang",
+			"parliamentId": 3,
+			"parliamentCode": "P003",
+			"parliamentName": "Arau",
+			"stateId": 1,
+			"stateName": "Perlis"
+		},
+		{
+			"dunId": 16,
+			"dunCode": "N01",
+			"dunName": "Ayer Hangat",
+			"parliamentId": 4,
+			"parliamentCode": "P004",
+			"parliamentName": "Langkawi",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 17,
+			"dunCode": "N02",
+			"dunName": "Kuah",
+			"parliamentId": 4,
+			"parliamentCode": "P004",
+			"parliamentName": "Langkawi",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 18,
+			"dunCode": "N03",
+			"dunName": "Kota Siputeh",
+			"parliamentId": 5,
+			"parliamentCode": "P005",
+			"parliamentName": "Jerlun",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 19,
+			"dunCode": "N04",
+			"dunName": "Ayer Hitam",
+			"parliamentId": 5,
+			"parliamentCode": "P005",
+			"parliamentName": "Jerlun",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 20,
+			"dunCode": "N05",
+			"dunName": "Bukit Kayu Hitam",
+			"parliamentId": 6,
+			"parliamentCode": "P006",
+			"parliamentName": "Kubang Pasu",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 21,
+			"dunCode": "N06",
+			"dunName": "Jitra",
+			"parliamentId": 6,
+			"parliamentCode": "P006",
+			"parliamentName": "Kubang Pasu",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 22,
+			"dunCode": "N07",
+			"dunName": "Kuala Nerang",
+			"parliamentId": 7,
+			"parliamentCode": "P007",
+			"parliamentName": "Padang Terap",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 23,
+			"dunCode": "N08",
+			"dunName": "Pedu",
+			"parliamentId": 7,
+			"parliamentCode": "P007",
+			"parliamentName": "Padang Terap",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 24,
+			"dunCode": "N09",
+			"dunName": "Bukit Lada",
+			"parliamentId": 8,
+			"parliamentCode": "P008",
+			"parliamentName": "Pokok Sena",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 25,
+			"dunCode": "N10",
+			"dunName": "Bukit Pinang",
+			"parliamentId": 8,
+			"parliamentCode": "P008",
+			"parliamentName": "Pokok Sena",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 26,
+			"dunCode": "N11",
+			"dunName": "Derga",
+			"parliamentId": 8,
+			"parliamentCode": "P008",
+			"parliamentName": "Pokok Sena",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 27,
+			"dunCode": "N12",
+			"dunName": "Suka Menanti",
+			"parliamentId": 9,
+			"parliamentCode": "P009",
+			"parliamentName": "Alor Setar",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 28,
+			"dunCode": "N13",
+			"dunName": "Kota Darul Aman",
+			"parliamentId": 9,
+			"parliamentCode": "P009",
+			"parliamentName": "Alor Setar",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 29,
+			"dunCode": "N14",
+			"dunName": "Alor Mengkudu",
+			"parliamentId": 9,
+			"parliamentCode": "P009",
+			"parliamentName": "Alor Setar",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 30,
+			"dunCode": "N15",
+			"dunName": "Anak Bukit",
+			"parliamentId": 10,
+			"parliamentCode": "P010",
+			"parliamentName": "Kuala Kedah",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 31,
+			"dunCode": "N16",
+			"dunName": "Kubang Rotan",
+			"parliamentId": 10,
+			"parliamentCode": "P010",
+			"parliamentName": "Kuala Kedah",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 32,
+			"dunCode": "N17",
+			"dunName": "Pengkalan Kundor",
+			"parliamentId": 10,
+			"parliamentCode": "P010",
+			"parliamentName": "Kuala Kedah",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 33,
+			"dunCode": "N18",
+			"dunName": "Tokai",
+			"parliamentId": 11,
+			"parliamentCode": "P011",
+			"parliamentName": "Pendang",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 34,
+			"dunCode": "N19",
+			"dunName": "Sungai Tiang",
+			"parliamentId": 11,
+			"parliamentCode": "P011",
+			"parliamentName": "Pendang",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 35,
+			"dunCode": "N20",
+			"dunName": "Sungai Limau",
+			"parliamentId": 12,
+			"parliamentCode": "P012",
+			"parliamentName": "Jerai",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 36,
+			"dunCode": "N21",
+			"dunName": "Guar Chempedak",
+			"parliamentId": 12,
+			"parliamentCode": "P012",
+			"parliamentName": "Jerai",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 37,
+			"dunCode": "N22",
+			"dunName": "Gurun",
+			"parliamentId": 12,
+			"parliamentCode": "P012",
+			"parliamentName": "Jerai",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 38,
+			"dunCode": "N23",
+			"dunName": "Belantek",
+			"parliamentId": 13,
+			"parliamentCode": "P013",
+			"parliamentName": "Sik",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 39,
+			"dunCode": "N24",
+			"dunName": "Jeneri",
+			"parliamentId": 13,
+			"parliamentCode": "P013",
+			"parliamentName": "Sik",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 40,
+			"dunCode": "N25",
+			"dunName": "Bukit Selambau",
+			"parliamentId": 14,
+			"parliamentCode": "P014",
+			"parliamentName": "Merbok",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 41,
+			"dunCode": "N26",
+			"dunName": "Tanjong Dawai",
+			"parliamentId": 14,
+			"parliamentCode": "P014",
+			"parliamentName": "Merbok",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 42,
+			"dunCode": "N27",
+			"dunName": "Pantai Merdeka",
+			"parliamentId": 15,
+			"parliamentCode": "P015",
+			"parliamentName": "Sungai Petani",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 43,
+			"dunCode": "N28",
+			"dunName": "Bakar Arang",
+			"parliamentId": 15,
+			"parliamentCode": "P015",
+			"parliamentName": "Sungai Petani",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 44,
+			"dunCode": "N29",
+			"dunName": "Sidam",
+			"parliamentId": 15,
+			"parliamentCode": "P015",
+			"parliamentName": "Sungai Petani",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 45,
+			"dunCode": "N30",
+			"dunName": "Bayu",
+			"parliamentId": 16,
+			"parliamentCode": "P016",
+			"parliamentName": "Baling",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 46,
+			"dunCode": "N31",
+			"dunName": "Kupang",
+			"parliamentId": 16,
+			"parliamentCode": "P016",
+			"parliamentName": "Baling",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 47,
+			"dunCode": "N32",
+			"dunName": "Kuala Ketil",
+			"parliamentId": 16,
+			"parliamentCode": "P016",
+			"parliamentName": "Baling",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 48,
+			"dunCode": "N33",
+			"dunName": "Merbau Pulas",
+			"parliamentId": 17,
+			"parliamentCode": "P017",
+			"parliamentName": "Padang Serai",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 49,
+			"dunCode": "N34",
+			"dunName": "Lunas",
+			"parliamentId": 17,
+			"parliamentCode": "P017",
+			"parliamentName": "Padang Serai",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 50,
+			"dunCode": "N35",
+			"dunName": "Kulim",
+			"parliamentId": 18,
+			"parliamentCode": "P018",
+			"parliamentName": "Kulim-Bandar Baharu",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 51,
+			"dunCode": "N36",
+			"dunName": "Bandar Baharu",
+			"parliamentId": 18,
+			"parliamentCode": "P018",
+			"parliamentName": "Kulim-Bandar Baharu",
+			"stateId": 2,
+			"stateName": "Kedah"
+		},
+		{
+			"dunId": 52,
+			"dunCode": "N01",
+			"dunName": "Pengkalan Kubor",
+			"parliamentId": 19,
+			"parliamentCode": "P019",
+			"parliamentName": "Tumpat",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 53,
+			"dunCode": "N02",
+			"dunName": "Kelaboran",
+			"parliamentId": 19,
+			"parliamentCode": "P019",
+			"parliamentName": "Tumpat",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 54,
+			"dunCode": "N03",
+			"dunName": "Pasir Pekan",
+			"parliamentId": 19,
+			"parliamentCode": "P019",
+			"parliamentName": "Tumpat",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 55,
+			"dunCode": "N04",
+			"dunName": "Wakaf Bharu",
+			"parliamentId": 19,
+			"parliamentCode": "P019",
+			"parliamentName": "Tumpat",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 56,
+			"dunCode": "N05",
+			"dunName": "Kijang",
+			"parliamentId": 20,
+			"parliamentCode": "P020",
+			"parliamentName": "Pengkalan Chepa",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 57,
+			"dunCode": "N06",
+			"dunName": "Chempaka",
+			"parliamentId": 20,
+			"parliamentCode": "P020",
+			"parliamentName": "Pengkalan Chepa",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 58,
+			"dunCode": "N07",
+			"dunName": "Panchor",
+			"parliamentId": 20,
+			"parliamentCode": "P020",
+			"parliamentName": "Pengkalan Chepa",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 59,
+			"dunCode": "N08",
+			"dunName": "Tanjong Mas",
+			"parliamentId": 21,
+			"parliamentCode": "P021",
+			"parliamentName": "Kota Bharu",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 60,
+			"dunCode": "N09",
+			"dunName": "Kota Lama",
+			"parliamentId": 21,
+			"parliamentCode": "P021",
+			"parliamentName": "Kota Bharu",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 61,
+			"dunCode": "N10",
+			"dunName": "Bunut Payong",
+			"parliamentId": 21,
+			"parliamentCode": "P021",
+			"parliamentName": "Kota Bharu",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 62,
+			"dunCode": "N11",
+			"dunName": "Tendong",
+			"parliamentId": 22,
+			"parliamentCode": "P022",
+			"parliamentName": "Pasir Mas",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 63,
+			"dunCode": "N12",
+			"dunName": "Pengkalan Pasir",
+			"parliamentId": 22,
+			"parliamentCode": "P022",
+			"parliamentName": "Pasir Mas",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 64,
+			"dunCode": "N13",
+			"dunName": "Meranti",
+			"parliamentId": 22,
+			"parliamentCode": "P022",
+			"parliamentName": "Pasir Mas",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 65,
+			"dunCode": "N14",
+			"dunName": "Chetok",
+			"parliamentId": 23,
+			"parliamentCode": "P023",
+			"parliamentName": "Rantau Panjang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 66,
+			"dunCode": "N15",
+			"dunName": "Gual Periok",
+			"parliamentId": 23,
+			"parliamentCode": "P023",
+			"parliamentName": "Rantau Panjang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 67,
+			"dunCode": "N16",
+			"dunName": "Apam Putra",
+			"parliamentId": 23,
+			"parliamentCode": "P023",
+			"parliamentName": "Rantau Panjang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 68,
+			"dunCode": "N17",
+			"dunName": "Salor",
+			"parliamentId": 24,
+			"parliamentCode": "P024",
+			"parliamentName": "Kubang Kerian",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 69,
+			"dunCode": "N18",
+			"dunName": "Pasir Tumboh",
+			"parliamentId": 24,
+			"parliamentCode": "P024",
+			"parliamentName": "Kubang Kerian",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 70,
+			"dunCode": "N19",
+			"dunName": "Demit",
+			"parliamentId": 24,
+			"parliamentCode": "P024",
+			"parliamentName": "Kubang Kerian",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 71,
+			"dunCode": "N20",
+			"dunName": "Tawang",
+			"parliamentId": 25,
+			"parliamentCode": "P025",
+			"parliamentName": "Bachok",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 72,
+			"dunCode": "N21",
+			"dunName": "Pantai Lama",
+			"parliamentId": 25,
+			"parliamentCode": "P025",
+			"parliamentName": "Bachok",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 73,
+			"dunCode": "N22",
+			"dunName": "Jelawat",
+			"parliamentId": 25,
+			"parliamentCode": "P025",
+			"parliamentName": "Bachok",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 74,
+			"dunCode": "N23",
+			"dunName": "Melor",
+			"parliamentId": 26,
+			"parliamentCode": "P026",
+			"parliamentName": "Ketereh",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 75,
+			"dunCode": "N24",
+			"dunName": "Kadok",
+			"parliamentId": 26,
+			"parliamentCode": "P026",
+			"parliamentName": "Ketereh",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 76,
+			"dunCode": "N25",
+			"dunName": "Kok Lanas",
+			"parliamentId": 26,
+			"parliamentCode": "P026",
+			"parliamentName": "Ketereh",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 77,
+			"dunCode": "N26",
+			"dunName": "Bukit Panau",
+			"parliamentId": 27,
+			"parliamentCode": "P027",
+			"parliamentName": "Tanah Merah",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 78,
+			"dunCode": "N27",
+			"dunName": "Gual Ipoh",
+			"parliamentId": 27,
+			"parliamentCode": "P027",
+			"parliamentName": "Tanah Merah",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 79,
+			"dunCode": "N28",
+			"dunName": "Kemahang",
+			"parliamentId": 27,
+			"parliamentCode": "P027",
+			"parliamentName": "Tanah Merah",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 80,
+			"dunCode": "N29",
+			"dunName": "Selising",
+			"parliamentId": 28,
+			"parliamentCode": "P028",
+			"parliamentName": "Pasir Puteh",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 81,
+			"dunCode": "N30",
+			"dunName": "Limbongan",
+			"parliamentId": 28,
+			"parliamentCode": "P028",
+			"parliamentName": "Pasir Puteh",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 82,
+			"dunCode": "N31",
+			"dunName": "Semerak",
+			"parliamentId": 28,
+			"parliamentCode": "P028",
+			"parliamentName": "Pasir Puteh",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 83,
+			"dunCode": "N32",
+			"dunName": "Gaal",
+			"parliamentId": 28,
+			"parliamentCode": "P028",
+			"parliamentName": "Pasir Puteh",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 84,
+			"dunCode": "N33",
+			"dunName": "Pulai Chondong",
+			"parliamentId": 29,
+			"parliamentCode": "P029",
+			"parliamentName": "Machang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 85,
+			"dunCode": "N34",
+			"dunName": "Temangan",
+			"parliamentId": 29,
+			"parliamentCode": "P029",
+			"parliamentName": "Machang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 86,
+			"dunCode": "N35",
+			"dunName": "Kemuning",
+			"parliamentId": 29,
+			"parliamentCode": "P029",
+			"parliamentName": "Machang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 87,
+			"dunCode": "N36",
+			"dunName": "Bukit Bunga",
+			"parliamentId": 30,
+			"parliamentCode": "P030",
+			"parliamentName": "Jeli",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 88,
+			"dunCode": "N37",
+			"dunName": "Air Lanas",
+			"parliamentId": 30,
+			"parliamentCode": "P030",
+			"parliamentName": "Jeli",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 89,
+			"dunCode": "N38",
+			"dunName": "Kuala Balah",
+			"parliamentId": 30,
+			"parliamentCode": "P030",
+			"parliamentName": "Jeli",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 90,
+			"dunCode": "N39",
+			"dunName": "Mengkebang",
+			"parliamentId": 31,
+			"parliamentCode": "P031",
+			"parliamentName": "Kuala Krai",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 91,
+			"dunCode": "N40",
+			"dunName": "Guchil",
+			"parliamentId": 31,
+			"parliamentCode": "P031",
+			"parliamentName": "Kuala Krai",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 92,
+			"dunCode": "N41",
+			"dunName": "Manek Urai",
+			"parliamentId": 31,
+			"parliamentCode": "P031",
+			"parliamentName": "Kuala Krai",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 93,
+			"dunCode": "N42",
+			"dunName": "Dabong",
+			"parliamentId": 31,
+			"parliamentCode": "P031",
+			"parliamentName": "Kuala Krai",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 94,
+			"dunCode": "N43",
+			"dunName": "Nenggiri",
+			"parliamentId": 32,
+			"parliamentCode": "P032",
+			"parliamentName": "Gua Musang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 95,
+			"dunCode": "N44",
+			"dunName": "Paloh",
+			"parliamentId": 32,
+			"parliamentCode": "P032",
+			"parliamentName": "Gua Musang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 96,
+			"dunCode": "N45",
+			"dunName": "Galas",
+			"parliamentId": 32,
+			"parliamentCode": "P032",
+			"parliamentName": "Gua Musang",
+			"stateId": 3,
+			"stateName": "Kelantan"
+		},
+		{
+			"dunId": 97,
+			"dunCode": "N01",
+			"dunName": "Kuala Besut",
+			"parliamentId": 33,
+			"parliamentCode": "P033",
+			"parliamentName": "Besut",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 98,
+			"dunCode": "N02",
+			"dunName": "Kota Putera",
+			"parliamentId": 33,
+			"parliamentCode": "P033",
+			"parliamentName": "Besut",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 99,
+			"dunCode": "N03",
+			"dunName": "Jertih",
+			"parliamentId": 33,
+			"parliamentCode": "P033",
+			"parliamentName": "Besut",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 100,
+			"dunCode": "N04",
+			"dunName": "Hulu Besut",
+			"parliamentId": 33,
+			"parliamentCode": "P033",
+			"parliamentName": "Besut",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 101,
+			"dunCode": "N05",
+			"dunName": "Jabi",
+			"parliamentId": 34,
+			"parliamentCode": "P034",
+			"parliamentName": "Setiu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 102,
+			"dunCode": "N06",
+			"dunName": "Permaisuri",
+			"parliamentId": 34,
+			"parliamentCode": "P034",
+			"parliamentName": "Setiu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 103,
+			"dunCode": "N07",
+			"dunName": "Langkap",
+			"parliamentId": 34,
+			"parliamentCode": "P034",
+			"parliamentName": "Setiu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 104,
+			"dunCode": "N08",
+			"dunName": "Batu Rakit",
+			"parliamentId": 34,
+			"parliamentCode": "P034",
+			"parliamentName": "Setiu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 105,
+			"dunCode": "N09",
+			"dunName": "Tepuh",
+			"parliamentId": 35,
+			"parliamentCode": "P035",
+			"parliamentName": "Kuala Nerus",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 106,
+			"dunCode": "N10",
+			"dunName": "Buluh Gading",
+			"parliamentId": 35,
+			"parliamentCode": "P035",
+			"parliamentName": "Kuala Nerus",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 107,
+			"dunCode": "N11",
+			"dunName": "Seberang Takir",
+			"parliamentId": 35,
+			"parliamentCode": "P035",
+			"parliamentName": "Kuala Nerus",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 108,
+			"dunCode": "N12",
+			"dunName": "Bukit Tunggal",
+			"parliamentId": 35,
+			"parliamentCode": "P035",
+			"parliamentName": "Kuala Nerus",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 109,
+			"dunCode": "N13",
+			"dunName": "Wakaf Mempelam",
+			"parliamentId": 36,
+			"parliamentCode": "P036",
+			"parliamentName": "Kuala Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 110,
+			"dunCode": "N14",
+			"dunName": "Bandar",
+			"parliamentId": 36,
+			"parliamentCode": "P036",
+			"parliamentName": "Kuala Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 111,
+			"dunCode": "N15",
+			"dunName": "Ladang",
+			"parliamentId": 36,
+			"parliamentCode": "P036",
+			"parliamentName": "Kuala Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 112,
+			"dunCode": "N16",
+			"dunName": "Batu Buruk",
+			"parliamentId": 36,
+			"parliamentCode": "P036",
+			"parliamentName": "Kuala Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 113,
+			"dunCode": "N17",
+			"dunName": "Alur Limbat",
+			"parliamentId": 37,
+			"parliamentCode": "P037",
+			"parliamentName": "Marang",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 114,
+			"dunCode": "N18",
+			"dunName": "Bukit Payung",
+			"parliamentId": 37,
+			"parliamentCode": "P037",
+			"parliamentName": "Marang",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 115,
+			"dunCode": "N19",
+			"dunName": "Ru Rendang",
+			"parliamentId": 37,
+			"parliamentCode": "P037",
+			"parliamentName": "Marang",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 116,
+			"dunCode": "N20",
+			"dunName": "Pengkalan Berangan",
+			"parliamentId": 37,
+			"parliamentCode": "P037",
+			"parliamentName": "Marang",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 117,
+			"dunCode": "N21",
+			"dunName": "Telemung",
+			"parliamentId": 38,
+			"parliamentCode": "P038",
+			"parliamentName": "Hulu Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 118,
+			"dunCode": "N22",
+			"dunName": "Manir",
+			"parliamentId": 38,
+			"parliamentCode": "P038",
+			"parliamentName": "Hulu Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 119,
+			"dunCode": "N23",
+			"dunName": "Kuala Berang",
+			"parliamentId": 38,
+			"parliamentCode": "P038",
+			"parliamentName": "Hulu Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 120,
+			"dunCode": "N24",
+			"dunName": "Ajil",
+			"parliamentId": 38,
+			"parliamentCode": "P038",
+			"parliamentName": "Hulu Terengganu",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 121,
+			"dunCode": "N25",
+			"dunName": "Bukit Besi",
+			"parliamentId": 39,
+			"parliamentCode": "P039",
+			"parliamentName": "Dungun",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 122,
+			"dunCode": "N26",
+			"dunName": "Rantau Abang",
+			"parliamentId": 39,
+			"parliamentCode": "P039",
+			"parliamentName": "Dungun",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 123,
+			"dunCode": "N27",
+			"dunName": "Sura",
+			"parliamentId": 39,
+			"parliamentCode": "P039",
+			"parliamentName": "Dungun",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 124,
+			"dunCode": "N28",
+			"dunName": "Paka",
+			"parliamentId": 39,
+			"parliamentCode": "P039",
+			"parliamentName": "Dungun",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 125,
+			"dunCode": "N29",
+			"dunName": "Kemasik",
+			"parliamentId": 40,
+			"parliamentCode": "P040",
+			"parliamentName": "Kemaman",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 126,
+			"dunCode": "N30",
+			"dunName": "Kijal",
+			"parliamentId": 40,
+			"parliamentCode": "P040",
+			"parliamentName": "Kemaman",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 127,
+			"dunCode": "N31",
+			"dunName": "Cukai",
+			"parliamentId": 40,
+			"parliamentCode": "P040",
+			"parliamentName": "Kemaman",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 128,
+			"dunCode": "N32",
+			"dunName": "Air Putih",
+			"parliamentId": 40,
+			"parliamentCode": "P040",
+			"parliamentName": "Kemaman",
+			"stateId": 4,
+			"stateName": "Terengganu"
+		},
+		{
+			"dunId": 129,
+			"dunCode": "N01",
+			"dunName": "Penaga",
+			"parliamentId": 41,
+			"parliamentCode": "P041",
+			"parliamentName": "Kepala Batas",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 130,
+			"dunCode": "N02",
+			"dunName": "Bertam",
+			"parliamentId": 41,
+			"parliamentCode": "P041",
+			"parliamentName": "Kepala Batas",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 131,
+			"dunCode": "N03",
+			"dunName": "Pinang Tunggal",
+			"parliamentId": 41,
+			"parliamentCode": "P041",
+			"parliamentName": "Kepala Batas",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 132,
+			"dunCode": "N04",
+			"dunName": "Permatang Berangan",
+			"parliamentId": 42,
+			"parliamentCode": "P042",
+			"parliamentName": "Tasek Gelugor",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 133,
+			"dunCode": "N05",
+			"dunName": "Sungai Dua",
+			"parliamentId": 42,
+			"parliamentCode": "P042",
+			"parliamentName": "Tasek Gelugor",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 134,
+			"dunCode": "N06",
+			"dunName": "Telok Ayer Tawar",
+			"parliamentId": 42,
+			"parliamentCode": "P042",
+			"parliamentName": "Tasek Gelugor",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 135,
+			"dunCode": "N07",
+			"dunName": "Sungai Puyu",
+			"parliamentId": 43,
+			"parliamentCode": "P043",
+			"parliamentName": "Bagan",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 136,
+			"dunCode": "N08",
+			"dunName": "Bagan Jermal",
+			"parliamentId": 43,
+			"parliamentCode": "P043",
+			"parliamentName": "Bagan",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 137,
+			"dunCode": "N09",
+			"dunName": "Bagan Dalam",
+			"parliamentId": 43,
+			"parliamentCode": "P043",
+			"parliamentName": "Bagan",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 138,
+			"dunCode": "N10",
+			"dunName": "Seberang Jaya",
+			"parliamentId": 44,
+			"parliamentCode": "P044",
+			"parliamentName": "Permatang Pauh",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 139,
+			"dunCode": "N11",
+			"dunName": "Permatang Pasir",
+			"parliamentId": 44,
+			"parliamentCode": "P044",
+			"parliamentName": "Permatang Pauh",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 140,
+			"dunCode": "N12",
+			"dunName": "Penanti",
+			"parliamentId": 44,
+			"parliamentCode": "P044",
+			"parliamentName": "Permatang Pauh",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 141,
+			"dunCode": "N13",
+			"dunName": "Berapit",
+			"parliamentId": 45,
+			"parliamentCode": "P045",
+			"parliamentName": "Bukit Mertajam",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 142,
+			"dunCode": "N14",
+			"dunName": "Machang Bubuk",
+			"parliamentId": 45,
+			"parliamentCode": "P045",
+			"parliamentName": "Bukit Mertajam",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 143,
+			"dunCode": "N15",
+			"dunName": "Padang Lalang",
+			"parliamentId": 45,
+			"parliamentCode": "P045",
+			"parliamentName": "Bukit Mertajam",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 144,
+			"dunCode": "N16",
+			"dunName": "Perai",
+			"parliamentId": 46,
+			"parliamentCode": "P046",
+			"parliamentName": "Batu Kawan",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 145,
+			"dunCode": "N17",
+			"dunName": "Bukit Tengah",
+			"parliamentId": 46,
+			"parliamentCode": "P046",
+			"parliamentName": "Batu Kawan",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 146,
+			"dunCode": "N18",
+			"dunName": "Bukit Tambun",
+			"parliamentId": 46,
+			"parliamentCode": "P046",
+			"parliamentName": "Batu Kawan",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 147,
+			"dunCode": "N19",
+			"dunName": "Jawi",
+			"parliamentId": 47,
+			"parliamentCode": "P047",
+			"parliamentName": "Nibong Tebal",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 148,
+			"dunCode": "N20",
+			"dunName": "Sungai Bakap",
+			"parliamentId": 47,
+			"parliamentCode": "P047",
+			"parliamentName": "Nibong Tebal",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 149,
+			"dunCode": "N21",
+			"dunName": "Sungai Acheh",
+			"parliamentId": 47,
+			"parliamentCode": "P047",
+			"parliamentName": "Nibong Tebal",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 150,
+			"dunCode": "N22",
+			"dunName": "Tanjong Bunga",
+			"parliamentId": 48,
+			"parliamentCode": "P048",
+			"parliamentName": "Bukit Bendera",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 151,
+			"dunCode": "N23",
+			"dunName": "Air Putih",
+			"parliamentId": 48,
+			"parliamentCode": "P048",
+			"parliamentName": "Bukit Bendera",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 152,
+			"dunCode": "N24",
+			"dunName": "Kebun Bunga",
+			"parliamentId": 48,
+			"parliamentCode": "P048",
+			"parliamentName": "Bukit Bendera",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 153,
+			"dunCode": "N25",
+			"dunName": "Pulau Tikus",
+			"parliamentId": 48,
+			"parliamentCode": "P048",
+			"parliamentName": "Bukit Bendera",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 154,
+			"dunCode": "N26",
+			"dunName": "Padang Kota",
+			"parliamentId": 49,
+			"parliamentCode": "P049",
+			"parliamentName": "Tanjong",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 155,
+			"dunCode": "N27",
+			"dunName": "Pengkalan Kota",
+			"parliamentId": 49,
+			"parliamentCode": "P049",
+			"parliamentName": "Tanjong",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 156,
+			"dunCode": "N28",
+			"dunName": "Komtar",
+			"parliamentId": 49,
+			"parliamentCode": "P049",
+			"parliamentName": "Tanjong",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 157,
+			"dunCode": "N29",
+			"dunName": "Datok Keramat",
+			"parliamentId": 50,
+			"parliamentCode": "P050",
+			"parliamentName": "Jelutong",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 158,
+			"dunCode": "N30",
+			"dunName": "Sungai Pinang",
+			"parliamentId": 50,
+			"parliamentCode": "P050",
+			"parliamentName": "Jelutong",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 159,
+			"dunCode": "N31",
+			"dunName": "Batu Lancang",
+			"parliamentId": 50,
+			"parliamentCode": "P050",
+			"parliamentName": "Jelutong",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 160,
+			"dunCode": "N32",
+			"dunName": "Seri Delima",
+			"parliamentId": 51,
+			"parliamentCode": "P051",
+			"parliamentName": "Bukit Gelugor",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 161,
+			"dunCode": "N33",
+			"dunName": "Air Itam",
+			"parliamentId": 51,
+			"parliamentCode": "P051",
+			"parliamentName": "Bukit Gelugor",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 162,
+			"dunCode": "N34",
+			"dunName": "Paya Terubong",
+			"parliamentId": 51,
+			"parliamentCode": "P051",
+			"parliamentName": "Bukit Gelugor",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 163,
+			"dunCode": "N35",
+			"dunName": "Batu Uban",
+			"parliamentId": 52,
+			"parliamentCode": "P052",
+			"parliamentName": "Bayan Baru",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 164,
+			"dunCode": "N36",
+			"dunName": "Pantai Jerejak",
+			"parliamentId": 52,
+			"parliamentCode": "P052",
+			"parliamentName": "Bayan Baru",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 165,
+			"dunCode": "N37",
+			"dunName": "Batu Maung",
+			"parliamentId": 52,
+			"parliamentCode": "P052",
+			"parliamentName": "Bayan Baru",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 166,
+			"dunCode": "N38",
+			"dunName": "Bayan Lepas",
+			"parliamentId": 53,
+			"parliamentCode": "P053",
+			"parliamentName": "Balik Pulau",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 167,
+			"dunCode": "N39",
+			"dunName": "Pulau Betong",
+			"parliamentId": 53,
+			"parliamentCode": "P053",
+			"parliamentName": "Balik Pulau",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 168,
+			"dunCode": "N40",
+			"dunName": "Telok Bahang",
+			"parliamentId": 53,
+			"parliamentCode": "P053",
+			"parliamentName": "Balik Pulau",
+			"stateId": 5,
+			"stateName": "Pulau Pinang"
+		},
+		{
+			"dunId": 169,
+			"dunCode": "N01",
+			"dunName": "Pengkalan Hulu",
+			"parliamentId": 54,
+			"parliamentCode": "P054",
+			"parliamentName": "Gerik",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 170,
+			"dunCode": "N02",
+			"dunName": "Temengor",
+			"parliamentId": 54,
+			"parliamentCode": "P054",
+			"parliamentName": "Gerik",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 171,
+			"dunCode": "N03",
+			"dunName": "Kenering",
+			"parliamentId": 55,
+			"parliamentCode": "P055",
+			"parliamentName": "Lenggong",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 172,
+			"dunCode": "N04",
+			"dunName": "Kota Tampan",
+			"parliamentId": 55,
+			"parliamentCode": "P055",
+			"parliamentName": "Lenggong",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 173,
+			"dunCode": "N05",
+			"dunName": "Selama",
+			"parliamentId": 56,
+			"parliamentCode": "P056",
+			"parliamentName": "Larut",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 174,
+			"dunCode": "N06",
+			"dunName": "Kubu Gajah",
+			"parliamentId": 56,
+			"parliamentCode": "P056",
+			"parliamentName": "Larut",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 175,
+			"dunCode": "N07",
+			"dunName": "Batu Kurau",
+			"parliamentId": 56,
+			"parliamentCode": "P056",
+			"parliamentName": "Larut",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 176,
+			"dunCode": "N08",
+			"dunName": "Titi Serong",
+			"parliamentId": 57,
+			"parliamentCode": "P057",
+			"parliamentName": "Parit Buntar",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 177,
+			"dunCode": "N09",
+			"dunName": "Kuala Kurau",
+			"parliamentId": 57,
+			"parliamentCode": "P057",
+			"parliamentName": "Parit Buntar",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 178,
+			"dunCode": "N10",
+			"dunName": "Alor Pongsu",
+			"parliamentId": 58,
+			"parliamentCode": "P058",
+			"parliamentName": "Bagan Serai",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 179,
+			"dunCode": "N11",
+			"dunName": "Gunong Semanggol",
+			"parliamentId": 58,
+			"parliamentCode": "P058",
+			"parliamentName": "Bagan Serai",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 180,
+			"dunCode": "N12",
+			"dunName": "Selinsing",
+			"parliamentId": 58,
+			"parliamentCode": "P058",
+			"parliamentName": "Bagan Serai",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 181,
+			"dunCode": "N13",
+			"dunName": "Kuala Sepetang",
+			"parliamentId": 59,
+			"parliamentCode": "P059",
+			"parliamentName": "Bukit Gantang",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 182,
+			"dunCode": "N14",
+			"dunName": "Changkat Jering",
+			"parliamentId": 59,
+			"parliamentCode": "P059",
+			"parliamentName": "Bukit Gantang",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 183,
+			"dunCode": "N15",
+			"dunName": "Trong",
+			"parliamentId": 59,
+			"parliamentCode": "P059",
+			"parliamentName": "Bukit Gantang",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 184,
+			"dunCode": "N16",
+			"dunName": "Kamunting",
+			"parliamentId": 60,
+			"parliamentCode": "P060",
+			"parliamentName": "Taiping",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 185,
+			"dunCode": "N17",
+			"dunName": "Pokok Assam",
+			"parliamentId": 60,
+			"parliamentCode": "P060",
+			"parliamentName": "Taiping",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 186,
+			"dunCode": "N18",
+			"dunName": "Aulong",
+			"parliamentId": 60,
+			"parliamentCode": "P060",
+			"parliamentName": "Taiping",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 187,
+			"dunCode": "N19",
+			"dunName": "Chenderoh",
+			"parliamentId": 61,
+			"parliamentCode": "P061",
+			"parliamentName": "Padang Rengas",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 188,
+			"dunCode": "N20",
+			"dunName": "Lubok Merbau",
+			"parliamentId": 61,
+			"parliamentCode": "P061",
+			"parliamentName": "Padang Rengas",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 189,
+			"dunCode": "N21",
+			"dunName": "Lintang",
+			"parliamentId": 62,
+			"parliamentCode": "P062",
+			"parliamentName": "Sungai Siput",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 190,
+			"dunCode": "N22",
+			"dunName": "Jalong",
+			"parliamentId": 62,
+			"parliamentCode": "P062",
+			"parliamentName": "Sungai Siput",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 191,
+			"dunCode": "N23",
+			"dunName": "Manjoi",
+			"parliamentId": 63,
+			"parliamentCode": "P063",
+			"parliamentName": "Tambun",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 192,
+			"dunCode": "N24",
+			"dunName": "Hulu Kinta",
+			"parliamentId": 63,
+			"parliamentCode": "P063",
+			"parliamentName": "Tambun",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 193,
+			"dunCode": "N25",
+			"dunName": "Canning",
+			"parliamentId": 64,
+			"parliamentCode": "P064",
+			"parliamentName": "Ipoh Timor",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 194,
+			"dunCode": "N26",
+			"dunName": "Tebing Tinggi",
+			"parliamentId": 64,
+			"parliamentCode": "P064",
+			"parliamentName": "Ipoh Timor",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 195,
+			"dunCode": "N27",
+			"dunName": "Pasir Pinji",
+			"parliamentId": 64,
+			"parliamentCode": "P064",
+			"parliamentName": "Ipoh Timor",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 196,
+			"dunCode": "N28",
+			"dunName": "Bercham",
+			"parliamentId": 65,
+			"parliamentCode": "P065",
+			"parliamentName": "Ipoh Barat",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 197,
+			"dunCode": "N29",
+			"dunName": "Kepayang",
+			"parliamentId": 65,
+			"parliamentCode": "P065",
+			"parliamentName": "Ipoh Barat",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 198,
+			"dunCode": "N30",
+			"dunName": "Buntong",
+			"parliamentId": 65,
+			"parliamentCode": "P065",
+			"parliamentName": "Ipoh Barat",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 199,
+			"dunCode": "N31",
+			"dunName": "Jelapang",
+			"parliamentId": 66,
+			"parliamentCode": "P066",
+			"parliamentName": "Batu Gajah",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 200,
+			"dunCode": "N32",
+			"dunName": "Menglembu",
+			"parliamentId": 66,
+			"parliamentCode": "P066",
+			"parliamentName": "Batu Gajah",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 201,
+			"dunCode": "N33",
+			"dunName": "Tronoh",
+			"parliamentId": 66,
+			"parliamentCode": "P066",
+			"parliamentName": "Batu Gajah",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 202,
+			"dunCode": "N34",
+			"dunName": "Bukit Chandan",
+			"parliamentId": 67,
+			"parliamentCode": "P067",
+			"parliamentName": "Kuala Kangsar",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 203,
+			"dunCode": "N35",
+			"dunName": "Manong",
+			"parliamentId": 67,
+			"parliamentCode": "P067",
+			"parliamentName": "Kuala Kangsar",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 204,
+			"dunCode": "N36",
+			"dunName": "Pengkalan Baharu",
+			"parliamentId": 68,
+			"parliamentCode": "P068",
+			"parliamentName": "Beruas",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 205,
+			"dunCode": "N37",
+			"dunName": "Pantai Remis",
+			"parliamentId": 68,
+			"parliamentCode": "P068",
+			"parliamentName": "Beruas",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 206,
+			"dunCode": "N38",
+			"dunName": "Astaka",
+			"parliamentId": 68,
+			"parliamentCode": "P068",
+			"parliamentName": "Beruas",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 207,
+			"dunCode": "N39",
+			"dunName": "Belanja",
+			"parliamentId": 69,
+			"parliamentCode": "P069",
+			"parliamentName": "Parit",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 208,
+			"dunCode": "N40",
+			"dunName": "Bota",
+			"parliamentId": 69,
+			"parliamentCode": "P069",
+			"parliamentName": "Parit",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 209,
+			"dunCode": "N41",
+			"dunName": "Malim Nawar",
+			"parliamentId": 70,
+			"parliamentCode": "P070",
+			"parliamentName": "Kampar",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 210,
+			"dunCode": "N42",
+			"dunName": "Keranji",
+			"parliamentId": 70,
+			"parliamentCode": "P070",
+			"parliamentName": "Kampar",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 211,
+			"dunCode": "N43",
+			"dunName": "Tualang Sekah",
+			"parliamentId": 70,
+			"parliamentCode": "P070",
+			"parliamentName": "Kampar",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 212,
+			"dunCode": "N44",
+			"dunName": "Sungai Rapat",
+			"parliamentId": 71,
+			"parliamentCode": "P071",
+			"parliamentName": "Gopeng",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 213,
+			"dunCode": "N45",
+			"dunName": "Simpang Pulai",
+			"parliamentId": 71,
+			"parliamentCode": "P071",
+			"parliamentName": "Gopeng",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 214,
+			"dunCode": "N46",
+			"dunName": "Teja",
+			"parliamentId": 71,
+			"parliamentCode": "P071",
+			"parliamentName": "Gopeng",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 215,
+			"dunCode": "N47",
+			"dunName": "Chenderiang",
+			"parliamentId": 72,
+			"parliamentCode": "P072",
+			"parliamentName": "Tapah",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 216,
+			"dunCode": "N48",
+			"dunName": "Ayer Kuning",
+			"parliamentId": 72,
+			"parliamentCode": "P072",
+			"parliamentName": "Tapah",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 217,
+			"dunCode": "N49",
+			"dunName": "Sungai Manik",
+			"parliamentId": 73,
+			"parliamentCode": "P073",
+			"parliamentName": "Pasir Salak",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 218,
+			"dunCode": "N50",
+			"dunName": "Kampong Gajah",
+			"parliamentId": 73,
+			"parliamentCode": "P073",
+			"parliamentName": "Pasir Salak",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 219,
+			"dunCode": "N51",
+			"dunName": "Pasir Panjang",
+			"parliamentId": 74,
+			"parliamentCode": "P074",
+			"parliamentName": "Lumut",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 220,
+			"dunCode": "N52",
+			"dunName": "Pangkor",
+			"parliamentId": 74,
+			"parliamentCode": "P074",
+			"parliamentName": "Lumut",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 221,
+			"dunCode": "N53",
+			"dunName": "Rungkup",
+			"parliamentId": 75,
+			"parliamentCode": "P075",
+			"parliamentName": "Bagan Datuk",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 222,
+			"dunCode": "N54",
+			"dunName": "Hutan Melintang",
+			"parliamentId": 75,
+			"parliamentCode": "P075",
+			"parliamentName": "Bagan Datuk",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 223,
+			"dunCode": "N55",
+			"dunName": "Pasir Bedamar",
+			"parliamentId": 76,
+			"parliamentCode": "P076",
+			"parliamentName": "Teluk Intan",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 224,
+			"dunCode": "N56",
+			"dunName": "Changkat Jong",
+			"parliamentId": 76,
+			"parliamentCode": "P076",
+			"parliamentName": "Teluk Intan",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 225,
+			"dunCode": "N57",
+			"dunName": "Sungkai",
+			"parliamentId": 77,
+			"parliamentCode": "P077",
+			"parliamentName": "Tanjong Malim",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 226,
+			"dunCode": "N58",
+			"dunName": "Slim",
+			"parliamentId": 77,
+			"parliamentCode": "P077",
+			"parliamentName": "Tanjong Malim",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 227,
+			"dunCode": "N59",
+			"dunName": "Behrang",
+			"parliamentId": 77,
+			"parliamentCode": "P077",
+			"parliamentName": "Tanjong Malim",
+			"stateId": 6,
+			"stateName": "Perak"
+		},
+		{
+			"dunId": 228,
+			"dunCode": "N01",
+			"dunName": "Tanah Rata",
+			"parliamentId": 78,
+			"parliamentCode": "P078",
+			"parliamentName": "Cameron Highlands",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 229,
+			"dunCode": "N02",
+			"dunName": "Jelai",
+			"parliamentId": 78,
+			"parliamentCode": "P078",
+			"parliamentName": "Cameron Highlands",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 230,
+			"dunCode": "N03",
+			"dunName": "Padang Tengku",
+			"parliamentId": 79,
+			"parliamentCode": "P079",
+			"parliamentName": "Lipis",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 231,
+			"dunCode": "N04",
+			"dunName": "Cheka",
+			"parliamentId": 79,
+			"parliamentCode": "P079",
+			"parliamentName": "Lipis",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 232,
+			"dunCode": "N05",
+			"dunName": "Benta",
+			"parliamentId": 79,
+			"parliamentCode": "P079",
+			"parliamentName": "Lipis",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 233,
+			"dunCode": "N06",
+			"dunName": "Batu Talam",
+			"parliamentId": 80,
+			"parliamentCode": "P080",
+			"parliamentName": "Raub",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 234,
+			"dunCode": "N07",
+			"dunName": "Tras",
+			"parliamentId": 80,
+			"parliamentCode": "P080",
+			"parliamentName": "Raub",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 235,
+			"dunCode": "N08",
+			"dunName": "Dong",
+			"parliamentId": 80,
+			"parliamentCode": "P080",
+			"parliamentName": "Raub",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 236,
+			"dunCode": "N09",
+			"dunName": "Tahan",
+			"parliamentId": 81,
+			"parliamentCode": "P081",
+			"parliamentName": "Jerantut",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 237,
+			"dunCode": "N10",
+			"dunName": "Damak",
+			"parliamentId": 81,
+			"parliamentCode": "P081",
+			"parliamentName": "Jerantut",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 238,
+			"dunCode": "N11",
+			"dunName": "Pulau Tawar",
+			"parliamentId": 81,
+			"parliamentCode": "P081",
+			"parliamentName": "Jerantut",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 239,
+			"dunCode": "N12",
+			"dunName": "Beserah",
+			"parliamentId": 82,
+			"parliamentCode": "P082",
+			"parliamentName": "Indera Mahkota",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 240,
+			"dunCode": "N13",
+			"dunName": "Semambu",
+			"parliamentId": 82,
+			"parliamentCode": "P082",
+			"parliamentName": "Indera Mahkota",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 241,
+			"dunCode": "N14",
+			"dunName": "Teruntum",
+			"parliamentId": 83,
+			"parliamentCode": "P083",
+			"parliamentName": "Kuantan",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 242,
+			"dunCode": "N15",
+			"dunName": "Tanjung Lumpur",
+			"parliamentId": 83,
+			"parliamentCode": "P083",
+			"parliamentName": "Kuantan",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 243,
+			"dunCode": "N16",
+			"dunName": "Inderepura",
+			"parliamentId": 83,
+			"parliamentCode": "P083",
+			"parliamentName": "Kuantan",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 244,
+			"dunCode": "N17",
+			"dunName": "Sungai Lembing",
+			"parliamentId": 84,
+			"parliamentCode": "P084",
+			"parliamentName": "Paya Besar",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 245,
+			"dunCode": "N18",
+			"dunName": "Lepar",
+			"parliamentId": 84,
+			"parliamentCode": "P084",
+			"parliamentName": "Paya Besar",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 246,
+			"dunCode": "N19",
+			"dunName": "Panching",
+			"parliamentId": 84,
+			"parliamentCode": "P084",
+			"parliamentName": "Paya Besar",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 247,
+			"dunCode": "N20",
+			"dunName": "Pulau Manis",
+			"parliamentId": 85,
+			"parliamentCode": "P085",
+			"parliamentName": "Pekan",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 248,
+			"dunCode": "N21",
+			"dunName": "Peramu Jaya",
+			"parliamentId": 85,
+			"parliamentCode": "P085",
+			"parliamentName": "Pekan",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 249,
+			"dunCode": "N22",
+			"dunName": "Bebar",
+			"parliamentId": 85,
+			"parliamentCode": "P085",
+			"parliamentName": "Pekan",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 250,
+			"dunCode": "N23",
+			"dunName": "Chini",
+			"parliamentId": 85,
+			"parliamentCode": "P085",
+			"parliamentName": "Pekan",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 251,
+			"dunCode": "N24",
+			"dunName": "Luit",
+			"parliamentId": 86,
+			"parliamentCode": "P086",
+			"parliamentName": "Maran",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 252,
+			"dunCode": "N25",
+			"dunName": "Kuala Sentul",
+			"parliamentId": 86,
+			"parliamentCode": "P086",
+			"parliamentName": "Maran",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 253,
+			"dunCode": "N26",
+			"dunName": "Chenor",
+			"parliamentId": 86,
+			"parliamentCode": "P086",
+			"parliamentName": "Maran",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 254,
+			"dunCode": "N27",
+			"dunName": "Jenderak",
+			"parliamentId": 87,
+			"parliamentCode": "P087",
+			"parliamentName": "Kuala Krau",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 255,
+			"dunCode": "N28",
+			"dunName": "Kerdau",
+			"parliamentId": 87,
+			"parliamentCode": "P087",
+			"parliamentName": "Kuala Krau",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 256,
+			"dunCode": "N29",
+			"dunName": "Jengka",
+			"parliamentId": 87,
+			"parliamentCode": "P087",
+			"parliamentName": "Kuala Krau",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 257,
+			"dunCode": "N30",
+			"dunName": "Mentakab",
+			"parliamentId": 88,
+			"parliamentCode": "P088",
+			"parliamentName": "Temerloh",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 258,
+			"dunCode": "N31",
+			"dunName": "Lanchang",
+			"parliamentId": 88,
+			"parliamentCode": "P088",
+			"parliamentName": "Temerloh",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 259,
+			"dunCode": "N32",
+			"dunName": "Kuala Semantan",
+			"parliamentId": 88,
+			"parliamentCode": "P088",
+			"parliamentName": "Temerloh",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 260,
+			"dunCode": "N33",
+			"dunName": "Bilut",
+			"parliamentId": 89,
+			"parliamentCode": "P089",
+			"parliamentName": "Bentong",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 261,
+			"dunCode": "N34",
+			"dunName": "Ketari",
+			"parliamentId": 89,
+			"parliamentCode": "P089",
+			"parliamentName": "Bentong",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 262,
+			"dunCode": "N35",
+			"dunName": "Sabai",
+			"parliamentId": 89,
+			"parliamentCode": "P089",
+			"parliamentName": "Bentong",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 263,
+			"dunCode": "N36",
+			"dunName": "Pelangai",
+			"parliamentId": 89,
+			"parliamentCode": "P089",
+			"parliamentName": "Bentong",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 264,
+			"dunCode": "N37",
+			"dunName": "Guai",
+			"parliamentId": 90,
+			"parliamentCode": "P090",
+			"parliamentName": "Bera",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 265,
+			"dunCode": "N38",
+			"dunName": "Triang",
+			"parliamentId": 90,
+			"parliamentCode": "P090",
+			"parliamentName": "Bera",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 266,
+			"dunCode": "N39",
+			"dunName": "Kemayan",
+			"parliamentId": 90,
+			"parliamentCode": "P090",
+			"parliamentName": "Bera",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 267,
+			"dunCode": "N40",
+			"dunName": "Bukit Ibam",
+			"parliamentId": 91,
+			"parliamentCode": "P091",
+			"parliamentName": "Rompin",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 268,
+			"dunCode": "N41",
+			"dunName": "Muadzam Shah",
+			"parliamentId": 91,
+			"parliamentCode": "P091",
+			"parliamentName": "Rompin",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 269,
+			"dunCode": "N42",
+			"dunName": "Tioman",
+			"parliamentId": 91,
+			"parliamentCode": "P091",
+			"parliamentName": "Rompin",
+			"stateId": 7,
+			"stateName": "Pahang"
+		},
+		{
+			"dunId": 270,
+			"dunCode": "N01",
+			"dunName": "Sungai Air Tawar",
+			"parliamentId": 92,
+			"parliamentCode": "P092",
+			"parliamentName": "Sabak Bernam",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 271,
+			"dunCode": "N02",
+			"dunName": "Sabak",
+			"parliamentId": 92,
+			"parliamentCode": "P092",
+			"parliamentName": "Sabak Bernam",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 272,
+			"dunCode": "N03",
+			"dunName": "Sungai Panjang",
+			"parliamentId": 93,
+			"parliamentCode": "P093",
+			"parliamentName": "Sungai Besar",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 273,
+			"dunCode": "N04",
+			"dunName": "Sekinchan",
+			"parliamentId": 93,
+			"parliamentCode": "P093",
+			"parliamentName": "Sungai Besar",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 274,
+			"dunCode": "N05",
+			"dunName": "Hulu Bernam",
+			"parliamentId": 94,
+			"parliamentCode": "P094",
+			"parliamentName": "Hulu Selangor",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 275,
+			"dunCode": "N06",
+			"dunName": "Kuala Kubu Bharu",
+			"parliamentId": 94,
+			"parliamentCode": "P094",
+			"parliamentName": "Hulu Selangor",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 276,
+			"dunCode": "N07",
+			"dunName": "Batang Kali",
+			"parliamentId": 94,
+			"parliamentCode": "P094",
+			"parliamentName": "Hulu Selangor",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 277,
+			"dunCode": "N08",
+			"dunName": "Sungai Burong",
+			"parliamentId": 95,
+			"parliamentCode": "P095",
+			"parliamentName": "Tanjong Karang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 278,
+			"dunCode": "N09",
+			"dunName": "Permatang",
+			"parliamentId": 95,
+			"parliamentCode": "P095",
+			"parliamentName": "Tanjong Karang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 279,
+			"dunCode": "N10",
+			"dunName": "Bukit Melawati",
+			"parliamentId": 96,
+			"parliamentCode": "P096",
+			"parliamentName": "Kuala Selangor",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 280,
+			"dunCode": "N11",
+			"dunName": "Ijok",
+			"parliamentId": 96,
+			"parliamentCode": "P096",
+			"parliamentName": "Kuala Selangor",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 281,
+			"dunCode": "N12",
+			"dunName": "Jeram",
+			"parliamentId": 96,
+			"parliamentCode": "P096",
+			"parliamentName": "Kuala Selangor",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 282,
+			"dunCode": "N13",
+			"dunName": "Kuang",
+			"parliamentId": 97,
+			"parliamentCode": "P097",
+			"parliamentName": "Selayang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 283,
+			"dunCode": "N14",
+			"dunName": "Rawang",
+			"parliamentId": 97,
+			"parliamentCode": "P097",
+			"parliamentName": "Selayang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 284,
+			"dunCode": "N15",
+			"dunName": "Taman Templer",
+			"parliamentId": 97,
+			"parliamentCode": "P097",
+			"parliamentName": "Selayang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 285,
+			"dunCode": "N16",
+			"dunName": "Sungai Tua",
+			"parliamentId": 98,
+			"parliamentCode": "P098",
+			"parliamentName": "Gombak",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 286,
+			"dunCode": "N17",
+			"dunName": "Gombak Setia",
+			"parliamentId": 98,
+			"parliamentCode": "P098",
+			"parliamentName": "Gombak",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 287,
+			"dunCode": "N18",
+			"dunName": "Hulu Kelang",
+			"parliamentId": 98,
+			"parliamentCode": "P098",
+			"parliamentName": "Gombak",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 288,
+			"dunCode": "N19",
+			"dunName": "Bukit Antarabangsa",
+			"parliamentId": 99,
+			"parliamentCode": "P099",
+			"parliamentName": "Ampang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 289,
+			"dunCode": "N20",
+			"dunName": "Lembah Jaya",
+			"parliamentId": 99,
+			"parliamentCode": "P099",
+			"parliamentName": "Ampang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 290,
+			"dunCode": "N21",
+			"dunName": "Pandan Indah",
+			"parliamentId": 100,
+			"parliamentCode": "P100",
+			"parliamentName": "Pandan",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 291,
+			"dunCode": "N22",
+			"dunName": "Teratai",
+			"parliamentId": 100,
+			"parliamentCode": "P100",
+			"parliamentName": "Pandan",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 292,
+			"dunCode": "N23",
+			"dunName": "Dusun Tua",
+			"parliamentId": 101,
+			"parliamentCode": "P101",
+			"parliamentName": "Hulu Langat",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 293,
+			"dunCode": "N24",
+			"dunName": "Semenyih",
+			"parliamentId": 101,
+			"parliamentCode": "P101",
+			"parliamentName": "Hulu Langat",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 294,
+			"dunCode": "N25",
+			"dunName": "Kajang",
+			"parliamentId": 102,
+			"parliamentCode": "P102",
+			"parliamentName": "Bangi",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 295,
+			"dunCode": "N26",
+			"dunName": "Sungai Ramal",
+			"parliamentId": 102,
+			"parliamentCode": "P102",
+			"parliamentName": "Bangi",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 296,
+			"dunCode": "N27",
+			"dunName": "Balakong",
+			"parliamentId": 102,
+			"parliamentCode": "P102",
+			"parliamentName": "Bangi",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 297,
+			"dunCode": "N28",
+			"dunName": "Seri Kembangan",
+			"parliamentId": 103,
+			"parliamentCode": "P103",
+			"parliamentName": "Puchong",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 298,
+			"dunCode": "N29",
+			"dunName": "Seri Serdang",
+			"parliamentId": 103,
+			"parliamentCode": "P103",
+			"parliamentName": "Puchong",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 299,
+			"dunCode": "N30",
+			"dunName": "Kinrara",
+			"parliamentId": 104,
+			"parliamentCode": "P104",
+			"parliamentName": "Subang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 300,
+			"dunCode": "N31",
+			"dunName": "Subang Jaya",
+			"parliamentId": 104,
+			"parliamentCode": "P104",
+			"parliamentName": "Subang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 301,
+			"dunCode": "N32",
+			"dunName": "Seri Setia",
+			"parliamentId": 105,
+			"parliamentCode": "P105",
+			"parliamentName": "Petaling Jaya",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 302,
+			"dunCode": "N33",
+			"dunName": "Taman Medan",
+			"parliamentId": 105,
+			"parliamentCode": "P105",
+			"parliamentName": "Petaling Jaya",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 303,
+			"dunCode": "N34",
+			"dunName": "Bukit Gasing",
+			"parliamentId": 105,
+			"parliamentCode": "P105",
+			"parliamentName": "Petaling Jaya",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 304,
+			"dunCode": "N35",
+			"dunName": "Kampung Tunku",
+			"parliamentId": 106,
+			"parliamentCode": "P106",
+			"parliamentName": "Damansara",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 305,
+			"dunCode": "N36",
+			"dunName": "Bandar Utama",
+			"parliamentId": 106,
+			"parliamentCode": "P106",
+			"parliamentName": "Damansara",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 306,
+			"dunCode": "N37",
+			"dunName": "Bukit Lanjan",
+			"parliamentId": 106,
+			"parliamentCode": "P106",
+			"parliamentName": "Damansara",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 307,
+			"dunCode": "N38",
+			"dunName": "Paya Jaras",
+			"parliamentId": 107,
+			"parliamentCode": "P107",
+			"parliamentName": "Sungai Buloh",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 308,
+			"dunCode": "N39",
+			"dunName": "Kota Damansara",
+			"parliamentId": 107,
+			"parliamentCode": "P107",
+			"parliamentName": "Sungai Buloh",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 309,
+			"dunCode": "N40",
+			"dunName": "Kota Anggerik",
+			"parliamentId": 108,
+			"parliamentCode": "P108",
+			"parliamentName": "Shah Alam",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 310,
+			"dunCode": "N41",
+			"dunName": "Batu Tiga",
+			"parliamentId": 108,
+			"parliamentCode": "P108",
+			"parliamentName": "Shah Alam",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 311,
+			"dunCode": "N42",
+			"dunName": "Meru",
+			"parliamentId": 109,
+			"parliamentCode": "P109",
+			"parliamentName": "Kapar",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 312,
+			"dunCode": "N43",
+			"dunName": "Sementa",
+			"parliamentId": 109,
+			"parliamentCode": "P109",
+			"parliamentName": "Kapar",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 313,
+			"dunCode": "N44",
+			"dunName": "Selat Klang",
+			"parliamentId": 109,
+			"parliamentCode": "P109",
+			"parliamentName": "Kapar",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 314,
+			"dunCode": "N45",
+			"dunName": "Bandar Baru Klang",
+			"parliamentId": 110,
+			"parliamentCode": "P110",
+			"parliamentName": "Klang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 315,
+			"dunCode": "N46",
+			"dunName": "Pelabuhan Klang",
+			"parliamentId": 110,
+			"parliamentCode": "P110",
+			"parliamentName": "Klang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 316,
+			"dunCode": "N47",
+			"dunName": "Pandamaran",
+			"parliamentId": 110,
+			"parliamentCode": "P110",
+			"parliamentName": "Klang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 317,
+			"dunCode": "N48",
+			"dunName": "Sentosa",
+			"parliamentId": 111,
+			"parliamentCode": "P111",
+			"parliamentName": "Kota Raja",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 318,
+			"dunCode": "N49",
+			"dunName": "Sungai Kandis",
+			"parliamentId": 111,
+			"parliamentCode": "P111",
+			"parliamentName": "Kota Raja",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 319,
+			"dunCode": "N50",
+			"dunName": "Kota Kemuning",
+			"parliamentId": 111,
+			"parliamentCode": "P111",
+			"parliamentName": "Kota Raja",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 320,
+			"dunCode": "N51",
+			"dunName": "Sijangkang",
+			"parliamentId": 112,
+			"parliamentCode": "P112",
+			"parliamentName": "Kuala Langat",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 321,
+			"dunCode": "N52",
+			"dunName": "Banting",
+			"parliamentId": 112,
+			"parliamentCode": "P112",
+			"parliamentName": "Kuala Langat",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 322,
+			"dunCode": "N53",
+			"dunName": "Morib",
+			"parliamentId": 112,
+			"parliamentCode": "P112",
+			"parliamentName": "Kuala Langat",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 323,
+			"dunCode": "N54",
+			"dunName": "Tanjong Sepat",
+			"parliamentId": 113,
+			"parliamentCode": "P113",
+			"parliamentName": "Sepang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 324,
+			"dunCode": "N55",
+			"dunName": "Dengkil",
+			"parliamentId": 113,
+			"parliamentCode": "P113",
+			"parliamentName": "Sepang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 325,
+			"dunCode": "N56",
+			"dunName": "Sungai Pelek",
+			"parliamentId": 113,
+			"parliamentCode": "P113",
+			"parliamentName": "Sepang",
+			"stateId": 8,
+			"stateName": "Selangor"
+		},
+		{
+			"dunId": 326,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 114,
+			"parliamentCode": "P114",
+			"parliamentName": "Kepong",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 327,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 115,
+			"parliamentCode": "P115",
+			"parliamentName": "Batu",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 328,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 116,
+			"parliamentCode": "P116",
+			"parliamentName": "Wangsa Maju",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 329,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 117,
+			"parliamentCode": "P117",
+			"parliamentName": "Segambut",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 330,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 118,
+			"parliamentCode": "P118",
+			"parliamentName": "Setiawangsa",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 331,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 119,
+			"parliamentCode": "P119",
+			"parliamentName": "Titiwangsa",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 332,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 120,
+			"parliamentCode": "P120",
+			"parliamentName": "Bukit Bintang",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 333,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 121,
+			"parliamentCode": "P121",
+			"parliamentName": "Lembah Pantai",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 334,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 122,
+			"parliamentCode": "P122",
+			"parliamentName": "Seputeh",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 335,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 123,
+			"parliamentCode": "P123",
+			"parliamentName": "Cheras",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 336,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 124,
+			"parliamentCode": "P124",
+			"parliamentName": "Bandar Tun Razak",
+			"stateId": 9,
+			"stateName": "W.P Kuala Lumpur"
+		},
+		{
+			"dunId": 337,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 125,
+			"parliamentCode": "P125",
+			"parliamentName": "Putrajaya",
+			"stateId": 10,
+			"stateName": "W.P Putrajaya"
+		},
+		{
+			"dunId": 338,
+			"dunCode": "N01",
+			"dunName": "Chennah",
+			"parliamentId": 126,
+			"parliamentCode": "P126",
+			"parliamentName": "Jelebu",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 339,
+			"dunCode": "N02",
+			"dunName": "Pertang",
+			"parliamentId": 126,
+			"parliamentCode": "P126",
+			"parliamentName": "Jelebu",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 340,
+			"dunCode": "N03",
+			"dunName": "Sungai Lui",
+			"parliamentId": 126,
+			"parliamentCode": "P126",
+			"parliamentName": "Jelebu",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 341,
+			"dunCode": "N04",
+			"dunName": "Klawang",
+			"parliamentId": 126,
+			"parliamentCode": "P126",
+			"parliamentName": "Jelebu",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 342,
+			"dunCode": "N05",
+			"dunName": "Serting",
+			"parliamentId": 127,
+			"parliamentCode": "P127",
+			"parliamentName": "Jempol",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 343,
+			"dunCode": "N06",
+			"dunName": "Palong",
+			"parliamentId": 127,
+			"parliamentCode": "P127",
+			"parliamentName": "Jempol",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 344,
+			"dunCode": "N07",
+			"dunName": "Jeram Padang",
+			"parliamentId": 127,
+			"parliamentCode": "P127",
+			"parliamentName": "Jempol",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 345,
+			"dunCode": "N08",
+			"dunName": "Bahau",
+			"parliamentId": 127,
+			"parliamentCode": "P127",
+			"parliamentName": "Jempol",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 346,
+			"dunCode": "N09",
+			"dunName": "Lenggeng",
+			"parliamentId": 128,
+			"parliamentCode": "P128",
+			"parliamentName": "Seremban",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 347,
+			"dunCode": "N10",
+			"dunName": "Nilai",
+			"parliamentId": 128,
+			"parliamentCode": "P128",
+			"parliamentName": "Seremban",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 348,
+			"dunCode": "N11",
+			"dunName": "Lobak",
+			"parliamentId": 128,
+			"parliamentCode": "P128",
+			"parliamentName": "Seremban",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 349,
+			"dunCode": "N12",
+			"dunName": "Temiang",
+			"parliamentId": 128,
+			"parliamentCode": "P128",
+			"parliamentName": "Seremban",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 350,
+			"dunCode": "N13",
+			"dunName": "Sikamat",
+			"parliamentId": 128,
+			"parliamentCode": "P128",
+			"parliamentName": "Seremban",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 351,
+			"dunCode": "N14",
+			"dunName": "Ampangan",
+			"parliamentId": 128,
+			"parliamentCode": "P128",
+			"parliamentName": "Seremban",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 352,
+			"dunCode": "N15",
+			"dunName": "Juasseh",
+			"parliamentId": 129,
+			"parliamentCode": "P129",
+			"parliamentName": "Kuala Pilah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 353,
+			"dunCode": "N16",
+			"dunName": "Seri Menanti",
+			"parliamentId": 129,
+			"parliamentCode": "P129",
+			"parliamentName": "Kuala Pilah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 354,
+			"dunCode": "N17",
+			"dunName": "Senaling",
+			"parliamentId": 129,
+			"parliamentCode": "P129",
+			"parliamentName": "Kuala Pilah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 355,
+			"dunCode": "N18",
+			"dunName": "Pilah",
+			"parliamentId": 129,
+			"parliamentCode": "P129",
+			"parliamentName": "Kuala Pilah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 356,
+			"dunCode": "N19",
+			"dunName": "Johol",
+			"parliamentId": 129,
+			"parliamentCode": "P129",
+			"parliamentName": "Kuala Pilah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 357,
+			"dunCode": "N20",
+			"dunName": "Labu",
+			"parliamentId": 130,
+			"parliamentCode": "P130",
+			"parliamentName": "Rasah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 358,
+			"dunCode": "N21",
+			"dunName": "Bukit Kepayang",
+			"parliamentId": 130,
+			"parliamentCode": "P130",
+			"parliamentName": "Rasah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 359,
+			"dunCode": "N22",
+			"dunName": "Rahang",
+			"parliamentId": 130,
+			"parliamentCode": "P130",
+			"parliamentName": "Rasah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 360,
+			"dunCode": "N23",
+			"dunName": "Mambau",
+			"parliamentId": 130,
+			"parliamentCode": "P130",
+			"parliamentName": "Rasah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 361,
+			"dunCode": "N24",
+			"dunName": "Seremban Jaya",
+			"parliamentId": 130,
+			"parliamentCode": "P130",
+			"parliamentName": "Rasah",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 362,
+			"dunCode": "N25",
+			"dunName": "Paroi",
+			"parliamentId": 131,
+			"parliamentCode": "P131",
+			"parliamentName": "Rembau",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 363,
+			"dunCode": "N26",
+			"dunName": "Chembong",
+			"parliamentId": 131,
+			"parliamentCode": "P131",
+			"parliamentName": "Rembau",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 364,
+			"dunCode": "N27",
+			"dunName": "Rantau",
+			"parliamentId": 131,
+			"parliamentCode": "P131",
+			"parliamentName": "Rembau",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 365,
+			"dunCode": "N28",
+			"dunName": "Kota",
+			"parliamentId": 131,
+			"parliamentCode": "P131",
+			"parliamentName": "Rembau",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 366,
+			"dunCode": "N29",
+			"dunName": "Chuah",
+			"parliamentId": 132,
+			"parliamentCode": "P132",
+			"parliamentName": "Port Dickson",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 367,
+			"dunCode": "N30",
+			"dunName": "Lukut",
+			"parliamentId": 132,
+			"parliamentCode": "P132",
+			"parliamentName": "Port Dickson",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 368,
+			"dunCode": "N31",
+			"dunName": "Bagan Pinang",
+			"parliamentId": 132,
+			"parliamentCode": "P132",
+			"parliamentName": "Port Dickson",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 369,
+			"dunCode": "N32",
+			"dunName": "Linggi",
+			"parliamentId": 132,
+			"parliamentCode": "P132",
+			"parliamentName": "Port Dickson",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 370,
+			"dunCode": "N33",
+			"dunName": "Sri Tanjung",
+			"parliamentId": 132,
+			"parliamentCode": "P132",
+			"parliamentName": "Port Dickson",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 371,
+			"dunCode": "N34",
+			"dunName": "Gemas",
+			"parliamentId": 133,
+			"parliamentCode": "P133",
+			"parliamentName": "Tampin",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 372,
+			"dunCode": "N35",
+			"dunName": "Gemencheh",
+			"parliamentId": 133,
+			"parliamentCode": "P133",
+			"parliamentName": "Tampin",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 373,
+			"dunCode": "N36",
+			"dunName": "Repah",
+			"parliamentId": 133,
+			"parliamentCode": "P133",
+			"parliamentName": "Tampin",
+			"stateId": 11,
+			"stateName": "Negeri Sembilan"
+		},
+		{
+			"dunId": 374,
+			"dunCode": "N01",
+			"dunName": "Kuala Linggi",
+			"parliamentId": 134,
+			"parliamentCode": "P134",
+			"parliamentName": "Masjid Tanah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 375,
+			"dunCode": "N02",
+			"dunName": "Tanjung Bidara",
+			"parliamentId": 134,
+			"parliamentCode": "P134",
+			"parliamentName": "Masjid Tanah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 376,
+			"dunCode": "N03",
+			"dunName": "Ayer Limau",
+			"parliamentId": 134,
+			"parliamentCode": "P134",
+			"parliamentName": "Masjid Tanah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 377,
+			"dunCode": "N04",
+			"dunName": "Lendu",
+			"parliamentId": 134,
+			"parliamentCode": "P134",
+			"parliamentName": "Masjid Tanah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 378,
+			"dunCode": "N05",
+			"dunName": "Taboh Naning",
+			"parliamentId": 134,
+			"parliamentCode": "P134",
+			"parliamentName": "Masjid Tanah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 379,
+			"dunCode": "N06",
+			"dunName": "Rembia",
+			"parliamentId": 135,
+			"parliamentCode": "P135",
+			"parliamentName": "Alor Gajah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 380,
+			"dunCode": "N07",
+			"dunName": "Gadek",
+			"parliamentId": 135,
+			"parliamentCode": "P135",
+			"parliamentName": "Alor Gajah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 381,
+			"dunCode": "N08",
+			"dunName": "Machap Jaya",
+			"parliamentId": 135,
+			"parliamentCode": "P135",
+			"parliamentName": "Alor Gajah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 382,
+			"dunCode": "N09",
+			"dunName": "Durian Tunggal",
+			"parliamentId": 135,
+			"parliamentCode": "P135",
+			"parliamentName": "Alor Gajah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 383,
+			"dunCode": "N10",
+			"dunName": "Asahan",
+			"parliamentId": 135,
+			"parliamentCode": "P135",
+			"parliamentName": "Alor Gajah",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 384,
+			"dunCode": "N11",
+			"dunName": "Sungai Udang",
+			"parliamentId": 136,
+			"parliamentCode": "P136",
+			"parliamentName": "Tangga Batu",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 385,
+			"dunCode": "N12",
+			"dunName": "Pantai Kundor",
+			"parliamentId": 136,
+			"parliamentCode": "P136",
+			"parliamentName": "Tangga Batu",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 386,
+			"dunCode": "N13",
+			"dunName": "Paya Rumput",
+			"parliamentId": 136,
+			"parliamentCode": "P136",
+			"parliamentName": "Tangga Batu",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 387,
+			"dunCode": "N14",
+			"dunName": "Kelebang",
+			"parliamentId": 136,
+			"parliamentCode": "P136",
+			"parliamentName": "Tangga Batu",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 388,
+			"dunCode": "N15",
+			"dunName": "Pengkalan Batu",
+			"parliamentId": 137,
+			"parliamentCode": "P137",
+			"parliamentName": "Hang Tuah Jaya",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 389,
+			"dunCode": "N16",
+			"dunName": "Ayer Keroh",
+			"parliamentId": 137,
+			"parliamentCode": "P137",
+			"parliamentName": "Hang Tuah Jaya",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 390,
+			"dunCode": "N17",
+			"dunName": "Bukit Katil",
+			"parliamentId": 137,
+			"parliamentCode": "P137",
+			"parliamentName": "Hang Tuah Jaya",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 391,
+			"dunCode": "N18",
+			"dunName": "Ayer Molek",
+			"parliamentId": 137,
+			"parliamentCode": "P137",
+			"parliamentName": "Hang Tuah Jaya",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 392,
+			"dunCode": "N19",
+			"dunName": "Kesidang",
+			"parliamentId": 138,
+			"parliamentCode": "P138",
+			"parliamentName": "Kota Melaka",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 393,
+			"dunCode": "N20",
+			"dunName": "Kota Laksamana",
+			"parliamentId": 138,
+			"parliamentCode": "P138",
+			"parliamentName": "Kota Melaka",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 394,
+			"dunCode": "N21",
+			"dunName": "Duyong",
+			"parliamentId": 138,
+			"parliamentCode": "P138",
+			"parliamentName": "Kota Melaka",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 395,
+			"dunCode": "N22",
+			"dunName": "Bandar Hilir",
+			"parliamentId": 138,
+			"parliamentCode": "P138",
+			"parliamentName": "Kota Melaka",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 396,
+			"dunCode": "N23",
+			"dunName": "Telok Mas",
+			"parliamentId": 138,
+			"parliamentCode": "P138",
+			"parliamentName": "Kota Melaka",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 397,
+			"dunCode": "N24",
+			"dunName": "Bemban",
+			"parliamentId": 139,
+			"parliamentCode": "P139",
+			"parliamentName": "Jasin",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 398,
+			"dunCode": "N25",
+			"dunName": "Rim",
+			"parliamentId": 139,
+			"parliamentCode": "P139",
+			"parliamentName": "Jasin",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 399,
+			"dunCode": "N26",
+			"dunName": "Serkam",
+			"parliamentId": 139,
+			"parliamentCode": "P139",
+			"parliamentName": "Jasin",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 400,
+			"dunCode": "N27",
+			"dunName": "Merlimau",
+			"parliamentId": 139,
+			"parliamentCode": "P139",
+			"parliamentName": "Jasin",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 401,
+			"dunCode": "N28",
+			"dunName": "Sungai Rambai",
+			"parliamentId": 139,
+			"parliamentCode": "P139",
+			"parliamentName": "Jasin",
+			"stateId": 12,
+			"stateName": "Melaka"
+		},
+		{
+			"dunId": 402,
+			"dunCode": "N01",
+			"dunName": "Buloh Kasap",
+			"parliamentId": 140,
+			"parliamentCode": "P140",
+			"parliamentName": "Segamat",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 403,
+			"dunCode": "N02",
+			"dunName": "Jementah",
+			"parliamentId": 140,
+			"parliamentCode": "P140",
+			"parliamentName": "Segamat",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 404,
+			"dunCode": "N03",
+			"dunName": "Pemanis",
+			"parliamentId": 141,
+			"parliamentCode": "P141",
+			"parliamentName": "Sekijang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 405,
+			"dunCode": "N04",
+			"dunName": "Kemelah",
+			"parliamentId": 141,
+			"parliamentCode": "P141",
+			"parliamentName": "Sekijang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 406,
+			"dunCode": "N05",
+			"dunName": "Tenang",
+			"parliamentId": 142,
+			"parliamentCode": "P142",
+			"parliamentName": "Labis",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 407,
+			"dunCode": "N06",
+			"dunName": "Bekok",
+			"parliamentId": 142,
+			"parliamentCode": "P142",
+			"parliamentName": "Labis",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 408,
+			"dunCode": "N07",
+			"dunName": "Bukit Kepong",
+			"parliamentId": 143,
+			"parliamentCode": "P143",
+			"parliamentName": "Pagoh",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 409,
+			"dunCode": "N08",
+			"dunName": "Bukit Pasir",
+			"parliamentId": 143,
+			"parliamentCode": "P143",
+			"parliamentName": "Pagoh",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 410,
+			"dunCode": "N09",
+			"dunName": "Gambir",
+			"parliamentId": 144,
+			"parliamentCode": "P144",
+			"parliamentName": "Ledang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 411,
+			"dunCode": "N10",
+			"dunName": "Tangkak",
+			"parliamentId": 144,
+			"parliamentCode": "P144",
+			"parliamentName": "Ledang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 412,
+			"dunCode": "N11",
+			"dunName": "Serom",
+			"parliamentId": 144,
+			"parliamentCode": "P144",
+			"parliamentName": "Ledang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 413,
+			"dunCode": "N12",
+			"dunName": "Bentayan",
+			"parliamentId": 145,
+			"parliamentCode": "P145",
+			"parliamentName": "Bakri",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 414,
+			"dunCode": "N13",
+			"dunName": "Simpang Jeram",
+			"parliamentId": 145,
+			"parliamentCode": "P145",
+			"parliamentName": "Bakri",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 415,
+			"dunCode": "N14",
+			"dunName": "Bukit Naning",
+			"parliamentId": 145,
+			"parliamentCode": "P145",
+			"parliamentName": "Bakri",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 416,
+			"dunCode": "N15",
+			"dunName": "Maharani",
+			"parliamentId": 146,
+			"parliamentCode": "P146",
+			"parliamentName": "Muar",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 417,
+			"dunCode": "N16",
+			"dunName": "Sungai Balang",
+			"parliamentId": 146,
+			"parliamentCode": "P146",
+			"parliamentName": "Muar",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 418,
+			"dunCode": "N17",
+			"dunName": "Semerah",
+			"parliamentId": 147,
+			"parliamentCode": "P147",
+			"parliamentName": "Parit Sulong",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 419,
+			"dunCode": "N18",
+			"dunName": "Sri Medan",
+			"parliamentId": 147,
+			"parliamentCode": "P147",
+			"parliamentName": "Parit Sulong",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 420,
+			"dunCode": "N19",
+			"dunName": "Yong Peng",
+			"parliamentId": 148,
+			"parliamentCode": "P148",
+			"parliamentName": "Ayer Hitam",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 421,
+			"dunCode": "N20",
+			"dunName": "Semarang",
+			"parliamentId": 148,
+			"parliamentCode": "P148",
+			"parliamentName": "Ayer Hitam",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 422,
+			"dunCode": "N21",
+			"dunName": "Parit Yaani",
+			"parliamentId": 149,
+			"parliamentCode": "P149",
+			"parliamentName": "Sri Gading",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 423,
+			"dunCode": "N22",
+			"dunName": "Parit Raja",
+			"parliamentId": 149,
+			"parliamentCode": "P149",
+			"parliamentName": "Sri Gading",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 424,
+			"dunCode": "N23",
+			"dunName": "Penggaram",
+			"parliamentId": 150,
+			"parliamentCode": "P150",
+			"parliamentName": "Batu Pahat",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 425,
+			"dunCode": "N24",
+			"dunName": "Senggarang",
+			"parliamentId": 150,
+			"parliamentCode": "P150",
+			"parliamentName": "Batu Pahat",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 426,
+			"dunCode": "N25",
+			"dunName": "Rengit",
+			"parliamentId": 150,
+			"parliamentCode": "P150",
+			"parliamentName": "Batu Pahat",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 427,
+			"dunCode": "N26",
+			"dunName": "Machap",
+			"parliamentId": 151,
+			"parliamentCode": "P151",
+			"parliamentName": "Simpang Renggam",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 428,
+			"dunCode": "N27",
+			"dunName": "Layang-Layang",
+			"parliamentId": 151,
+			"parliamentCode": "P151",
+			"parliamentName": "Simpang Renggam",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 429,
+			"dunCode": "N28",
+			"dunName": "Mengkibol",
+			"parliamentId": 152,
+			"parliamentCode": "P152",
+			"parliamentName": "Kluang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 430,
+			"dunCode": "N29",
+			"dunName": "Mahkota",
+			"parliamentId": 152,
+			"parliamentCode": "P152",
+			"parliamentName": "Kluang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 431,
+			"dunCode": "N30",
+			"dunName": "Paloh",
+			"parliamentId": 153,
+			"parliamentCode": "P153",
+			"parliamentName": "Sembrong",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 432,
+			"dunCode": "N31",
+			"dunName": "Kahang",
+			"parliamentId": 153,
+			"parliamentCode": "P153",
+			"parliamentName": "Sembrong",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 433,
+			"dunCode": "N32",
+			"dunName": "Endau",
+			"parliamentId": 154,
+			"parliamentCode": "P154",
+			"parliamentName": "Mersing",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 434,
+			"dunCode": "N33",
+			"dunName": "Tenggaroh",
+			"parliamentId": 154,
+			"parliamentCode": "P154",
+			"parliamentName": "Mersing",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 435,
+			"dunCode": "N34",
+			"dunName": "Panti",
+			"parliamentId": 155,
+			"parliamentCode": "P155",
+			"parliamentName": "Tenggara",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 436,
+			"dunCode": "N35",
+			"dunName": "Pasir Raja",
+			"parliamentId": 155,
+			"parliamentCode": "P155",
+			"parliamentName": "Tenggara",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 437,
+			"dunCode": "N36",
+			"dunName": "Sedili",
+			"parliamentId": 156,
+			"parliamentCode": "P156",
+			"parliamentName": "Kota Tinggi",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 438,
+			"dunCode": "N37",
+			"dunName": "Johor Lama",
+			"parliamentId": 156,
+			"parliamentCode": "P156",
+			"parliamentName": "Kota Tinggi",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 439,
+			"dunCode": "N38",
+			"dunName": "Penawar",
+			"parliamentId": 157,
+			"parliamentCode": "P157",
+			"parliamentName": "Pengerang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 440,
+			"dunCode": "N39",
+			"dunName": "Tanjung Surat",
+			"parliamentId": 157,
+			"parliamentCode": "P157",
+			"parliamentName": "Pengerang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 441,
+			"dunCode": "N40",
+			"dunName": "Tiram",
+			"parliamentId": 158,
+			"parliamentCode": "P158",
+			"parliamentName": "Tebrau",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 442,
+			"dunCode": "N41",
+			"dunName": "Puteri Wangsa",
+			"parliamentId": 158,
+			"parliamentCode": "P158",
+			"parliamentName": "Tebrau",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 443,
+			"dunCode": "N42",
+			"dunName": "Johor Jaya",
+			"parliamentId": 159,
+			"parliamentCode": "P159",
+			"parliamentName": "Pasir Gudang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 444,
+			"dunCode": "N43",
+			"dunName": "Permas",
+			"parliamentId": 159,
+			"parliamentCode": "P159",
+			"parliamentName": "Pasir Gudang",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 445,
+			"dunCode": "N44",
+			"dunName": "Larkin",
+			"parliamentId": 160,
+			"parliamentCode": "P160",
+			"parliamentName": "Johor Bahru",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 446,
+			"dunCode": "N45",
+			"dunName": "Stulang",
+			"parliamentId": 160,
+			"parliamentCode": "P160",
+			"parliamentName": "Johor Bahru",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 447,
+			"dunCode": "N46",
+			"dunName": "Perling",
+			"parliamentId": 161,
+			"parliamentCode": "P161",
+			"parliamentName": "Pulai",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 448,
+			"dunCode": "N47",
+			"dunName": "Kempas",
+			"parliamentId": 161,
+			"parliamentCode": "P161",
+			"parliamentName": "Pulai",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 449,
+			"dunCode": "N48",
+			"dunName": "Skudai",
+			"parliamentId": 162,
+			"parliamentCode": "P162",
+			"parliamentName": "Iskandar Puteri",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 450,
+			"dunCode": "N49",
+			"dunName": "Kota Iskandar",
+			"parliamentId": 162,
+			"parliamentCode": "P162",
+			"parliamentName": "Iskandar Puteri",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 451,
+			"dunCode": "N50",
+			"dunName": "Bukit Permai",
+			"parliamentId": 163,
+			"parliamentCode": "P163",
+			"parliamentName": "Kulai",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 452,
+			"dunCode": "N51",
+			"dunName": "Bukit Batu",
+			"parliamentId": 163,
+			"parliamentCode": "P163",
+			"parliamentName": "Kulai",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 453,
+			"dunCode": "N52",
+			"dunName": "Senai",
+			"parliamentId": 163,
+			"parliamentCode": "P163",
+			"parliamentName": "Kulai",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 454,
+			"dunCode": "N53",
+			"dunName": "Benut",
+			"parliamentId": 164,
+			"parliamentCode": "P164",
+			"parliamentName": "Pontian",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 455,
+			"dunCode": "N54",
+			"dunName": "Pulai Sebatang",
+			"parliamentId": 164,
+			"parliamentCode": "P164",
+			"parliamentName": "Pontian",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 456,
+			"dunCode": "N55",
+			"dunName": "Pekan Nanas",
+			"parliamentId": 165,
+			"parliamentCode": "P165",
+			"parliamentName": "Tanjung Piai",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 457,
+			"dunCode": "N56",
+			"dunName": "Kukup",
+			"parliamentId": 165,
+			"parliamentCode": "P165",
+			"parliamentName": "Tanjung Piai",
+			"stateId": 13,
+			"stateName": "Johor"
+		},
+		{
+			"dunId": 458,
+			"dunCode": "N/A",
+			"dunName": "N/A",
+			"parliamentId": 166,
+			"parliamentCode": "P166",
+			"parliamentName": "Labuan",
+			"stateId": 14,
+			"stateName": "W.P Labuan"
+		},
+		{
+			"dunId": 459,
+			"dunCode": "N01",
+			"dunName": "Banggi",
+			"parliamentId": 167,
+			"parliamentCode": "P167",
+			"parliamentName": "Kudat",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 460,
+			"dunCode": "N02",
+			"dunName": "Bengkoka",
+			"parliamentId": 167,
+			"parliamentCode": "P167",
+			"parliamentName": "Kudat",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 461,
+			"dunCode": "N03",
+			"dunName": "Pitas",
+			"parliamentId": 167,
+			"parliamentCode": "P167",
+			"parliamentName": "Kudat",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 462,
+			"dunCode": "N04",
+			"dunName": "Tanjong Kapor",
+			"parliamentId": 167,
+			"parliamentCode": "P167",
+			"parliamentName": "Kudat",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 463,
+			"dunCode": "N05",
+			"dunName": "Matunggong",
+			"parliamentId": 168,
+			"parliamentCode": "P168",
+			"parliamentName": "Kota Marudu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 464,
+			"dunCode": "N06",
+			"dunName": "Bandau",
+			"parliamentId": 168,
+			"parliamentCode": "P168",
+			"parliamentName": "Kota Marudu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 465,
+			"dunCode": "N07",
+			"dunName": "Tandek",
+			"parliamentId": 168,
+			"parliamentCode": "P168",
+			"parliamentName": "Kota Marudu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 466,
+			"dunCode": "N08",
+			"dunName": "Pintasan",
+			"parliamentId": 169,
+			"parliamentCode": "P169",
+			"parliamentName": "Kota Belud",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 467,
+			"dunCode": "N09",
+			"dunName": "Tempasuk",
+			"parliamentId": 169,
+			"parliamentCode": "P169",
+			"parliamentName": "Kota Belud",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 468,
+			"dunCode": "N10",
+			"dunName": "Usukan",
+			"parliamentId": 169,
+			"parliamentCode": "P169",
+			"parliamentName": "Kota Belud",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 469,
+			"dunCode": "N11",
+			"dunName": "Kadamaian",
+			"parliamentId": 169,
+			"parliamentCode": "P169",
+			"parliamentName": "Kota Belud",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 470,
+			"dunCode": "N12",
+			"dunName": "Sulaman",
+			"parliamentId": 170,
+			"parliamentCode": "P170",
+			"parliamentName": "Tuaran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 471,
+			"dunCode": "N13",
+			"dunName": "Pantai Dalit",
+			"parliamentId": 170,
+			"parliamentCode": "P170",
+			"parliamentName": "Tuaran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 472,
+			"dunCode": "N14",
+			"dunName": "Tamparuli",
+			"parliamentId": 170,
+			"parliamentCode": "P170",
+			"parliamentName": "Tuaran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 473,
+			"dunCode": "N15",
+			"dunName": "Kiulu",
+			"parliamentId": 170,
+			"parliamentCode": "P170",
+			"parliamentName": "Tuaran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 474,
+			"dunCode": "N16",
+			"dunName": "Karambunai",
+			"parliamentId": 171,
+			"parliamentCode": "P171",
+			"parliamentName": "Sepanggar",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 475,
+			"dunCode": "N17",
+			"dunName": "Darau",
+			"parliamentId": 171,
+			"parliamentCode": "P171",
+			"parliamentName": "Sepanggar",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 476,
+			"dunCode": "N18",
+			"dunName": "Inanam",
+			"parliamentId": 171,
+			"parliamentCode": "P171",
+			"parliamentName": "Sepanggar",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 477,
+			"dunCode": "N19",
+			"dunName": "Likas",
+			"parliamentId": 172,
+			"parliamentCode": "P172",
+			"parliamentName": "Kota Kinabalu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 478,
+			"dunCode": "N20",
+			"dunName": "Api-Api",
+			"parliamentId": 172,
+			"parliamentCode": "P172",
+			"parliamentName": "Kota Kinabalu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 479,
+			"dunCode": "N21",
+			"dunName": "Luyang",
+			"parliamentId": 172,
+			"parliamentCode": "P172",
+			"parliamentName": "Kota Kinabalu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 480,
+			"dunCode": "N22",
+			"dunName": "Tanjung Aru",
+			"parliamentId": 173,
+			"parliamentCode": "P173",
+			"parliamentName": "Putatan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 481,
+			"dunCode": "N23",
+			"dunName": "Petagas",
+			"parliamentId": 173,
+			"parliamentCode": "P173",
+			"parliamentName": "Putatan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 482,
+			"dunCode": "N24",
+			"dunName": "Tanjung Keramat",
+			"parliamentId": 173,
+			"parliamentCode": "P173",
+			"parliamentName": "Putatan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 483,
+			"dunCode": "N25",
+			"dunName": "Kapayan",
+			"parliamentId": 174,
+			"parliamentCode": "P174",
+			"parliamentName": "Penampang",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 484,
+			"dunCode": "N26",
+			"dunName": "Moyog",
+			"parliamentId": 174,
+			"parliamentCode": "P174",
+			"parliamentName": "Penampang",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 485,
+			"dunCode": "N27",
+			"dunName": "Limbahau",
+			"parliamentId": 175,
+			"parliamentCode": "P175",
+			"parliamentName": "Papar",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 486,
+			"dunCode": "N28",
+			"dunName": "Kawang",
+			"parliamentId": 175,
+			"parliamentCode": "P175",
+			"parliamentName": "Papar",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 487,
+			"dunCode": "N29",
+			"dunName": "Pantai Manis",
+			"parliamentId": 175,
+			"parliamentCode": "P175",
+			"parliamentName": "Papar",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 488,
+			"dunCode": "N30",
+			"dunName": "Bongawan",
+			"parliamentId": 176,
+			"parliamentCode": "P176",
+			"parliamentName": "Kimanis",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 489,
+			"dunCode": "N31",
+			"dunName": "Membakut",
+			"parliamentId": 176,
+			"parliamentCode": "P176",
+			"parliamentName": "Kimanis",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 490,
+			"dunCode": "N32",
+			"dunName": "Klias",
+			"parliamentId": 177,
+			"parliamentCode": "P177",
+			"parliamentName": "Beaufort",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 491,
+			"dunCode": "N33",
+			"dunName": "Kuala Penyu",
+			"parliamentId": 177,
+			"parliamentCode": "P177",
+			"parliamentName": "Beaufort",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 492,
+			"dunCode": "N34",
+			"dunName": "Lumadan",
+			"parliamentId": 178,
+			"parliamentCode": "P178",
+			"parliamentName": "Sipitang",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 493,
+			"dunCode": "N35",
+			"dunName": "Sindumin",
+			"parliamentId": 178,
+			"parliamentCode": "P178",
+			"parliamentName": "Sipitang",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 494,
+			"dunCode": "N36",
+			"dunName": "Kundasang",
+			"parliamentId": 179,
+			"parliamentCode": "P179",
+			"parliamentName": "Ranau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 495,
+			"dunCode": "N37",
+			"dunName": "Karanaan",
+			"parliamentId": 179,
+			"parliamentCode": "P179",
+			"parliamentName": "Ranau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 496,
+			"dunCode": "N38",
+			"dunName": "Paginatan",
+			"parliamentId": 179,
+			"parliamentCode": "P179",
+			"parliamentName": "Ranau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 497,
+			"dunCode": "N39",
+			"dunName": "Tambunan",
+			"parliamentId": 180,
+			"parliamentCode": "P180",
+			"parliamentName": "Keningau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 498,
+			"dunCode": "N40",
+			"dunName": "Bingkor",
+			"parliamentId": 180,
+			"parliamentCode": "P180",
+			"parliamentName": "Keningau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 499,
+			"dunCode": "N41",
+			"dunName": "Liawan",
+			"parliamentId": 180,
+			"parliamentCode": "P180",
+			"parliamentName": "Keningau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 500,
+			"dunCode": "N42",
+			"dunName": "Melalap",
+			"parliamentId": 181,
+			"parliamentCode": "P181",
+			"parliamentName": "Tenom",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 501,
+			"dunCode": "N43",
+			"dunName": "Kemabong",
+			"parliamentId": 181,
+			"parliamentCode": "P181",
+			"parliamentName": "Tenom",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 502,
+			"dunCode": "N44",
+			"dunName": "Tulid",
+			"parliamentId": 182,
+			"parliamentCode": "P182",
+			"parliamentName": "Pensiangan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 503,
+			"dunCode": "N45",
+			"dunName": "Sook",
+			"parliamentId": 182,
+			"parliamentCode": "P182",
+			"parliamentName": "Pensiangan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 504,
+			"dunCode": "N46",
+			"dunName": "Nabawan",
+			"parliamentId": 182,
+			"parliamentCode": "P182",
+			"parliamentName": "Pensiangan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 505,
+			"dunCode": "N47",
+			"dunName": "Telupid",
+			"parliamentId": 183,
+			"parliamentCode": "P183",
+			"parliamentName": "Beluran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 506,
+			"dunCode": "N48",
+			"dunName": "Sugut",
+			"parliamentId": 183,
+			"parliamentCode": "P183",
+			"parliamentName": "Beluran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 507,
+			"dunCode": "N49",
+			"dunName": "Labuk",
+			"parliamentId": 183,
+			"parliamentCode": "P183",
+			"parliamentName": "Beluran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 508,
+			"dunCode": "N50",
+			"dunName": "Gum-Gum",
+			"parliamentId": 184,
+			"parliamentCode": "P184",
+			"parliamentName": "Libaran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 509,
+			"dunCode": "N51",
+			"dunName": "Sungai Manila",
+			"parliamentId": 184,
+			"parliamentCode": "P184",
+			"parliamentName": "Libaran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 510,
+			"dunCode": "N52",
+			"dunName": "Sungai Sibuga",
+			"parliamentId": 184,
+			"parliamentCode": "P184",
+			"parliamentName": "Libaran",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 511,
+			"dunCode": "N53",
+			"dunName": "Sekong",
+			"parliamentId": 185,
+			"parliamentCode": "P185",
+			"parliamentName": "Batu Sapi",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 512,
+			"dunCode": "N54",
+			"dunName": "Karamunting",
+			"parliamentId": 185,
+			"parliamentCode": "P185",
+			"parliamentName": "Batu Sapi",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 513,
+			"dunCode": "N55",
+			"dunName": "Elopura",
+			"parliamentId": 186,
+			"parliamentCode": "P186",
+			"parliamentName": "Sandakan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 514,
+			"dunCode": "N56",
+			"dunName": "Tanjong Papat",
+			"parliamentId": 186,
+			"parliamentCode": "P186",
+			"parliamentName": "Sandakan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 515,
+			"dunCode": "N57",
+			"dunName": "Kuamut",
+			"parliamentId": 187,
+			"parliamentCode": "P187",
+			"parliamentName": "Kinabatangan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 516,
+			"dunCode": "N58",
+			"dunName": "Lamag",
+			"parliamentId": 187,
+			"parliamentCode": "P187",
+			"parliamentName": "Kinabatangan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 517,
+			"dunCode": "N59",
+			"dunName": "Sukau",
+			"parliamentId": 187,
+			"parliamentCode": "P187",
+			"parliamentName": "Kinabatangan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 518,
+			"dunCode": "N60",
+			"dunName": "Tungku",
+			"parliamentId": 188,
+			"parliamentCode": "P188",
+			"parliamentName": "Lahad Datu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 519,
+			"dunCode": "N61",
+			"dunName": "Segama",
+			"parliamentId": 188,
+			"parliamentCode": "P188",
+			"parliamentName": "Lahad Datu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 520,
+			"dunCode": "N62",
+			"dunName": "Silam",
+			"parliamentId": 188,
+			"parliamentCode": "P188",
+			"parliamentName": "Lahad Datu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 521,
+			"dunCode": "N63",
+			"dunName": "Kunak",
+			"parliamentId": 188,
+			"parliamentCode": "P188",
+			"parliamentName": "Lahad Datu",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 522,
+			"dunCode": "N64",
+			"dunName": "Sulabayan",
+			"parliamentId": 189,
+			"parliamentCode": "P189",
+			"parliamentName": "Semporna",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 523,
+			"dunCode": "N65",
+			"dunName": "Senallang",
+			"parliamentId": 189,
+			"parliamentCode": "P189",
+			"parliamentName": "Semporna",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 524,
+			"dunCode": "N66",
+			"dunName": "Bugaya",
+			"parliamentId": 189,
+			"parliamentCode": "P189",
+			"parliamentName": "Semporna",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 525,
+			"dunCode": "N67",
+			"dunName": "Balung",
+			"parliamentId": 190,
+			"parliamentCode": "P190",
+			"parliamentName": "Tawau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 526,
+			"dunCode": "N68",
+			"dunName": "Apas",
+			"parliamentId": 190,
+			"parliamentCode": "P190",
+			"parliamentName": "Tawau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 527,
+			"dunCode": "N69",
+			"dunName": "Sri Tanjong",
+			"parliamentId": 190,
+			"parliamentCode": "P190",
+			"parliamentName": "Tawau",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 528,
+			"dunCode": "N70",
+			"dunName": "Kukusan",
+			"parliamentId": 191,
+			"parliamentCode": "P191",
+			"parliamentName": "Kalabakan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 529,
+			"dunCode": "N71",
+			"dunName": "Tanjung Batu",
+			"parliamentId": 191,
+			"parliamentCode": "P191",
+			"parliamentName": "Kalabakan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 530,
+			"dunCode": "N72",
+			"dunName": "Merotai",
+			"parliamentId": 191,
+			"parliamentCode": "P191",
+			"parliamentName": "Kalabakan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 531,
+			"dunCode": "N73",
+			"dunName": "Sebatik",
+			"parliamentId": 191,
+			"parliamentCode": "P191",
+			"parliamentName": "Kalabakan",
+			"stateId": 15,
+			"stateName": "Sabah"
+		},
+		{
+			"dunId": 532,
+			"dunCode": "N01",
+			"dunName": "Opar",
+			"parliamentId": 192,
+			"parliamentCode": "P192",
+			"parliamentName": "Mas Gading",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 533,
+			"dunCode": "N02",
+			"dunName": "Tasik Biru",
+			"parliamentId": 192,
+			"parliamentCode": "P192",
+			"parliamentName": "Mas Gading",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 534,
+			"dunCode": "N03",
+			"dunName": "Tanjong Datu",
+			"parliamentId": 193,
+			"parliamentCode": "P193",
+			"parliamentName": "Santubong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 535,
+			"dunCode": "N04",
+			"dunName": "Pantai Damai",
+			"parliamentId": 193,
+			"parliamentCode": "P193",
+			"parliamentName": "Santubong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 536,
+			"dunCode": "N05",
+			"dunName": "Demak Laut",
+			"parliamentId": 193,
+			"parliamentCode": "P193",
+			"parliamentName": "Santubong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 537,
+			"dunCode": "N06",
+			"dunName": "Tupong",
+			"parliamentId": 194,
+			"parliamentCode": "P194",
+			"parliamentName": "Petra Jaya",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 538,
+			"dunCode": "N07",
+			"dunName": "Samariang",
+			"parliamentId": 194,
+			"parliamentCode": "P194",
+			"parliamentName": "Petra Jaya",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 539,
+			"dunCode": "N08",
+			"dunName": "Satok",
+			"parliamentId": 194,
+			"parliamentCode": "P194",
+			"parliamentName": "Petra Jaya",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 540,
+			"dunCode": "N09",
+			"dunName": "Padungan",
+			"parliamentId": 195,
+			"parliamentCode": "P195",
+			"parliamentName": "Bandar Kuching",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 541,
+			"dunCode": "N10",
+			"dunName": "Pending",
+			"parliamentId": 195,
+			"parliamentCode": "P195",
+			"parliamentName": "Bandar Kuching",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 542,
+			"dunCode": "N11",
+			"dunName": "Batu Lintang",
+			"parliamentId": 195,
+			"parliamentCode": "P195",
+			"parliamentName": "Bandar Kuching",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 543,
+			"dunCode": "N12",
+			"dunName": "Kota Sentosa",
+			"parliamentId": 196,
+			"parliamentCode": "P196",
+			"parliamentName": "Stampin",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 544,
+			"dunCode": "N13",
+			"dunName": "Batu Kitang",
+			"parliamentId": 196,
+			"parliamentCode": "P196",
+			"parliamentName": "Stampin",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 545,
+			"dunCode": "N14",
+			"dunName": "Batu Kawah",
+			"parliamentId": 196,
+			"parliamentCode": "P196",
+			"parliamentName": "Stampin",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 546,
+			"dunCode": "N15",
+			"dunName": "Asajaya",
+			"parliamentId": 197,
+			"parliamentCode": "P197",
+			"parliamentName": "Kota Samarahan",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 547,
+			"dunCode": "N16",
+			"dunName": "Muara Tuang",
+			"parliamentId": 197,
+			"parliamentCode": "P197",
+			"parliamentName": "Kota Samarahan",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 548,
+			"dunCode": "N17",
+			"dunName": "Stakan",
+			"parliamentId": 197,
+			"parliamentCode": "P197",
+			"parliamentName": "Kota Samarahan",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 549,
+			"dunCode": "N18",
+			"dunName": "Serembu",
+			"parliamentId": 198,
+			"parliamentCode": "P198",
+			"parliamentName": "Puncak Borneo",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 550,
+			"dunCode": "N19",
+			"dunName": "Mambong",
+			"parliamentId": 198,
+			"parliamentCode": "P198",
+			"parliamentName": "Puncak Borneo",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 551,
+			"dunCode": "N20",
+			"dunName": "Tarat",
+			"parliamentId": 198,
+			"parliamentCode": "P198",
+			"parliamentName": "Puncak Borneo",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 552,
+			"dunCode": "N21",
+			"dunName": "Tebedu",
+			"parliamentId": 199,
+			"parliamentCode": "P199",
+			"parliamentName": "Serian",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 553,
+			"dunCode": "N22",
+			"dunName": "Kedup",
+			"parliamentId": 199,
+			"parliamentCode": "P199",
+			"parliamentName": "Serian",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 554,
+			"dunCode": "N23",
+			"dunName": "Bukit Semuja",
+			"parliamentId": 199,
+			"parliamentCode": "P199",
+			"parliamentName": "Serian",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 555,
+			"dunCode": "N24",
+			"dunName": "Sadong Jaya",
+			"parliamentId": 200,
+			"parliamentCode": "P200",
+			"parliamentName": "Batang Sadong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 556,
+			"dunCode": "N25",
+			"dunName": "Simunjan",
+			"parliamentId": 200,
+			"parliamentCode": "P200",
+			"parliamentName": "Batang Sadong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 557,
+			"dunCode": "N26",
+			"dunName": "Gedong",
+			"parliamentId": 200,
+			"parliamentCode": "P200",
+			"parliamentName": "Batang Sadong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 558,
+			"dunCode": "N27",
+			"dunName": "Sebuyau",
+			"parliamentId": 201,
+			"parliamentCode": "P201",
+			"parliamentName": "Batang Lupar",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 559,
+			"dunCode": "N28",
+			"dunName": "Lingga",
+			"parliamentId": 201,
+			"parliamentCode": "P201",
+			"parliamentName": "Batang Lupar",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 560,
+			"dunCode": "N29",
+			"dunName": "Beting Maro",
+			"parliamentId": 201,
+			"parliamentCode": "P201",
+			"parliamentName": "Batang Lupar",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 561,
+			"dunCode": "N30",
+			"dunName": "Balai Ringin",
+			"parliamentId": 202,
+			"parliamentCode": "P202",
+			"parliamentName": "Sri Aman",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 562,
+			"dunCode": "N31",
+			"dunName": "Bukit Begunan",
+			"parliamentId": 202,
+			"parliamentCode": "P202",
+			"parliamentName": "Sri Aman",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 563,
+			"dunCode": "N32",
+			"dunName": "Simanggang",
+			"parliamentId": 202,
+			"parliamentCode": "P202",
+			"parliamentName": "Sri Aman",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 564,
+			"dunCode": "N33",
+			"dunName": "Engkilili",
+			"parliamentId": 203,
+			"parliamentCode": "P203",
+			"parliamentName": "Lubok Antu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 565,
+			"dunCode": "N34",
+			"dunName": "Batang Ai",
+			"parliamentId": 203,
+			"parliamentCode": "P203",
+			"parliamentName": "Lubok Antu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 566,
+			"dunCode": "N35",
+			"dunName": "Saribas",
+			"parliamentId": 204,
+			"parliamentCode": "P204",
+			"parliamentName": "Betong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 567,
+			"dunCode": "N36",
+			"dunName": "Layar",
+			"parliamentId": 204,
+			"parliamentCode": "P204",
+			"parliamentName": "Betong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 568,
+			"dunCode": "N37",
+			"dunName": "Bukit Saban",
+			"parliamentId": 204,
+			"parliamentCode": "P204",
+			"parliamentName": "Betong",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 569,
+			"dunCode": "N38",
+			"dunName": "Kalaka",
+			"parliamentId": 205,
+			"parliamentCode": "P205",
+			"parliamentName": "Saratok",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 570,
+			"dunCode": "N39",
+			"dunName": "Krian",
+			"parliamentId": 205,
+			"parliamentCode": "P205",
+			"parliamentName": "Saratok",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 571,
+			"dunCode": "N40",
+			"dunName": "Kabong",
+			"parliamentId": 205,
+			"parliamentCode": "P205",
+			"parliamentName": "Saratok",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 572,
+			"dunCode": "N41",
+			"dunName": "Kuala Rajang",
+			"parliamentId": 206,
+			"parliamentCode": "P206",
+			"parliamentName": "Tanjong Manis",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 573,
+			"dunCode": "N42",
+			"dunName": "Semop",
+			"parliamentId": 206,
+			"parliamentCode": "P206",
+			"parliamentName": "Tanjong Manis",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 574,
+			"dunCode": "N43",
+			"dunName": "Daro",
+			"parliamentId": 207,
+			"parliamentCode": "P207",
+			"parliamentName": "Igan",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 575,
+			"dunCode": "N44",
+			"dunName": "Jemoreng",
+			"parliamentId": 207,
+			"parliamentCode": "P207",
+			"parliamentName": "Igan",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 576,
+			"dunCode": "N45",
+			"dunName": "Repok",
+			"parliamentId": 208,
+			"parliamentCode": "P208",
+			"parliamentName": "Sarikei",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 577,
+			"dunCode": "N46",
+			"dunName": "Meradong",
+			"parliamentId": 208,
+			"parliamentCode": "P208",
+			"parliamentName": "Sarikei",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 578,
+			"dunCode": "N47",
+			"dunName": "Pakan",
+			"parliamentId": 209,
+			"parliamentCode": "P209",
+			"parliamentName": "Julau",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 579,
+			"dunCode": "N48",
+			"dunName": "Meluan",
+			"parliamentId": 209,
+			"parliamentCode": "P209",
+			"parliamentName": "Julau",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 580,
+			"dunCode": "N49",
+			"dunName": "Ngemah",
+			"parliamentId": 210,
+			"parliamentCode": "P210",
+			"parliamentName": "Kanowit",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 581,
+			"dunCode": "N50",
+			"dunName": "Machan",
+			"parliamentId": 210,
+			"parliamentCode": "P210",
+			"parliamentName": "Kanowit",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 582,
+			"dunCode": "N51",
+			"dunName": "Bukit Assek",
+			"parliamentId": 211,
+			"parliamentCode": "P211",
+			"parliamentName": "Lanang",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 583,
+			"dunCode": "N52",
+			"dunName": "Dudong",
+			"parliamentId": 211,
+			"parliamentCode": "P211",
+			"parliamentName": "Lanang",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 584,
+			"dunCode": "N53",
+			"dunName": "Bawang Assan",
+			"parliamentId": 212,
+			"parliamentCode": "P212",
+			"parliamentName": "Sibu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 585,
+			"dunCode": "N54",
+			"dunName": "Pelawan",
+			"parliamentId": 212,
+			"parliamentCode": "P212",
+			"parliamentName": "Sibu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 586,
+			"dunCode": "N55",
+			"dunName": "Nangka",
+			"parliamentId": 212,
+			"parliamentCode": "P212",
+			"parliamentName": "Sibu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 587,
+			"dunCode": "N56",
+			"dunName": "Dalat",
+			"parliamentId": 213,
+			"parliamentCode": "P213",
+			"parliamentName": "Mukah",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 588,
+			"dunCode": "N57",
+			"dunName": "Tellian",
+			"parliamentId": 213,
+			"parliamentCode": "P213",
+			"parliamentName": "Mukah",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 589,
+			"dunCode": "N58",
+			"dunName": "Balingian",
+			"parliamentId": 213,
+			"parliamentCode": "P213",
+			"parliamentName": "Mukah",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 590,
+			"dunCode": "N59",
+			"dunName": "Tamin",
+			"parliamentId": 214,
+			"parliamentCode": "P214",
+			"parliamentName": "Selangau",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 591,
+			"dunCode": "N60",
+			"dunName": "Kakus",
+			"parliamentId": 214,
+			"parliamentCode": "P214",
+			"parliamentName": "Selangau",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 592,
+			"dunCode": "N61",
+			"dunName": "Pelagus",
+			"parliamentId": 215,
+			"parliamentCode": "P215",
+			"parliamentName": "Kapit",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 593,
+			"dunCode": "N62",
+			"dunName": "Katibas",
+			"parliamentId": 215,
+			"parliamentCode": "P215",
+			"parliamentName": "Kapit",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 594,
+			"dunCode": "N63",
+			"dunName": "Bukit Goram",
+			"parliamentId": 215,
+			"parliamentCode": "P215",
+			"parliamentName": "Kapit",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 595,
+			"dunCode": "N64",
+			"dunName": "Baleh",
+			"parliamentId": 216,
+			"parliamentCode": "P216",
+			"parliamentName": "Hulu Rajang",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 596,
+			"dunCode": "N65",
+			"dunName": "Belaga",
+			"parliamentId": 216,
+			"parliamentCode": "P216",
+			"parliamentName": "Hulu Rajang",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 597,
+			"dunCode": "N66",
+			"dunName": "Murum",
+			"parliamentId": 216,
+			"parliamentCode": "P216",
+			"parliamentName": "Hulu Rajang",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 598,
+			"dunCode": "N67",
+			"dunName": "Jepak",
+			"parliamentId": 217,
+			"parliamentCode": "P217",
+			"parliamentName": "Bintulu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 599,
+			"dunCode": "N68",
+			"dunName": "Tanjong Batu",
+			"parliamentId": 217,
+			"parliamentCode": "P217",
+			"parliamentName": "Bintulu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 600,
+			"dunCode": "N69",
+			"dunName": "Kemena",
+			"parliamentId": 217,
+			"parliamentCode": "P217",
+			"parliamentName": "Bintulu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 601,
+			"dunCode": "N70",
+			"dunName": "Samalaju",
+			"parliamentId": 217,
+			"parliamentCode": "P217",
+			"parliamentName": "Bintulu",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 602,
+			"dunCode": "N71",
+			"dunName": "Bekenu",
+			"parliamentId": 218,
+			"parliamentCode": "P218",
+			"parliamentName": "Sibuti",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 603,
+			"dunCode": "N72",
+			"dunName": "Lambir",
+			"parliamentId": 218,
+			"parliamentCode": "P218",
+			"parliamentName": "Sibuti",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 604,
+			"dunCode": "N73",
+			"dunName": "Piasau",
+			"parliamentId": 219,
+			"parliamentCode": "P219",
+			"parliamentName": "Miri",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 605,
+			"dunCode": "N74",
+			"dunName": "Pujut",
+			"parliamentId": 219,
+			"parliamentCode": "P219",
+			"parliamentName": "Miri",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 606,
+			"dunCode": "N75",
+			"dunName": "Senadin",
+			"parliamentId": 219,
+			"parliamentCode": "P219",
+			"parliamentName": "Miri",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 607,
+			"dunCode": "N76",
+			"dunName": "Marudi",
+			"parliamentId": 220,
+			"parliamentCode": "P220",
+			"parliamentName": "Baram",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 608,
+			"dunCode": "N77",
+			"dunName": "Telang Usan",
+			"parliamentId": 220,
+			"parliamentCode": "P220",
+			"parliamentName": "Baram",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 609,
+			"dunCode": "N78",
+			"dunName": "Mulu",
+			"parliamentId": 220,
+			"parliamentCode": "P220",
+			"parliamentName": "Baram",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 610,
+			"dunCode": "N79",
+			"dunName": "Bukit Kota",
+			"parliamentId": 221,
+			"parliamentCode": "P221",
+			"parliamentName": "Limbang",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 611,
+			"dunCode": "N80",
+			"dunName": "Batu Danau",
+			"parliamentId": 221,
+			"parliamentCode": "P221",
+			"parliamentName": "Limbang",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 612,
+			"dunCode": "N81",
+			"dunName": "Ba'kelalan",
+			"parliamentId": 222,
+			"parliamentCode": "P222",
+			"parliamentName": "Lawas",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		},
+		{
+			"dunId": 613,
+			"dunCode": "N82",
+			"dunName": "Bukit Sari",
+			"parliamentId": 222,
+			"parliamentCode": "P222",
+			"parliamentName": "Lawas",
+			"stateId": 16,
+			"stateName": "Sarawak"
+		}
+	]
+}
