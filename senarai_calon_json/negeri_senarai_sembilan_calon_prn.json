@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Jalaluddin Alias",
+        "party_id": 2,
+        "parliament_id": 126,
+        "dun_id": 339
+    },
+    {
+        "name": "Razi Mohd Ali",
+        "party_id": 2,
+        "parliament_id": 126,
+        "dun_id": 340
+    },
+    {
+        "name": "Muhamad Zamri Omar",
+        "party_id": 2,
+        "parliament_id": 127,
+        "dun_id": 342
+    },
+    {
+        "name": "Mustafar Nagot",
+        "party_id": 2,
+        "parliament_id": 127,
+        "dun_id": 343
+    },
+    {
+        "name": "Mohd Zaidy Abdul Kadir",
+        "party_id": 2,
+        "parliament_id": 127,
+        "dun_id": 344
+    },
+    {
+        "name": "Mohd Asna Amin",
+        "party_id": 2,
+        "parliament_id": 128,
+        "dun_id": 346
+    },
+    {
+        "name": "Bibi Sharliza Mohd Khalid",
+        "party_id": 2,
+        "parliament_id": 129,
+        "dun_id": 352
+    },
+    {
+        "name": "Muhammad Sufian Maradzi",
+        "party_id": 2,
+        "parliament_id": 129,
+        "dun_id": 353
+    },
+    {
+        "name": "Ismail Lasim",
+        "party_id": 2,
+        "parliament_id": 129,
+        "dun_id": 354
+    },
+    {
+        "name": "Saiful Yazan Sulaiman",
+        "party_id": 2,
+        "parliament_id": 129,
+        "dun_id": 356
+    },
+    {
+        "name": "Zaifulbahri Idris",
+        "party_id": 2,
+        "parliament_id": 131,
+        "dun_id": 363
+    },
+    {
+        "name": "Mohamad Hassan",
+        "party_id": 2,
+        "parliament_id": 131,
+        "dun_id": 364
+    },
+    {
+        "name": "Suhaimi Aini",
+        "party_id": 2,
+        "parliament_id": 131,
+        "dun_id": 365
+    },
+    {
+        "name": "Mohd Najib Mohd Isa",
+        "party_id": 2,
+        "parliament_id": 132,
+        "dun_id": 368
+    },
+    {
+        "name": "Mohd Faizal Ramli",
+        "party_id": 2,
+        "parliament_id": 132,
+        "dun_id": 369
+    },
+    {
+        "name": "Abd Razak Ab Said",
+        "party_id": 2,
+        "parliament_id": 133,
+        "dun_id": 371
+    },
+    {
+        "name": "Suhaimizan Bizar",
+        "party_id": 2,
+        "parliament_id": 133,
+        "dun_id": 372
+    },
+    {
+        "name": "Yew Boon Lye",
+        "party_id": 1,
+        "parliament_id": 132,
+        "dun_id": 366
+    },
+    {
+        "name": "Aminuddin bin Harun",
+        "party_id": 1,
+        "parliament_id": 128,
+        "dun_id": 350
+    },
+    {
+        "name": "Tengku Zamrah binti Tengku Sulaiman",
+        "party_id": 1,
+        "parliament_id": 128,
+        "dun_id": 351
+    },
+    {
+        "name": "Nur Zunita Begum",
+        "party_id": 1,
+        "parliament_id": 129,
+        "dun_id": 355
+    },
+    {
+        "name": "Ismail Ahmad",
+        "party_id": 1,
+        "parliament_id": 130,
+        "dun_id": 357
+    },
+    {
+        "name": "Dr Rajasekaran",
+        "party_id": 1,
+        "parliament_id": 132,
+        "dun_id": 370
+    },
+    {
+        "name": "Amirudin Bin Hassan",
+        "party_id": 3,
+        "parliament_id": 126,
+        "dun_id": 339
+    },
+    {
+        "name": "Mohd Nordin Bin Hasim",
+        "party_id": 3,
+        "parliament_id": 126,
+        "dun_id": 340
+    },
+    {
+        "name": "Mohd Fairuz Bin Mohd Isa",
+        "party_id": 3,
+        "parliament_id": 127,
+        "dun_id": 342
+    },
+    {
+        "name": "Kumar A\/L S Paramasivam",
+        "party_id": 3,
+        "parliament_id": 127,
+        "dun_id": 345
+    },
+    {
+        "name": "Mohd Fadli Bin Che Me",
+        "party_id": 3,
+        "parliament_id": 128,
+        "dun_id": 346
+    },
+    {
+        "name": "Rafiei Bin Mustapha",
+        "party_id": 3,
+        "parliament_id": 129,
+        "dun_id": 355
+    },
+    {
+        "name": "Kamarudin Bin Md Tahir",
+        "party_id": 3,
+        "parliament_id": 129,
+        "dun_id": 356
+    },
+    {
+        "name": "Sathes Kumar A\/L Nilammeham",
+        "party_id": 3,
+        "parliament_id": 130,
+        "dun_id": 360
+    },
+    {
+        "name": "Kamarol Ridzuan Bin Mohd Zain",
+        "party_id": 3,
+        "parliament_id": 131,
+        "dun_id": 362
+    },
+    {
+        "name": "Rozmal Bin Malakan",
+        "party_id": 3,
+        "parliament_id": 131,
+        "dun_id": 364
+    },
+    {
+        "name": "Ragu A\/L Subramaniam",
+        "party_id": 3,
+        "parliament_id": 132,
+        "dun_id": 367
+    },
+    {
+        "name": "Abdul Fatah Bin Zakaria",
+        "party_id": 3,
+        "parliament_id": 132,
+        "dun_id": 368
+    },
+    {
+        "name": "Tengku Abdullah Bin Tengku Rakman",
+        "party_id": 3,
+        "parliament_id": 133,
+        "dun_id": 372
+    }
+]
