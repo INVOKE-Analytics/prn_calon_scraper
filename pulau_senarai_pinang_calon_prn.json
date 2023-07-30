@@ -1,0 +1,356 @@
+[
+    {
+        "name": "Mohd Naim Salleh",
+        "party_id": 2,
+        "parliament_id": 41,
+        "dun_id": 129
+    },
+    {
+        "name": "Reezal Merican Naina Merican",
+        "party_id": 2,
+        "parliament_id": 41,
+        "dun_id": 130
+    },
+    {
+        "name": "Norhafizah Othman",
+        "party_id": 2,
+        "parliament_id": 42,
+        "dun_id": 132
+    },
+    {
+        "name": "Shaik Hussein Mydin",
+        "party_id": 2,
+        "parliament_id": 42,
+        "dun_id": 133
+    },
+    {
+        "name": "Rashidi Zinol",
+        "party_id": 2,
+        "parliament_id": 47,
+        "dun_id": 149
+    },
+    {
+        "name": "Ahmad Zaki Shah Shah Headan",
+        "party_id": 2,
+        "parliament_id": 53,
+        "dun_id": 168
+    },
+    {
+        "name": "Zainuddin bin Mohd",
+        "party_id": 1,
+        "parliament_id": 41,
+        "dun_id": 131
+    },
+    {
+        "name": "Mohsin Md Sharif",
+        "party_id": 1,
+        "parliament_id": 42,
+        "dun_id": 134
+    },
+    {
+        "name": "Johari Kassim",
+        "party_id": 1,
+        "parliament_id": 44,
+        "dun_id": 138
+    },
+    {
+        "name": "Ust Rohsidi b Hussin",
+        "party_id": 1,
+        "parliament_id": 44,
+        "dun_id": 140
+    },
+    {
+        "name": "Lee Khai Loon",
+        "party_id": 1,
+        "parliament_id": 45,
+        "dun_id": 142
+    },
+    {
+        "name": "Gooi Hsiao Leung",
+        "party_id": 1,
+        "parliament_id": 46,
+        "dun_id": 145
+    },
+    {
+        "name": "Goh Choon Aik",
+        "party_id": 1,
+        "parliament_id": 46,
+        "dun_id": 146
+    },
+    {
+        "name": "Norhidayah Che Ros",
+        "party_id": 1,
+        "parliament_id": 47,
+        "dun_id": 148
+    },
+    {
+        "name": "Lee Boon Heung",
+        "party_id": 1,
+        "parliament_id": 48,
+        "dun_id": 152
+    },
+    {
+        "name": "Kumaresan Arumugam",
+        "party_id": 1,
+        "parliament_id": 52,
+        "dun_id": 163
+    },
+    {
+        "name": "Fahmi Zainol",
+        "party_id": 1,
+        "parliament_id": 52,
+        "dun_id": 164
+    },
+    {
+        "name": "Prof Dr Mohd Abdul Hamid",
+        "party_id": 1,
+        "parliament_id": 52,
+        "dun_id": 165
+    },
+    {
+        "name": "Mohd Tuah Ismail",
+        "party_id": 1,
+        "parliament_id": 53,
+        "dun_id": 167
+    },
+    {
+        "name": "Mohd Yusni Mat Piah ",
+        "party_id": 3,
+        "parliament_id": 41,
+        "dun_id": 129
+    },
+    {
+        "name": "Khaliq Mehtab Mohd Isyaq ",
+        "party_id": 3,
+        "parliament_id": 41,
+        "dun_id": 130
+    },
+    {
+        "name": "Bukhori Ghazali ",
+        "party_id": 3,
+        "parliament_id": 41,
+        "dun_id": 131
+    },
+    {
+        "name": "Mohd Sobri Salleh ",
+        "party_id": 3,
+        "parliament_id": 42,
+        "dun_id": 132
+    },
+    {
+        "name": "Muhammad Fauzi Yusoff ",
+        "party_id": 3,
+        "parliament_id": 42,
+        "dun_id": 133
+    },
+    {
+        "name": "Azmi Alang ",
+        "party_id": 3,
+        "parliament_id": 42,
+        "dun_id": 134
+    },
+    {
+        "name": "Teoh Chin Siang ",
+        "party_id": 3,
+        "parliament_id": 43,
+        "dun_id": 135
+    },
+    {
+        "name": "Ong Chuan Jin ",
+        "party_id": 3,
+        "parliament_id": 43,
+        "dun_id": 136
+    },
+    {
+        "name": "Jayaraman K Kunchu Kannu ",
+        "party_id": 3,
+        "parliament_id": 43,
+        "dun_id": 137
+    },
+    {
+        "name": "Izhar Shah Arif Shah ",
+        "party_id": 3,
+        "parliament_id": 44,
+        "dun_id": 138
+    },
+    {
+        "name": "Amir Hamzah Abdul Hashim @ Md Hashim ",
+        "party_id": 3,
+        "parliament_id": 44,
+        "dun_id": 139
+    },
+    {
+        "name": "Zulkefli Bakar ",
+        "party_id": 3,
+        "parliament_id": 44,
+        "dun_id": 140
+    },
+    {
+        "name": "Lee Kok Keong ",
+        "party_id": 3,
+        "parliament_id": 45,
+        "dun_id": 141
+    },
+    {
+        "name": "Tan Hum Wei ",
+        "party_id": 3,
+        "parliament_id": 45,
+        "dun_id": 142
+    },
+    {
+        "name": "Suresh Devaraj Naidu ",
+        "party_id": 3,
+        "parliament_id": 45,
+        "dun_id": 143
+    },
+    {
+        "name": "Sivasuntaram Rajalinggam ",
+        "party_id": 3,
+        "parliament_id": 46,
+        "dun_id": 144
+    },
+    {
+        "name": "Baljit Singh Jigiri Singh ",
+        "party_id": 3,
+        "parliament_id": 46,
+        "dun_id": 145
+    },
+    {
+        "name": "Tan Gia Wei ",
+        "party_id": 3,
+        "parliament_id": 46,
+        "dun_id": 146
+    },
+    {
+        "name": "Koh Tien Yew ",
+        "party_id": 3,
+        "parliament_id": 47,
+        "dun_id": 147
+    },
+    {
+        "name": "Nor Zamri Latiff ",
+        "party_id": 3,
+        "parliament_id": 47,
+        "dun_id": 148
+    },
+    {
+        "name": "Zulkifli Ibrahim ",
+        "party_id": 3,
+        "parliament_id": 47,
+        "dun_id": 149
+    },
+    {
+        "name": "Hng Chee Wey ",
+        "party_id": 3,
+        "parliament_id": 48,
+        "dun_id": 150
+    },
+    {
+        "name": "Kong Cheng Ann ",
+        "party_id": 3,
+        "parliament_id": 48,
+        "dun_id": 151
+    },
+    {
+        "name": "Tan Zhen Zune ",
+        "party_id": 3,
+        "parliament_id": 48,
+        "dun_id": 152
+    },
+    {
+        "name": "Tang Ching Sern ",
+        "party_id": 3,
+        "parliament_id": 48,
+        "dun_id": 153
+    },
+    {
+        "name": "H’ng Khoon Leng ",
+        "party_id": 3,
+        "parliament_id": 49,
+        "dun_id": 154
+    },
+    {
+        "name": "Suthakaran Subramaniam ",
+        "party_id": 3,
+        "parliament_id": 49,
+        "dun_id": 155
+    },
+    {
+        "name": "Cheah Kim Huat ",
+        "party_id": 3,
+        "parliament_id": 49,
+        "dun_id": 156
+    },
+    {
+        "name": "Heng See Lin ",
+        "party_id": 3,
+        "parliament_id": 50,
+        "dun_id": 157
+    },
+    {
+        "name": "Ng Fook On ",
+        "party_id": 3,
+        "parliament_id": 50,
+        "dun_id": 158
+    },
+    {
+        "name": "Mohd Aswaad Jaafar ",
+        "party_id": 3,
+        "parliament_id": 50,
+        "dun_id": 159
+    },
+    {
+        "name": "Mohan Apparoo ",
+        "party_id": 3,
+        "parliament_id": 51,
+        "dun_id": 160
+    },
+    {
+        "name": "Cheang Chee Gooi ",
+        "party_id": 3,
+        "parliament_id": 51,
+        "dun_id": 161
+    },
+    {
+        "name": "Ooi Ghee Un ",
+        "party_id": 3,
+        "parliament_id": 51,
+        "dun_id": 162
+    },
+    {
+        "name": "Mok Kok On ",
+        "party_id": 3,
+        "parliament_id": 52,
+        "dun_id": 163
+    },
+    {
+        "name": "Oh Tong Keong ",
+        "party_id": 3,
+        "parliament_id": 52,
+        "dun_id": 164
+    },
+    {
+        "name": "Azahari Aris ",
+        "party_id": 3,
+        "parliament_id": 52,
+        "dun_id": 165
+    },
+    {
+        "name": "Dominic Lau Hoe Chai ",
+        "party_id": 3,
+        "parliament_id": 53,
+        "dun_id": 166
+    },
+    {
+        "name": "Mohamad Shukor Zakariah ",
+        "party_id": 3,
+        "parliament_id": 53,
+        "dun_id": 167
+    },
+    {
+        "name": "Muhamad Kasim ",
+        "party_id": 3,
+        "parliament_id": 53,
+        "dun_id": 168
+    }
+]
