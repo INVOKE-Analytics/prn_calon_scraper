@@ -1,0 +1,3422 @@
+[
+    {
+        "name": "SHAMSILAH BINTI SIRU",
+        "party_id": 3,
+        "dun_id": 16,
+        "parliament_id": null
+    },
+    {
+        "name": "SAFWAN HANIF BIN SHAFIE",
+        "party_id": 5,
+        "dun_id": 16,
+        "parliament_id": null
+    },
+    {
+        "name": "HISHAM SUHAILY BINTI OTHMAN",
+        "party_id": 2,
+        "dun_id": 16,
+        "parliament_id": null
+    },
+    {
+        "name": "ZULFADLI BIN MOHD YUSOFF",
+        "party_id": 5,
+        "dun_id": 16,
+        "parliament_id": null
+    },
+    {
+        "name": "AMAR PARED BIN MAHAMUD",
+        "party_id": 3,
+        "dun_id": 17,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD FAUZI BIN CHIK",
+        "party_id": 1,
+        "dun_id": 17,
+        "parliament_id": null
+    },
+    {
+        "name": "MAZLAN BIN AHMAD",
+        "party_id": 5,
+        "dun_id": 17,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ASHRAF MUSTAQIM BIN BADRUL MUNIR",
+        "party_id": 3,
+        "dun_id": 18,
+        "parliament_id": null
+    },
+    {
+        "name": "SALMEE BINTI SAID",
+        "party_id": 1,
+        "dun_id": 18,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL BIN RAMLI",
+        "party_id": 5,
+        "dun_id": 18,
+        "parliament_id": null
+    },
+    {
+        "name": "HAYAZI BIN AZIZAN",
+        "party_id": 2,
+        "dun_id": 19,
+        "parliament_id": null
+    },
+    {
+        "name": "AZHAR BIN IBRAHIM",
+        "party_id": 3,
+        "dun_id": 19,
+        "parliament_id": null
+    },
+    {
+        "name": "HALIMATON SHAADIAH BINTI SAAD",
+        "party_id": 3,
+        "dun_id": 20,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAINOL @ ZAINOL ABIDIN BIN MOHAMAD",
+        "party_id": 2,
+        "dun_id": 20,
+        "parliament_id": null
+    },
+    {
+        "name": "SABRINA BINTI AHMAD",
+        "party_id": 1,
+        "dun_id": 21,
+        "parliament_id": null
+    },
+    {
+        "name": "HAIM HILMAN BIN ABDULLAH",
+        "party_id": 3,
+        "dun_id": 21,
+        "parliament_id": null
+    },
+    {
+        "name": "RIDZWAN BIN ABU BAKAR",
+        "party_id": 1,
+        "dun_id": 22,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD YUSOFF BIN ZAKARIA",
+        "party_id": 3,
+        "dun_id": 22,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD RADZI BIN MD AMIN",
+        "party_id": 3,
+        "dun_id": 23,
+        "parliament_id": null
+    },
+    {
+        "name": "MAHDZIR BIN KHALID",
+        "party_id": 2,
+        "dun_id": 23,
+        "parliament_id": null
+    },
+    {
+        "name": "SAID ALI BIN SAID RASTAN",
+        "party_id": 2,
+        "dun_id": 24,
+        "parliament_id": null
+    },
+    {
+        "name": "SALIM BIN MAHMOOD",
+        "party_id": 3,
+        "dun_id": 24,
+        "parliament_id": null
+    },
+    {
+        "name": "ROMANI BIN WAN SALIN",
+        "party_id": 3,
+        "dun_id": 25,
+        "parliament_id": null
+    },
+    {
+        "name": "HADZIR BIN MD.ZAIN",
+        "party_id": 1,
+        "dun_id": 25,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN KOK YEW",
+        "party_id": 1,
+        "dun_id": 26,
+        "parliament_id": null
+    },
+    {
+        "name": "NOOR AZMAN BIN BASHARON @ CHE MAN",
+        "party_id": 5,
+        "dun_id": 26,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMAD AMRI BIN WAHAB",
+        "party_id": 3,
+        "dun_id": 26,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAMRI BIN YUSUF",
+        "party_id": 1,
+        "dun_id": 27,
+        "parliament_id": null
+    },
+    {
+        "name": "DZOWAHIR BIN AB GHANI",
+        "party_id": 3,
+        "dun_id": 27,
+        "parliament_id": null
+    },
+    {
+        "name": "CHUAH SEE SENG",
+        "party_id": 3,
+        "dun_id": 28,
+        "parliament_id": null
+    },
+    {
+        "name": "TEH SWEE LEONG",
+        "party_id": 1,
+        "dun_id": 28,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMAD RADHI BIN MAT DIN",
+        "party_id": 3,
+        "dun_id": 29,
+        "parliament_id": null
+    },
+    {
+        "name": "MAHFUZ BIN OMAR",
+        "party_id": 1,
+        "dun_id": 29,
+        "parliament_id": null
+    },
+    {
+        "name": "RASHIDI BIN RAZAK",
+        "party_id": 3,
+        "dun_id": 30,
+        "parliament_id": null
+    },
+    {
+        "name": "NOOR HASITA BINTI MAT ISA",
+        "party_id": 2,
+        "dun_id": 30,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ASMIRUL ANUAR BIN ARIS",
+        "party_id": 1,
+        "dun_id": 31,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SALLEH BIN SAIDIN",
+        "party_id": 3,
+        "dun_id": 31,
+        "parliament_id": null
+    },
+    {
+        "name": "MARDHIYYAH BINTI JOHARI",
+        "party_id": 3,
+        "dun_id": 32,
+        "parliament_id": null
+    },
+    {
+        "name": "ISMAIL BIN SALLEH",
+        "party_id": 1,
+        "dun_id": 32,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD HAYATI BIN OTHMAN",
+        "party_id": 3,
+        "dun_id": 33,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAINAL ABIDIN BIN SAAD",
+        "party_id": 1,
+        "dun_id": 33,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL RAZAK BIN KHAMIS",
+        "party_id": 3,
+        "dun_id": 34,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD FADZIL BIN ZOLKIPLI",
+        "party_id": 2,
+        "dun_id": 34,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD AZAM BIN ABD SAMAT",
+        "party_id": 3,
+        "dun_id": 35,
+        "parliament_id": null
+    },
+    {
+        "name": "SITI BALKHIS BINTI HUSAIN",
+        "party_id": 1,
+        "dun_id": 35,
+        "parliament_id": null
+    },
+    {
+        "name": "KU ABDUL HALIM BIN KU ISMAIL",
+        "party_id": 5,
+        "dun_id": 36,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL PARIS BIN ABDUL HAMID",
+        "party_id": 2,
+        "dun_id": 36,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL GHAFAR BIN SAAD",
+        "party_id": 3,
+        "dun_id": 36,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMMED FIRDAUS BIN JOHARI",
+        "party_id": 1,
+        "dun_id": 37,
+        "parliament_id": null
+    },
+    {
+        "name": "BADDROL BIN BAKHTIAR",
+        "party_id": 3,
+        "dun_id": 37,
+        "parliament_id": null
+    },
+    {
+        "name": "MAZLI BINTI SAIPI",
+        "party_id": 1,
+        "dun_id": 38,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD BIN SULAIMAN",
+        "party_id": 3,
+        "dun_id": 38,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMAD KHIZRI BIN ABU KASSIM",
+        "party_id": 2,
+        "dun_id": 39,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD SANUSI BIN MD NOR",
+        "party_id": 3,
+        "dun_id": 39,
+        "parliament_id": null
+    },
+    {
+        "name": "AZIZAN BIN HAMZAH",
+        "party_id": 3,
+        "dun_id": 40,
+        "parliament_id": null
+    },
+    {
+        "name": "DINESH A/L MUNIANDY",
+        "party_id": 5,
+        "dun_id": 40,
+        "parliament_id": null
+    },
+    {
+        "name": "SUMMUGAM A/L RENGASAMY",
+        "party_id": 1,
+        "dun_id": 40,
+        "parliament_id": null
+    },
+    {
+        "name": "SHAIFUL HAZIZY BIN ZAINOL ABIDIN",
+        "party_id": 2,
+        "dun_id": 41,
+        "parliament_id": null
+    },
+    {
+        "name": "HANIF BIN GHAZALI",
+        "party_id": 3,
+        "dun_id": 41,
+        "parliament_id": null
+    },
+    {
+        "name": "SHARIR BIN LONG",
+        "party_id": 3,
+        "dun_id": 42,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN MOHALINA BINTI WAN MOHAMMAD",
+        "party_id": 2,
+        "dun_id": 42,
+        "parliament_id": null
+    },
+    {
+        "name": "LOH WEI CHAI",
+        "party_id": 1,
+        "dun_id": 43,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN KEE CHYE",
+        "party_id": 9,
+        "dun_id": 43,
+        "parliament_id": null
+    },
+    {
+        "name": "TAI KUANG TEE",
+        "party_id": 3,
+        "dun_id": 43,
+        "parliament_id": null
+    },
+    {
+        "name": "JULIANA BINTI ABDUL GHANI",
+        "party_id": 3,
+        "dun_id": 44,
+        "parliament_id": null
+    },
+    {
+        "name": "BAU WONG A/L BAU EK",
+        "party_id": 1,
+        "dun_id": 44,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD TAUFIK BIN YAACOB",
+        "party_id": 3,
+        "dun_id": 45,
+        "parliament_id": null
+    },
+    {
+        "name": "ISHAK BIN MAT",
+        "party_id": 2,
+        "dun_id": 45,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD SUHAIMI BIN HAMZAH",
+        "party_id": 1,
+        "dun_id": 46,
+        "parliament_id": null
+    },
+    {
+        "name": "NAJMI BIN HJ AHMAD",
+        "party_id": 3,
+        "dun_id": 46,
+        "parliament_id": null
+    },
+    {
+        "name": "MANSOR BIN ZAKARIA",
+        "party_id": 3,
+        "dun_id": 47,
+        "parliament_id": null
+    },
+    {
+        "name": "SURIATI BINTI CHE MID",
+        "party_id": 2,
+        "dun_id": 47,
+        "parliament_id": null
+    },
+    {
+        "name": "ASMADI BIN ABU TALIB",
+        "party_id": 2,
+        "dun_id": 48,
+        "parliament_id": null
+    },
+    {
+        "name": "SITI ASHAH BINTI GHAZALI",
+        "party_id": 3,
+        "dun_id": 48,
+        "parliament_id": null
+    },
+    {
+        "name": "SHAMSUL ANUAR BIN ABDULLAH",
+        "party_id": 1,
+        "dun_id": 49,
+        "parliament_id": null
+    },
+    {
+        "name": "KHAIRUL ANUAR BIN RAMLI",
+        "party_id": 3,
+        "dun_id": 49,
+        "parliament_id": null
+    },
+    {
+        "name": "RAJENDARAN A/L NADARAJAN",
+        "party_id": 5,
+        "dun_id": 49,
+        "parliament_id": null
+    },
+    {
+        "name": "PANNIR SELVAM A/L S SUPPIAH",
+        "party_id": 5,
+        "dun_id": 49,
+        "parliament_id": null
+    },
+    {
+        "name": "ARICHINDAREM A/L SINAPPAYEN",
+        "party_id": 5,
+        "dun_id": 49,
+        "parliament_id": null
+    },
+    {
+        "name": "TEH LEAN ONG",
+        "party_id": 1,
+        "dun_id": 50,
+        "parliament_id": null
+    },
+    {
+        "name": "WONG CHIA ZHEN",
+        "party_id": 3,
+        "dun_id": 50,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SUFFIAN BIN YUSOFF",
+        "party_id": 3,
+        "dun_id": 51,
+        "parliament_id": null
+    },
+    {
+        "name": "NURAINI BINTI YUSOFF",
+        "party_id": 2,
+        "dun_id": 51,
+        "parliament_id": null
+    },
+    {
+        "name": "ZULKIFLI BIN ABDULLAH",
+        "party_id": 2,
+        "dun_id": 52,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN ROSLAN BIN WAN HAMAT",
+        "party_id": 3,
+        "dun_id": 52,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ADANAN BIN HASSAN",
+        "party_id": 3,
+        "dun_id": 53,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ROSDI BIN RAZALI",
+        "party_id": 2,
+        "dun_id": 53,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD ZAMAKH SARI BIN IBRAHIM",
+        "party_id": 1,
+        "dun_id": 54,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD BIN YAKOB",
+        "party_id": 3,
+        "dun_id": 54,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL MANNAN BIN MD SAID",
+        "party_id": 2,
+        "dun_id": 55,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD RUSLI BIN ABDULLAH",
+        "party_id": 3,
+        "dun_id": 55,
+        "parliament_id": null
+    },
+    {
+        "name": "IZANI BIN HUSIN",
+        "party_id": 3,
+        "dun_id": 56,
+        "parliament_id": null
+    },
+    {
+        "name": "HARIS BIN HUSSIN",
+        "party_id": 2,
+        "dun_id": 56,
+        "parliament_id": null
+    },
+    {
+        "name": "NIK NORMI BINTI NIK AYUB",
+        "party_id": 2,
+        "dun_id": 57,
+        "parliament_id": null
+    },
+    {
+        "name": "NIK ASMA'BAHRUM BIN NIK ABDULLAH",
+        "party_id": 3,
+        "dun_id": 57,
+        "parliament_id": null
+    },
+    {
+        "name": "IBRAHIM BIN SULONG",
+        "party_id": 5,
+        "dun_id": 57,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD AMAR BIN ABDULLAH",
+        "party_id": 3,
+        "dun_id": 58,
+        "parliament_id": null
+    },
+    {
+        "name": "SYED MOHD ALIDUSTUR BIN SYED MOHD ZAIN",
+        "party_id": 1,
+        "dun_id": 58,
+        "parliament_id": null
+    },
+    {
+        "name": "ROHANI BINTI IBRAHIM",
+        "party_id": 3,
+        "dun_id": 59,
+        "parliament_id": null
+    },
+    {
+        "name": "ZINDA KHALIL SASTRO BIN HASSAN",
+        "party_id": 1,
+        "dun_id": 59,
+        "parliament_id": null
+    },
+    {
+        "name": "HAFIDZAH BINTI HAJI MUSTAKIM",
+        "party_id": 1,
+        "dun_id": 60,
+        "parliament_id": null
+    },
+    {
+        "name": "IZAT BUKHARY BIN ISMAIL BUKHARY",
+        "party_id": 5,
+        "dun_id": 60,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN BOON KIAN",
+        "party_id": 9,
+        "dun_id": 60,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAMRI BIN ISMAIL",
+        "party_id": 3,
+        "dun_id": 60,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMED HASNAN BIN CHE HUSSIN",
+        "party_id": 2,
+        "dun_id": 61,
+        "parliament_id": null
+    },
+    {
+        "name": "SHAARI BIN MAT YAMAN",
+        "party_id": 3,
+        "dun_id": 61,
+        "parliament_id": null
+    },
+    {
+        "name": "SUZAINAL ADNAN BIN SUKRI",
+        "party_id": 5,
+        "dun_id": 62,
+        "parliament_id": null
+    },
+    {
+        "name": "ROZI BIN MUHAMAD",
+        "party_id": 3,
+        "dun_id": 62,
+        "parliament_id": null
+    },
+    {
+        "name": "NOOR HARIRI BIN MOHAMED NOOR",
+        "party_id": 2,
+        "dun_id": 62,
+        "parliament_id": null
+    },
+    {
+        "name": "RUSHDAN BIN MUSTAFA",
+        "party_id": 1,
+        "dun_id": 63,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD NASRIFF BIN DAUD @ DAUD YATIMEE",
+        "party_id": 3,
+        "dun_id": 63,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAHRI BIN OMAR",
+        "party_id": 2,
+        "dun_id": 64,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD NASSURUDDIN BIN HAJI DAUD",
+        "party_id": 3,
+        "dun_id": 64,
+        "parliament_id": null
+    },
+    {
+        "name": "ZURAIDIN BIN ABDULLAH",
+        "party_id": 3,
+        "dun_id": 65,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD EZZAT ZAHRIM BIN MOHD HANUZI",
+        "party_id": 1,
+        "dun_id": 65,
+        "parliament_id": null
+    },
+    {
+        "name": "ANUAR BIN MOHAMAD",
+        "party_id": 2,
+        "dun_id": 66,
+        "parliament_id": null
+    },
+    {
+        "name": "KAMARUZAMAN BIN MOHAMAD",
+        "party_id": 3,
+        "dun_id": 66,
+        "parliament_id": null
+    },
+    {
+        "name": "AKBAR BIN SALIM",
+        "party_id": 2,
+        "dun_id": 67,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAMAKHSHARI BIN MUHAMAD",
+        "party_id": 3,
+        "dun_id": 67,
+        "parliament_id": null
+    },
+    {
+        "name": "SAIZOL BIN ISMAIL",
+        "party_id": 3,
+        "dun_id": 68,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD BIN HUSAIN",
+        "party_id": 2,
+        "dun_id": 68,
+        "parliament_id": null
+    },
+    {
+        "name": "ABD RAHMAN BIN YUNUS",
+        "party_id": 3,
+        "dun_id": 69,
+        "parliament_id": null
+    },
+    {
+        "name": "NAZIRATUL AINI BINTI MUHAMAD SAYUTY",
+        "party_id": 1,
+        "dun_id": 69,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ASRI BIN MAT DAUD",
+        "party_id": 3,
+        "dun_id": 70,
+        "parliament_id": null
+    },
+    {
+        "name": "ISMAIL BIN GHANI",
+        "party_id": 1,
+        "dun_id": 70,
+        "parliament_id": null
+    },
+    {
+        "name": "HARUN BIN ISMAIL",
+        "party_id": 3,
+        "dun_id": 71,
+        "parliament_id": null
+    },
+    {
+        "name": "CHE MAT ISA BIN CHE DIR",
+        "party_id": 1,
+        "dun_id": 71,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAKIAH BINTI MD NOOR",
+        "party_id": 2,
+        "dun_id": 614,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD HUZAIMY BIN CHE HUSIN",
+        "party_id": 3,
+        "dun_id": 614,
+        "parliament_id": null
+    },
+    {
+        "name": "YUSRI BIN CHE NOH",
+        "party_id": 2,
+        "dun_id": 73,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAMERI BIN MAT NAWANG",
+        "party_id": 3,
+        "dun_id": 73,
+        "parliament_id": null
+    },
+    {
+        "name": "ZULKARNAIN BIN HARON",
+        "party_id": 5,
+        "dun_id": 73,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN ROHIMI BIN WAN DAUD",
+        "party_id": 3,
+        "dun_id": 74,
+        "parliament_id": null
+    },
+    {
+        "name": "AZMI BIN ISHAK",
+        "party_id": 2,
+        "dun_id": 74,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD AZIZAN BIN ABDUL RAZAK @ RAJAB",
+        "party_id": 1,
+        "dun_id": 75,
+        "parliament_id": null
+    },
+    {
+        "name": "AZAMI BIN HJ MOHD NOR",
+        "party_id": 3,
+        "dun_id": 75,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD BIN DERAMAN",
+        "party_id": 2,
+        "dun_id": 76,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMED FARID BIN MOHAMED ZAWAWI",
+        "party_id": 3,
+        "dun_id": 76,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL FATTAH BIN HAJI MAHMOOD",
+        "party_id": 3,
+        "dun_id": 77,
+        "parliament_id": null
+    },
+    {
+        "name": "SAMSU ADABI BIN MAMAT",
+        "party_id": 1,
+        "dun_id": 77,
+        "parliament_id": null
+    },
+    {
+        "name": "BAHARI BIN MOHAMAD NOR",
+        "party_id": 3,
+        "dun_id": 78,
+        "parliament_id": null
+    },
+    {
+        "name": "ZUHAIRI BIN ZAKARIA",
+        "party_id": 2,
+        "dun_id": 78,
+        "parliament_id": null
+    },
+    {
+        "name": "MAZLI BIN MUSTAFA",
+        "party_id": 2,
+        "dun_id": 79,
+        "parliament_id": null
+    },
+    {
+        "name": "MD ANIZAM BIN AB RAHMAN",
+        "party_id": 3,
+        "dun_id": 79,
+        "parliament_id": null
+    },
+    {
+        "name": "HASHIM BIN ISMAIL",
+        "party_id": 2,
+        "dun_id": 80,
+        "parliament_id": null
+    },
+    {
+        "name": "TUAN MOHD SARIPUDIN BIN TUAN ISMAIL",
+        "party_id": 3,
+        "dun_id": 80,
+        "parliament_id": null
+    },
+    {
+        "name": "NOR ASILAH BINTI MOHAMED ZIN",
+        "party_id": 3,
+        "dun_id": 81,
+        "parliament_id": null
+    },
+    {
+        "name": "KAMARUDDIN BIN MAT ZIN",
+        "party_id": 1,
+        "dun_id": 81,
+        "parliament_id": null
+    },
+    {
+        "name": "NOR SHAM BIN SULAIMAN",
+        "party_id": 3,
+        "dun_id": 82,
+        "parliament_id": null
+    },
+    {
+        "name": "MARSHELA BINTI ALI",
+        "party_id": 2,
+        "dun_id": 82,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD RODZI BIN JA'AFAR",
+        "party_id": 3,
+        "dun_id": 83,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ALIFF NASROL BIN MAT NASIN",
+        "party_id": 2,
+        "dun_id": 83,
+        "parliament_id": null
+    },
+    {
+        "name": "AZHAR BIN SALLEH",
+        "party_id": 3,
+        "dun_id": 84,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD FAKHRAN BIN CHE JUSOH @ YUSOFF",
+        "party_id": 2,
+        "dun_id": 84,
+        "parliament_id": null
+    },
+    {
+        "name": "FAUZI BIN SEMAN",
+        "party_id": 5,
+        "dun_id": 85,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL KADIR BIN HJ OTHMAN",
+        "party_id": 1,
+        "dun_id": 85,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMED FADZLI BIN HASSAN",
+        "party_id": 3,
+        "dun_id": 85,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD FAKAARUDDIN BIN ISMAIL",
+        "party_id": 2,
+        "dun_id": 86,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD ZAKHRAN BIN MAT NOOR",
+        "party_id": 3,
+        "dun_id": 86,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ALMIDI BIN JAAFAR",
+        "party_id": 3,
+        "dun_id": 87,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ADHAN BIN KECHIK",
+        "party_id": 2,
+        "dun_id": 87,
+        "parliament_id": null
+    },
+    {
+        "name": "KAMARUDIN BIN MD NOR",
+        "party_id": 3,
+        "dun_id": 88,
+        "parliament_id": null
+    },
+    {
+        "name": "NASRUL HADI BIN KAMARUZAMAN",
+        "party_id": 2,
+        "dun_id": 88,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL HADI BIN AWANG KECHIL",
+        "party_id": 3,
+        "dun_id": 89,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD YAMIN ANUAR BIN MAT ZIN",
+        "party_id": 2,
+        "dun_id": 89,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SHUKRI BIN ISHAK",
+        "party_id": 1,
+        "dun_id": 90,
+        "parliament_id": null
+    },
+    {
+        "name": "ZUBIR BIN ABU BAKAR",
+        "party_id": 3,
+        "dun_id": 90,
+        "parliament_id": null
+    },
+    {
+        "name": "ZUBER BIN HASSAN",
+        "party_id": 2,
+        "dun_id": 91,
+        "parliament_id": null
+    },
+    {
+        "name": "HILMI BIN ABDULLAH",
+        "party_id": 3,
+        "dun_id": 91,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD FAUZI BIN ABDULLAH",
+        "party_id": 3,
+        "dun_id": 92,
+        "parliament_id": null
+    },
+    {
+        "name": "SUZAINI ADLINA BINTI SUKRI",
+        "party_id": 2,
+        "dun_id": 92,
+        "parliament_id": null
+    },
+    {
+        "name": "KU MOHD ZAKI BIN KU HUSSIN",
+        "party_id": 3,
+        "dun_id": 93,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD FIRDAUS BIN MUHAMMAD",
+        "party_id": 2,
+        "dun_id": 93,
+        "parliament_id": null
+    },
+    {
+        "name": "AB AZIZ BIN YUSOFF",
+        "party_id": 2,
+        "dun_id": 94,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD AZIZI BIN ABU NAIM",
+        "party_id": 3,
+        "dun_id": 94,
+        "parliament_id": null
+    },
+    {
+        "name": "SHAARI BIN MAT HUSSAIN",
+        "party_id": 3,
+        "dun_id": 95,
+        "parliament_id": null
+    },
+    {
+        "name": "AMRAN BIN ARIFIN",
+        "party_id": 2,
+        "dun_id": 95,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD TARMIZI BIN ABD RAHMAN",
+        "party_id": 3,
+        "dun_id": 96,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SYAHBUDDIN BIN HASHIM",
+        "party_id": 2,
+        "dun_id": 96,
+        "parliament_id": null
+    },
+    {
+        "name": "TENGKU ZAIHAN BIN CHE KU ABD RAHMAN",
+        "party_id": 2,
+        "dun_id": 97,
+        "parliament_id": null
+    },
+    {
+        "name": "AZBI BIN SALLEH",
+        "party_id": 3,
+        "dun_id": 97,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD NURKHUZAINI BIN AB RAHMAN",
+        "party_id": 3,
+        "dun_id": 98,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD PEHIMI BIN YUSOF",
+        "party_id": 2,
+        "dun_id": 98,
+        "parliament_id": null
+    },
+    {
+        "name": "RIDUAN BIN MOHAMAD NOR",
+        "party_id": 3,
+        "dun_id": 99,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ROZAINI BIN MOHD RASLI",
+        "party_id": 2,
+        "dun_id": 99,
+        "parliament_id": null
+    },
+    {
+        "name": "NAWI BIN MOHAMAD",
+        "party_id": 2,
+        "dun_id": 100,
+        "parliament_id": null
+    },
+    {
+        "name": "CHE HARUN KAMARIAH BIN ABDULLAH",
+        "party_id": 5,
+        "dun_id": 100,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD HUSAIMI BIN HUSSIN",
+        "party_id": 3,
+        "dun_id": 100,
+        "parliament_id": null
+    },
+    {
+        "name": "ROSDI BIN ZAKARIA",
+        "party_id": 2,
+        "dun_id": 101,
+        "parliament_id": null
+    },
+    {
+        "name": "AZMAN BIN IBRAHIM",
+        "party_id": 3,
+        "dun_id": 101,
+        "parliament_id": null
+    },
+    {
+        "name": "HAMDAN BIN HAMZAH",
+        "party_id": 2,
+        "dun_id": 102,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD YUSOP BIN MAJID",
+        "party_id": 3,
+        "dun_id": 102,
+        "parliament_id": null
+    },
+    {
+        "name": "AZMI BIN MAAROF",
+        "party_id": 3,
+        "dun_id": 103,
+        "parliament_id": null
+    },
+    {
+        "name": "SABRI BIN MOHD NOOR",
+        "party_id": 2,
+        "dun_id": 103,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SHAFIZI BIN ISMAIL",
+        "party_id": 3,
+        "dun_id": 104,
+        "parliament_id": null
+    },
+    {
+        "name": "BAZLAN BIN ABD RAHMAN",
+        "party_id": 2,
+        "dun_id": 104,
+        "parliament_id": null
+    },
+    {
+        "name": "HISHAMUDDIN BIN ABDUL KARIM",
+        "party_id": 3,
+        "dun_id": 105,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD HANAFI BIN HASSAN",
+        "party_id": 2,
+        "dun_id": 105,
+        "parliament_id": null
+    },
+    {
+        "name": "RIDZUAN BIN HASHIM",
+        "party_id": 3,
+        "dun_id": 106,
+        "parliament_id": null
+    },
+    {
+        "name": "OMAR BIN ADAM",
+        "party_id": 2,
+        "dun_id": 106,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD RAZIF BIN ABD RAHMAN",
+        "party_id": 2,
+        "dun_id": 107,
+        "parliament_id": null
+    },
+    {
+        "name": "KHAZAN BIN CHE MAT",
+        "party_id": 3,
+        "dun_id": 107,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN NOORISLAM BIN WAN HASHIM",
+        "party_id": 2,
+        "dun_id": 108,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAHARUDIN BIN ZAHID",
+        "party_id": 3,
+        "dun_id": 108,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN SUKAIRI BIN WAN ABDULLAH",
+        "party_id": 3,
+        "dun_id": 109,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN MUHAMAD HAIKAL BIN WAN GHAZALI",
+        "party_id": 1,
+        "dun_id": 109,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD SHAH BIN MUHAMED",
+        "party_id": 3,
+        "dun_id": 110,
+        "parliament_id": null
+    },
+    {
+        "name": "ARMI IRZAN BIN MOHD",
+        "party_id": 2,
+        "dun_id": 110,
+        "parliament_id": null
+    },
+    {
+        "name": "LUQMAN BIN LONG",
+        "party_id": 1,
+        "dun_id": 110,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SABRI BIN ALWI",
+        "party_id": 2,
+        "dun_id": 111,
+        "parliament_id": null
+    },
+    {
+        "name": "ZURAIDA BINTI MD.NOOR",
+        "party_id": 3,
+        "dun_id": 111,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD KHALIL BIN ABDUL HADI",
+        "party_id": 3,
+        "dun_id": 112,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD ZAMIR BIN GHAZALI",
+        "party_id": 1,
+        "dun_id": 112,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD YUSERI BIN ISA",
+        "party_id": 2,
+        "dun_id": 113,
+        "parliament_id": null
+    },
+    {
+        "name": "ARIFFIN BIN DERAMAN",
+        "party_id": 3,
+        "dun_id": 113,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD KHIM @ MOHD KHAN BIN ABD RAHMAN",
+        "party_id": 2,
+        "dun_id": 114,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD NOR BIN HAMZAH",
+        "party_id": 3,
+        "dun_id": 114,
+        "parliament_id": null
+    },
+    {
+        "name": "SUHAIMI BIN SULAIMAN",
+        "party_id": 1,
+        "dun_id": 115,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD SAMSURI BIN MOKHTAR",
+        "party_id": 3,
+        "dun_id": 115,
+        "parliament_id": null
+    },
+    {
+        "name": "SULAIMAN BIN SULONG",
+        "party_id": 3,
+        "dun_id": 116,
+        "parliament_id": null
+    },
+    {
+        "name": "NIK DIR BIN NIK WAN KU",
+        "party_id": 2,
+        "dun_id": 116,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ZAWAWI BIN ISMAIL",
+        "party_id": 3,
+        "dun_id": 117,
+        "parliament_id": null
+    },
+    {
+        "name": "ROZI BIN MAMAT",
+        "party_id": 2,
+        "dun_id": 117,
+        "parliament_id": null
+    },
+    {
+        "name": "EKA LISUT",
+        "party_id": 1,
+        "dun_id": 118,
+        "parliament_id": null
+    },
+    {
+        "name": "HILMI BIN HARUN",
+        "party_id": 3,
+        "dun_id": 118,
+        "parliament_id": null
+    },
+    {
+        "name": "JALALUDIN BIN ISMAIL",
+        "party_id": 2,
+        "dun_id": 119,
+        "parliament_id": null
+    },
+    {
+        "name": "MAMAD BIN PUTEH",
+        "party_id": 3,
+        "dun_id": 119,
+        "parliament_id": null
+    },
+    {
+        "name": "JAILANI BIN JOHARI",
+        "party_id": 2,
+        "dun_id": 120,
+        "parliament_id": null
+    },
+    {
+        "name": "MALIAMAN BIN KASSIM",
+        "party_id": 3,
+        "dun_id": 120,
+        "parliament_id": null
+    },
+    {
+        "name": "GHAZALI BIN SULAIMAN",
+        "party_id": 3,
+        "dun_id": 121,
+        "parliament_id": null
+    },
+    {
+        "name": "DIN BIN ADAM",
+        "party_id": 2,
+        "dun_id": 121,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ASRI BIN MOHAMAD",
+        "party_id": 2,
+        "dun_id": 122,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD FADHLI RAHMI BIN ZULKIFLI",
+        "party_id": 3,
+        "dun_id": 122,
+        "parliament_id": null
+    },
+    {
+        "name": "TENGKU MUHAMMAD FAKHRUDDIN BIN TENGKU MD FAUZI",
+        "party_id": 3,
+        "dun_id": 123,
+        "parliament_id": null
+    },
+    {
+        "name": "OTHMAN BIN OMAR",
+        "party_id": 1,
+        "dun_id": 123,
+        "parliament_id": null
+    },
+    {
+        "name": "SATIFUL BAHARI BIN MAMAT",
+        "party_id": 3,
+        "dun_id": 124,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD ABDULLAH BIN ABD WAHAB",
+        "party_id": 2,
+        "dun_id": 124,
+        "parliament_id": null
+    },
+    {
+        "name": "SAIFUL AZMI BIN SUHAILI",
+        "party_id": 3,
+        "dun_id": 125,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD KHAIRI AFIQ BIN MOHD YUSOF",
+        "party_id": 2,
+        "dun_id": 125,
+        "parliament_id": null
+    },
+    {
+        "name": "RAZALI BIN IDRIS",
+        "party_id": 3,
+        "dun_id": 126,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD BIN SAID",
+        "party_id": 2,
+        "dun_id": 126,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMED RAHIM BIN HUSSIN",
+        "party_id": 2,
+        "dun_id": 127,
+        "parliament_id": null
+    },
+    {
+        "name": "HANAFIAH BIN MAT",
+        "party_id": 3,
+        "dun_id": 127,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD HAFIZ BIN ADAM",
+        "party_id": 3,
+        "dun_id": 128,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ZAKI BIN SALLEH",
+        "party_id": 2,
+        "dun_id": 128,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD YUSNI BIN MAT PIAH",
+        "party_id": 3,
+        "dun_id": 129,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD NAIM BIN SALLEH",
+        "party_id": 2,
+        "dun_id": 129,
+        "parliament_id": null
+    },
+    {
+        "name": "REEZAL MERICAN BIN NAINA MERICAN",
+        "party_id": 2,
+        "dun_id": 130,
+        "parliament_id": null
+    },
+    {
+        "name": "KHALIQ MEHTAB BIN MOHD ISHAQ",
+        "party_id": 3,
+        "dun_id": 130,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAINUDDIN BIN MOHAMED",
+        "party_id": 1,
+        "dun_id": 131,
+        "parliament_id": null
+    },
+    {
+        "name": "BUKHORI BIN GHAZALI",
+        "party_id": 3,
+        "dun_id": 131,
+        "parliament_id": null
+    },
+    {
+        "name": "NOR HAFIZAH BINTI OTHMAN",
+        "party_id": 2,
+        "dun_id": 132,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SOBRI BIN SALEH",
+        "party_id": 3,
+        "dun_id": 132,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD FAUZI BIN YUSOFF",
+        "party_id": 3,
+        "dun_id": 133,
+        "parliament_id": null
+    },
+    {
+        "name": "SHAIK HUSSEIN BIN MYDIN",
+        "party_id": 2,
+        "dun_id": 133,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL MOHSEIN BIN MOHD SHARIFF",
+        "party_id": 1,
+        "dun_id": 134,
+        "parliament_id": null
+    },
+    {
+        "name": "AZMI BIN ALANG",
+        "party_id": 3,
+        "dun_id": 134,
+        "parliament_id": null
+    },
+    {
+        "name": "PHEE SYN TZE",
+        "party_id": 1,
+        "dun_id": 135,
+        "parliament_id": null
+    },
+    {
+        "name": "TEOW CHIN SIANG",
+        "party_id": 3,
+        "dun_id": 135,
+        "parliament_id": null
+    },
+    {
+        "name": "ONG CHUAN JIN",
+        "party_id": 3,
+        "dun_id": 136,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEE YEEH KEEN",
+        "party_id": 1,
+        "dun_id": 136,
+        "parliament_id": null
+    },
+    {
+        "name": "RAJASAKANAN A/L SINNAKANNU",
+        "party_id": "24",
+        "dun_id": 137,
+        "parliament_id": null
+    },
+    {
+        "name": "SATEES A/L MUNIANDY",
+        "party_id": 5,
+        "dun_id": 137,
+        "parliament_id": null
+    },
+    {
+        "name": "JAYARAMAN A/L K KUNCHU KANNU",
+        "party_id": 3,
+        "dun_id": 137,
+        "parliament_id": null
+    },
+    {
+        "name": "KUMARAN A/L KRISHNAN",
+        "party_id": 1,
+        "dun_id": 137,
+        "parliament_id": null
+    },
+    {
+        "name": "JOHARI BIN KASSIM",
+        "party_id": 1,
+        "dun_id": 138,
+        "parliament_id": null
+    },
+    {
+        "name": "IZHAR SHAH BIN ARIF SHAH",
+        "party_id": 3,
+        "dun_id": 138,
+        "parliament_id": null
+    },
+    {
+        "name": "AMIR HAMZAH B ABDUL HASHIM @ MD HASHIM",
+        "party_id": 3,
+        "dun_id": 139,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD FAIZ BIN FADZIL",
+        "party_id": 1,
+        "dun_id": 139,
+        "parliament_id": null
+    },
+    {
+        "name": "ROSIDI BIN HUSSAIN",
+        "party_id": 1,
+        "dun_id": 140,
+        "parliament_id": null
+    },
+    {
+        "name": "ZULKEFLI BIN BAKAR",
+        "party_id": 3,
+        "dun_id": 140,
+        "parliament_id": null
+    },
+    {
+        "name": "HENG LEE LEE",
+        "party_id": 1,
+        "dun_id": 141,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE KOK KEONG",
+        "party_id": 3,
+        "dun_id": 141,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE KHAI LOON",
+        "party_id": 1,
+        "dun_id": 142,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN HUM WEI",
+        "party_id": 3,
+        "dun_id": 142,
+        "parliament_id": null
+    },
+    {
+        "name": "SURESH A/L DEVARAJ NAIDU",
+        "party_id": 3,
+        "dun_id": 143,
+        "parliament_id": null
+    },
+    {
+        "name": "OOI KHAR GIAP",
+        "party_id": "24",
+        "dun_id": 143,
+        "parliament_id": null
+    },
+    {
+        "name": "GOOI ZI SEN",
+        "party_id": 1,
+        "dun_id": 143,
+        "parliament_id": null
+    },
+    {
+        "name": "VIKNESWARY A/P HARIKRISHNAN",
+        "party_id": 1,
+        "dun_id": 144,
+        "parliament_id": null
+    },
+    {
+        "name": "SUNDARAJOO A/L SOMU",
+        "party_id": 1,
+        "dun_id": 144,
+        "parliament_id": null
+    },
+    {
+        "name": "DAVID MARSHEL A/L PAKIANATHAN",
+        "party_id": 5,
+        "dun_id": 144,
+        "parliament_id": null
+    },
+    {
+        "name": "SIVASUNTARAM A/L RAJALINGGAM",
+        "party_id": 3,
+        "dun_id": 144,
+        "parliament_id": null
+    },
+    {
+        "name": "GOOI HSIAO-LEUNG",
+        "party_id": 1,
+        "dun_id": 145,
+        "parliament_id": null
+    },
+    {
+        "name": "BALJIT SINGH A/L JIGIRI SINGH",
+        "party_id": 3,
+        "dun_id": 145,
+        "parliament_id": null
+    },
+    {
+        "name": "GOH CHOON AIK",
+        "party_id": 1,
+        "dun_id": 146,
+        "parliament_id": null
+    },
+    {
+        "name": "SAMUGANATHAN A/L MUNIANDY",
+        "party_id": 5,
+        "dun_id": 146,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN GIA WEI",
+        "party_id": 3,
+        "dun_id": 146,
+        "parliament_id": null
+    },
+    {
+        "name": "H'NG MOOI LYE",
+        "party_id": 1,
+        "dun_id": 147,
+        "parliament_id": null
+    },
+    {
+        "name": "KOH TIEN YEW",
+        "party_id": 3,
+        "dun_id": 147,
+        "parliament_id": null
+    },
+    {
+        "name": "NOR ZAMRI BIN LATIFF",
+        "party_id": 3,
+        "dun_id": 148,
+        "parliament_id": null
+    },
+    {
+        "name": "NURHIDAYAH BINTI CHE ROSE",
+        "party_id": 1,
+        "dun_id": 148,
+        "parliament_id": null
+    },
+    {
+        "name": "ZULKIFLI BIN IBRAHIM",
+        "party_id": 3,
+        "dun_id": 149,
+        "parliament_id": null
+    },
+    {
+        "name": "RASHIDI BIN ZINOL",
+        "party_id": 2,
+        "dun_id": 149,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAIRIL KHIR JOHARI",
+        "party_id": 1,
+        "dun_id": 150,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE CHUI WAH",
+        "party_id": 9,
+        "dun_id": 150,
+        "parliament_id": null
+    },
+    {
+        "name": "HNG CHEE WEY",
+        "party_id": 3,
+        "dun_id": 150,
+        "parliament_id": null
+    },
+    {
+        "name": "TEH YEE CHEU",
+        "party_id": 9,
+        "dun_id": 151,
+        "parliament_id": null
+    },
+    {
+        "name": "KONG CHENG ANN",
+        "party_id": 3,
+        "dun_id": 151,
+        "parliament_id": null
+    },
+    {
+        "name": "LIM GUAN ENG",
+        "party_id": 1,
+        "dun_id": 151,
+        "parliament_id": null
+    },
+    {
+        "name": "RAZALIF BIN MOHAMAD ZAIN",
+        "party_id": 5,
+        "dun_id": 152,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN ZHEN ZUNE",
+        "party_id": 3,
+        "dun_id": 152,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE BOON HENG",
+        "party_id": 1,
+        "dun_id": 152,
+        "parliament_id": null
+    },
+    {
+        "name": "GOH CHUIN LOON",
+        "party_id": 9,
+        "dun_id": 153,
+        "parliament_id": null
+    },
+    {
+        "name": "WOO SZE ZENG",
+        "party_id": 1,
+        "dun_id": 153,
+        "parliament_id": null
+    },
+    {
+        "name": "TANG CHING SERN",
+        "party_id": 3,
+        "dun_id": 153,
+        "parliament_id": null
+    },
+    {
+        "name": "H'NG KHOON LENG",
+        "party_id": 3,
+        "dun_id": 154,
+        "parliament_id": null
+    },
+    {
+        "name": "CHOW KON YEOW",
+        "party_id": 1,
+        "dun_id": 154,
+        "parliament_id": null
+    },
+    {
+        "name": "SUTHAKARAN A/L SUBRAMANIAM",
+        "party_id": 3,
+        "dun_id": 155,
+        "parliament_id": null
+    },
+    {
+        "name": "WONG YUEE HARNG",
+        "party_id": 1,
+        "dun_id": 155,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEAH KIM HUAT",
+        "party_id": 3,
+        "dun_id": 156,
+        "parliament_id": null
+    },
+    {
+        "name": "TEH LAI HENG",
+        "party_id": 1,
+        "dun_id": 156,
+        "parliament_id": null
+    },
+    {
+        "name": "JAGDEEP SINGH DEO A/L KARPAL SINGH",
+        "party_id": 1,
+        "dun_id": 157,
+        "parliament_id": null
+    },
+    {
+        "name": "HENG SEE LIN",
+        "party_id": 3,
+        "dun_id": 157,
+        "parliament_id": null
+    },
+    {
+        "name": "ANDREW RAJAH A/L BELLIMIN RAJAH",
+        "party_id": 5,
+        "dun_id": 158,
+        "parliament_id": null
+    },
+    {
+        "name": "LIM SIEW KHIM",
+        "party_id": 1,
+        "dun_id": 158,
+        "parliament_id": null
+    },
+    {
+        "name": "NG FOOK ON",
+        "party_id": 3,
+        "dun_id": 158,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL GHANI BIN HAROON",
+        "party_id": 9,
+        "dun_id": 158,
+        "parliament_id": null
+    },
+    {
+        "name": "ONG AH TEONG",
+        "party_id": 1,
+        "dun_id": 159,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ASWAAD BIN JAAFAR",
+        "party_id": 3,
+        "dun_id": 159,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAN A/L APPAROO",
+        "party_id": 3,
+        "dun_id": 160,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN HOOI PENG",
+        "party_id": 1,
+        "dun_id": 160,
+        "parliament_id": null
+    },
+    {
+        "name": "JOSEPH NG SOON SIANG",
+        "party_id": 1,
+        "dun_id": 161,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEANG CHEE GOOI",
+        "party_id": 3,
+        "dun_id": 161,
+        "parliament_id": null
+    },
+    {
+        "name": "WONG HON WAI",
+        "party_id": 1,
+        "dun_id": 162,
+        "parliament_id": null
+    },
+    {
+        "name": "OOI GHEE OON",
+        "party_id": 3,
+        "dun_id": 162,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE KIM NOOR",
+        "party_id": 1,
+        "dun_id": 163,
+        "parliament_id": null
+    },
+    {
+        "name": "KUMARESAN A/L ARAMUGAM",
+        "party_id": 1,
+        "dun_id": 163,
+        "parliament_id": null
+    },
+    {
+        "name": "MOK KOK ON",
+        "party_id": 3,
+        "dun_id": 163,
+        "parliament_id": null
+    },
+    {
+        "name": "FAHMI BIN ZAINOL",
+        "party_id": 1,
+        "dun_id": 164,
+        "parliament_id": null
+    },
+    {
+        "name": "OH TONG KEONG",
+        "party_id": 3,
+        "dun_id": 164,
+        "parliament_id": null
+    },
+    {
+        "name": "LOH XIANG PIN",
+        "party_id": 1,
+        "dun_id": 164,
+        "parliament_id": null
+    },
+    {
+        "name": "RAVINDER SINGH A/L MALL SINGH",
+        "party_id": 9,
+        "dun_id": 164,
+        "parliament_id": null
+    },
+    {
+        "name": "AZAHARI BIN ARIS",
+        "party_id": 3,
+        "dun_id": 165,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD BIN ABDUL HAMID",
+        "party_id": 1,
+        "dun_id": 165,
+        "parliament_id": null
+    },
+    {
+        "name": "DOMINIC LAU HOE CHAI",
+        "party_id": 3,
+        "dun_id": 166,
+        "parliament_id": null
+    },
+    {
+        "name": "AZRUL MAHATHIR BIN AZIZ",
+        "party_id": 1,
+        "dun_id": 166,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD TUAH BIN ISMAIL",
+        "party_id": 1,
+        "dun_id": 167,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD SHUKOR BIN ZAKARIAH",
+        "party_id": 3,
+        "dun_id": 167,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD ZAKI SHAH BIN SHAH HEADAN",
+        "party_id": 2,
+        "dun_id": 168,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMAD BIN KASIM",
+        "party_id": 3,
+        "dun_id": 168,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD ZAIDI BIN SELAMAT",
+        "party_id": 3,
+        "dun_id": 270,
+        "parliament_id": null
+    },
+    {
+        "name": "RIZAM BIN ISMAIL",
+        "party_id": 2,
+        "dun_id": 270,
+        "parliament_id": null
+    },
+    {
+        "name": "SAMAD BIN HASHIM",
+        "party_id": 1,
+        "dun_id": 271,
+        "parliament_id": null
+    },
+    {
+        "name": "SALLEHEN BIN MUKHYI",
+        "party_id": 3,
+        "dun_id": 271,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD IMRAN BIN TAMRIN",
+        "party_id": 2,
+        "dun_id": 272,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD RAZALI BIN SAARI",
+        "party_id": 3,
+        "dun_id": 272,
+        "parliament_id": null
+    },
+    {
+        "name": "GOH GAIK MENG",
+        "party_id": 3,
+        "dun_id": 273,
+        "parliament_id": null
+    },
+    {
+        "name": "NG SUEE LIM",
+        "party_id": 1,
+        "dun_id": 273,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD AMRAN BIN SAKIR",
+        "party_id": 1,
+        "dun_id": 274,
+        "parliament_id": null
+    },
+    {
+        "name": "MU'IZZUDDEEN BIN MAHYUDDIN",
+        "party_id": 3,
+        "dun_id": 274,
+        "parliament_id": null
+    },
+    {
+        "name": "TEOH KIEN HONG",
+        "party_id": 3,
+        "dun_id": 275,
+        "parliament_id": null
+    },
+    {
+        "name": "CHNG BOON LAI",
+        "party_id": 9,
+        "dun_id": 275,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE KEE HIONG",
+        "party_id": 1,
+        "dun_id": 275,
+        "parliament_id": null
+    },
+    {
+        "name": "SIVA PRAKASH A/L RAMASAMY",
+        "party_id": 1,
+        "dun_id": 275,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD MUHAIMIN HARITH BIN ABDULLAH SANI",
+        "party_id": 3,
+        "dun_id": 276,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ISA BIN ABU KASIM",
+        "party_id": 2,
+        "dun_id": 276,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ZAMRI BIN MOHD ZAINULDIN",
+        "party_id": 3,
+        "dun_id": 277,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD KHIR BIN RAMLI",
+        "party_id": 2,
+        "dun_id": 277,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD YAHYA BIN MAT SAHRI",
+        "party_id": 1,
+        "dun_id": 278,
+        "parliament_id": null
+    },
+    {
+        "name": "NURUL SYAZWANI BINTI NOH",
+        "party_id": 3,
+        "dun_id": 278,
+        "parliament_id": null
+    },
+    {
+        "name": "THIBAN A/L SUBBRAMANIAM",
+        "party_id": 1,
+        "dun_id": 279,
+        "parliament_id": null
+    },
+    {
+        "name": "NOORAZLEY BIN YAHYA",
+        "party_id": 3,
+        "dun_id": 279,
+        "parliament_id": null
+    },
+    {
+        "name": "JEFRI BIN MEJAN",
+        "party_id": 3,
+        "dun_id": 280,
+        "parliament_id": null
+    },
+    {
+        "name": "AMIDI BIN ABDUL MANAN",
+        "party_id": 1,
+        "dun_id": 280,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN CAT KEONG",
+        "party_id": 5,
+        "dun_id": 280,
+        "parliament_id": null
+    },
+    {
+        "name": "JAHAYA BIN IBRAHIM",
+        "party_id": 2,
+        "dun_id": 281,
+        "parliament_id": null
+    },
+    {
+        "name": "HARRISON BIN HASSAN",
+        "party_id": 3,
+        "dun_id": 281,
+        "parliament_id": null
+    },
+    {
+        "name": "HASNAL REZUA MERICAN BIN HABIB MERICAN",
+        "party_id": 2,
+        "dun_id": 282,
+        "parliament_id": null
+    },
+    {
+        "name": "SALLEHUDIN BIN AMIRUDDIN",
+        "party_id": 5,
+        "dun_id": 282,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD RAFIQ BIN MOHD ABDULLAH",
+        "party_id": 3,
+        "dun_id": 282,
+        "parliament_id": null
+    },
+    {
+        "name": "REJEAN KUMAR A/L RATNAM",
+        "party_id": 3,
+        "dun_id": 283,
+        "parliament_id": null
+    },
+    {
+        "name": "CHUA WEI KIAT",
+        "party_id": 1,
+        "dun_id": 283,
+        "parliament_id": null
+    },
+    {
+        "name": "AIDA NAZEERA BINTI ABD RAHMAN",
+        "party_id": 1,
+        "dun_id": 284,
+        "parliament_id": null
+    },
+    {
+        "name": "ANFAAL BINTI SAARI",
+        "party_id": 1,
+        "dun_id": 284,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAIDY BIN ABDUL TALIB",
+        "party_id": 3,
+        "dun_id": 284,
+        "parliament_id": null
+    },
+    {
+        "name": "SUMAN A/L GOPAL",
+        "party_id": 5,
+        "dun_id": 285,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD HANIF BIN JAMALUDDIN",
+        "party_id": 3,
+        "dun_id": 285,
+        "parliament_id": null
+    },
+    {
+        "name": "AMIRUDIN BIN SHARI",
+        "party_id": 1,
+        "dun_id": 285,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMED SALIM BIN MOHAMED ALI",
+        "party_id": 5,
+        "dun_id": 286,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD HILMAN BIN IDHAM",
+        "party_id": 3,
+        "dun_id": 286,
+        "parliament_id": null
+    },
+    {
+        "name": "MEGAT ZULKARNAIN BIN OMARDIN",
+        "party_id": 2,
+        "dun_id": 286,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMED AZMIN BIN ALI",
+        "party_id": 3,
+        "dun_id": 287,
+        "parliament_id": null
+    },
+    {
+        "name": "JUWAIRIYA BINTI ZULKIFLI",
+        "party_id": 1,
+        "dun_id": 287,
+        "parliament_id": null
+    },
+    {
+        "name": "MELANIE TING YI-HLIN",
+        "party_id": 1,
+        "dun_id": 288,
+        "parliament_id": null
+    },
+    {
+        "name": "SASHA LYNA BINTI ABDUL LATIF",
+        "party_id": 3,
+        "dun_id": 288,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD.KAMRI BIN KAMARUDDIN",
+        "party_id": 1,
+        "dun_id": 288,
+        "parliament_id": null
+    },
+    {
+        "name": "SYED AHMAD BIN ABDUL RAHMAN ALHADAD",
+        "party_id": 1,
+        "dun_id": 289,
+        "parliament_id": null
+    },
+    {
+        "name": "SHARIFAH HASLIZAH BINTI SYED ARIFFIN",
+        "party_id": 3,
+        "dun_id": 289,
+        "parliament_id": null
+    },
+    {
+        "name": "NOOR FARALISA BINTI REDZUAN",
+        "party_id": 1,
+        "dun_id": 290,
+        "parliament_id": null
+    },
+    {
+        "name": "FAZIL BIN MOHAMAD DALI",
+        "party_id": 3,
+        "dun_id": 290,
+        "parliament_id": null
+    },
+    {
+        "name": "SIVANESWARAN A/L RAMASUNDRAM",
+        "party_id": 5,
+        "dun_id": 290,
+        "parliament_id": null
+    },
+    {
+        "name": "IZHAM BIN HASHIM",
+        "party_id": 1,
+        "dun_id": 290,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEW HAN KEAI",
+        "party_id": 3,
+        "dun_id": 291,
+        "parliament_id": null
+    },
+    {
+        "name": "YEW JIA HAUR",
+        "party_id": 1,
+        "dun_id": 291,
+        "parliament_id": null
+    },
+    {
+        "name": "JOHAN BIN ABD AZIZ",
+        "party_id": 2,
+        "dun_id": 292,
+        "parliament_id": null
+    },
+    {
+        "name": "AL HAFIZ IKHWAN BIN MOHAMAD ASAAD",
+        "party_id": 1,
+        "dun_id": 292,
+        "parliament_id": null
+    },
+    {
+        "name": "AZHAR BIN HAMBALI",
+        "party_id": 3,
+        "dun_id": 292,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN ZULAIKA BINTI ANUA",
+        "party_id": 2,
+        "dun_id": 293,
+        "parliament_id": null
+    },
+    {
+        "name": "NUSHI BIN MAHFODZ",
+        "party_id": 3,
+        "dun_id": 293,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEONG KIAN YOUNG",
+        "party_id": 1,
+        "dun_id": 294,
+        "parliament_id": null
+    },
+    {
+        "name": "LIEW SIN KIM",
+        "party_id": 3,
+        "dun_id": 294,
+        "parliament_id": null
+    },
+    {
+        "name": "ARUTCHELVAN A/L SUBRAMANIAMS",
+        "party_id": 19,
+        "dun_id": 294,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SHAFIE BIN NGAH",
+        "party_id": 3,
+        "dun_id": 295,
+        "parliament_id": null
+    },
+    {
+        "name": "MAZWAN BIN JOHAR",
+        "party_id": 1,
+        "dun_id": 295,
+        "parliament_id": null
+    },
+    {
+        "name": "ONG CHUN WEI",
+        "party_id": 1,
+        "dun_id": 296,
+        "parliament_id": null
+    },
+    {
+        "name": "LAI CHOON WEN",
+        "party_id": 3,
+        "dun_id": 296,
+        "parliament_id": null
+    },
+    {
+        "name": "LIAU WEI JIAN",
+        "party_id": 3,
+        "dun_id": 297,
+        "parliament_id": null
+    },
+    {
+        "name": "WONG JUNG LIK",
+        "party_id": 5,
+        "dun_id": 297,
+        "parliament_id": null
+    },
+    {
+        "name": "WONG SIEW KI",
+        "party_id": 1,
+        "dun_id": 297,
+        "parliament_id": null
+    },
+    {
+        "name": "AMIR HARIRI BIN ABD HADI",
+        "party_id": 1,
+        "dun_id": 298,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD SHUKOR BIN MUSTAFFA",
+        "party_id": 3,
+        "dun_id": 298,
+        "parliament_id": null
+    },
+    {
+        "name": "ABBAS SALIMMI BIN CHE ADZMI @ AZMI",
+        "party_id": 1,
+        "dun_id": 298,
+        "parliament_id": null
+    },
+    {
+        "name": "NG SZE HAN",
+        "party_id": 1,
+        "dun_id": 299,
+        "parliament_id": null
+    },
+    {
+        "name": "WONG YONG KANG",
+        "party_id": 3,
+        "dun_id": 299,
+        "parliament_id": null
+    },
+    {
+        "name": "MICHELLE NG MEI SZE",
+        "party_id": 1,
+        "dun_id": 300,
+        "parliament_id": null
+    },
+    {
+        "name": "GANA PRAGASAM A/L SEBASTIAN",
+        "party_id": 3,
+        "dun_id": 300,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAYD BIN SHAUKAT ALI",
+        "party_id": 1,
+        "dun_id": 300,
+        "parliament_id": null
+    },
+    {
+        "name": "HARINDRAN A/L KRISHNAN",
+        "party_id": 5,
+        "dun_id": 301,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEW CHUAN YANG",
+        "party_id": 1,
+        "dun_id": 301,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMMAD FAHMI BIN NGAH",
+        "party_id": 1,
+        "dun_id": 301,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ZUBIR BIN EMBONG",
+        "party_id": 3,
+        "dun_id": 301,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD AKHIR BIN PAWAN CHIK",
+        "party_id": 1,
+        "dun_id": 302,
+        "parliament_id": null
+    },
+    {
+        "name": "AFIF BIN BAHARDIN",
+        "party_id": 3,
+        "dun_id": 302,
+        "parliament_id": null
+    },
+    {
+        "name": "KALYANA RAJASEKARAN A/L TEAGARAJAN",
+        "party_id": 1,
+        "dun_id": 303,
+        "parliament_id": null
+    },
+    {
+        "name": "NALLAN A/L DHANABALAN",
+        "party_id": 3,
+        "dun_id": 303,
+        "parliament_id": null
+    },
+    {
+        "name": "RAJIV A/L RISHYAKARAN",
+        "party_id": 1,
+        "dun_id": 303,
+        "parliament_id": null
+    },
+    {
+        "name": "CHIN YOKE KHENG",
+        "party_id": 3,
+        "dun_id": 304,
+        "parliament_id": null
+    },
+    {
+        "name": "LIM YI WEI",
+        "party_id": 1,
+        "dun_id": 304,
+        "parliament_id": null
+    },
+    {
+        "name": "JAMALIAH BINTI JAMALUDDIN",
+        "party_id": 1,
+        "dun_id": 305,
+        "parliament_id": null
+    },
+    {
+        "name": "LIM HOOI SEAN",
+        "party_id": 1,
+        "dun_id": 305,
+        "parliament_id": null
+    },
+    {
+        "name": "NUR ALIFF BIN MOHD TAFID",
+        "party_id": 3,
+        "dun_id": 305,
+        "parliament_id": null
+    },
+    {
+        "name": "MUNIRAA BINTI ABU BAKAR",
+        "party_id": 3,
+        "dun_id": 306,
+        "parliament_id": null
+    },
+    {
+        "name": "PUA PEI LING",
+        "party_id": 1,
+        "dun_id": 306,
+        "parliament_id": null
+    },
+    {
+        "name": "AB HALIM BIN TAMURI",
+        "party_id": 3,
+        "dun_id": 307,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD KHAIRUDDIN BIN OTHMAN",
+        "party_id": 1,
+        "dun_id": 307,
+        "parliament_id": null
+    },
+    {
+        "name": "NURHASLINDA BINTI BASRI",
+        "party_id": 5,
+        "dun_id": 307,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD IZUAN BIN AHMAD KASIM",
+        "party_id": 1,
+        "dun_id": 308,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD RADZLAN BIN JALALUDIN",
+        "party_id": 3,
+        "dun_id": 308,
+        "parliament_id": null
+    },
+    {
+        "name": "SIVARAJAN A/L ARUMUGAM",
+        "party_id": 19,
+        "dun_id": 308,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMED SUKRI BIN OMAR",
+        "party_id": 3,
+        "dun_id": 309,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD NAJWAN BIN HALIMI",
+        "party_id": 1,
+        "dun_id": 309,
+        "parliament_id": null
+    },
+    {
+        "name": "AZAD BIN AKBAR KHAN",
+        "party_id": 1,
+        "dun_id": 309,
+        "parliament_id": null
+    },
+    {
+        "name": "SAIYIDAH IZZATI NUR BT RAZAK MAIDEEN",
+        "party_id": 1,
+        "dun_id": 310,
+        "parliament_id": null
+    },
+    {
+        "name": "DANIAL AL-RASHID BIN HARON AMINAR RASHID",
+        "party_id": 1,
+        "dun_id": 310,
+        "parliament_id": null
+    },
+    {
+        "name": "RINA BINTI MOHD HARUN",
+        "party_id": 3,
+        "dun_id": 310,
+        "parliament_id": null
+    },
+    {
+        "name": "HASNIZAM BIN ADHAM",
+        "party_id": 3,
+        "dun_id": 311,
+        "parliament_id": null
+    },
+    {
+        "name": "SIVARANJANI A/P MANICKAM",
+        "party_id": 19,
+        "dun_id": 311,
+        "parliament_id": null
+    },
+    {
+        "name": "MARIAM BINTI ABDUL RASHID",
+        "party_id": 1,
+        "dun_id": 311,
+        "parliament_id": null
+    },
+    {
+        "name": "ERNY AFRISHAH BINTI AZIZI",
+        "party_id": 1,
+        "dun_id": 312,
+        "parliament_id": null
+    },
+    {
+        "name": "NOOR NAJHAN BIN MOHAMAD SALLEH",
+        "party_id": 3,
+        "dun_id": 312,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL RASHID BIN ASARI",
+        "party_id": 3,
+        "dun_id": 313,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ROSLEE BIN ABD HAMID",
+        "party_id": 2,
+        "dun_id": 313,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD EZAM BIN MOHD NOR",
+        "party_id": 9,
+        "dun_id": 313,
+        "parliament_id": null
+    },
+    {
+        "name": "QUAH PERNG FEI",
+        "party_id": 1,
+        "dun_id": 314,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN SENG HUAT",
+        "party_id": 3,
+        "dun_id": 314,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN HASRINA BINTI WAN HASSAN",
+        "party_id": 3,
+        "dun_id": 315,
+        "parliament_id": null
+    },
+    {
+        "name": "SYED AHMAD PUTRA BIN SYED ISA",
+        "party_id": 9,
+        "dun_id": 315,
+        "parliament_id": null
+    },
+    {
+        "name": "AZMIZAM BIN ZAMAN HURI",
+        "party_id": 1,
+        "dun_id": 315,
+        "parliament_id": null
+    },
+    {
+        "name": "LEONG TUCK CHEE",
+        "party_id": 1,
+        "dun_id": 316,
+        "parliament_id": null
+    },
+    {
+        "name": "GUNALAN A/L BALAKRISHNAN",
+        "party_id": 3,
+        "dun_id": 316,
+        "parliament_id": null
+    },
+    {
+        "name": "TAN KANG YAP",
+        "party_id": 9,
+        "dun_id": 316,
+        "parliament_id": null
+    },
+    {
+        "name": "GUNARAJAH A/L R GEORGE",
+        "party_id": 1,
+        "dun_id": 317,
+        "parliament_id": null
+    },
+    {
+        "name": "PARAMESWARAN A/L GANASON",
+        "party_id": 3,
+        "dun_id": 317,
+        "parliament_id": null
+    },
+    {
+        "name": "THANUSHA A/P RAMANIESWARAN",
+        "party_id": 1,
+        "dun_id": 317,
+        "parliament_id": null
+    },
+    {
+        "name": "JEICHANDRAN A/L WADIVELU",
+        "party_id": 9,
+        "dun_id": 317,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ZAWAWI BIN AHMAD MUGHNI",
+        "party_id": 1,
+        "dun_id": 318,
+        "parliament_id": null
+    },
+    {
+        "name": "WAN DZAHANURIN BIN AHMAD",
+        "party_id": 3,
+        "dun_id": 318,
+        "parliament_id": null
+    },
+    {
+        "name": "AFRIENA SHAQIRA BINTI SARIFF",
+        "party_id": 1,
+        "dun_id": 318,
+        "parliament_id": null
+    },
+    {
+        "name": "PREAKAS A/L SAMPUNATHAN",
+        "party_id": 1,
+        "dun_id": 319,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEW JYH GANG",
+        "party_id": 3,
+        "dun_id": 319,
+        "parliament_id": null
+    },
+    {
+        "name": "K GUNASEKARAN A/L KUPPAN",
+        "party_id": 9,
+        "dun_id": 319,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD YUNUS BIN HAIRI",
+        "party_id": 3,
+        "dun_id": 320,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD AL-HAFIZI BIN ABU BAKAR",
+        "party_id": 2,
+        "dun_id": 320,
+        "parliament_id": null
+    },
+    {
+        "name": "ANG WEI YANG",
+        "party_id": 5,
+        "dun_id": 321,
+        "parliament_id": null
+    },
+    {
+        "name": "SARAVANAN A/L MUTTO KRISHNAN",
+        "party_id": 3,
+        "dun_id": 321,
+        "parliament_id": null
+    },
+    {
+        "name": "PAPPARAIDU A/L VERAMAN",
+        "party_id": 1,
+        "dun_id": 321,
+        "parliament_id": null
+    },
+    {
+        "name": "ROSNIZAN BIN AHMAD",
+        "party_id": 3,
+        "dun_id": 322,
+        "parliament_id": null
+    },
+    {
+        "name": "HASNUL BIN BAHARUDDIN",
+        "party_id": 1,
+        "dun_id": 322,
+        "parliament_id": null
+    },
+    {
+        "name": "SABIRIN BIN MARSONO",
+        "party_id": 3,
+        "dun_id": 323,
+        "parliament_id": null
+    },
+    {
+        "name": "BORHAN BIN AMAN SHAH",
+        "party_id": 1,
+        "dun_id": 323,
+        "parliament_id": null
+    },
+    {
+        "name": "DARREN ONG CHUNG LEE",
+        "party_id": 19,
+        "dun_id": 324,
+        "parliament_id": null
+    },
+    {
+        "name": "NOORAZLI BIN SAID",
+        "party_id": 2,
+        "dun_id": 324,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD DAUD LEONG BIN ABDULLAH",
+        "party_id": "24",
+        "dun_id": 324,
+        "parliament_id": null
+    },
+    {
+        "name": "JAMIL BIN SALLEH",
+        "party_id": 3,
+        "dun_id": 324,
+        "parliament_id": null
+    },
+    {
+        "name": "SUHAIMI BIN MOHD GHAZALI",
+        "party_id": 3,
+        "dun_id": 325,
+        "parliament_id": null
+    },
+    {
+        "name": "LWI KIAN KEONG",
+        "party_id": 1,
+        "dun_id": 325,
+        "parliament_id": null
+    },
+    {
+        "name": "NAGESWARAN A/L RAVI",
+        "party_id": 5,
+        "dun_id": 325,
+        "parliament_id": null
+    },
+    {
+        "name": "ROSMADI BIN ARIF",
+        "party_id": 3,
+        "dun_id": 338,
+        "parliament_id": null
+    },
+    {
+        "name": "LOKE SIEW FOOK",
+        "party_id": 1,
+        "dun_id": 338,
+        "parliament_id": null
+    },
+    {
+        "name": "JALALUDDIN BIN ALIAS",
+        "party_id": 2,
+        "dun_id": 339,
+        "parliament_id": null
+    },
+    {
+        "name": "AMIRUDIN BIN HASSAN",
+        "party_id": 3,
+        "dun_id": 339,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD.RAZI BIN MOHD.ALI",
+        "party_id": 2,
+        "dun_id": 340,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD NORDIN BIN HASIM",
+        "party_id": 3,
+        "dun_id": 340,
+        "parliament_id": null
+    },
+    {
+        "name": "SAIFUL BAHRI BIN JAAMAN @ SHARMAN",
+        "party_id": 5,
+        "dun_id": 341,
+        "parliament_id": null
+    },
+    {
+        "name": "DANNI RAIS",
+        "party_id": 3,
+        "dun_id": 341,
+        "parliament_id": null
+    },
+    {
+        "name": "BAKRI BIN SAWIR",
+        "party_id": 1,
+        "dun_id": 341,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD FAIRUZ BIN MOHD ISA",
+        "party_id": 3,
+        "dun_id": 342,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMAD ZAMRI BIN OMAR",
+        "party_id": 2,
+        "dun_id": 342,
+        "parliament_id": null
+    },
+    {
+        "name": "NOOR AZUAN BIN PARMIN",
+        "party_id": 3,
+        "dun_id": 343,
+        "parliament_id": null
+    },
+    {
+        "name": "MUSTAPHA BIN NAGOOR",
+        "party_id": 2,
+        "dun_id": 343,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ZAIDY BIN ABDUL KADIR",
+        "party_id": 2,
+        "dun_id": 344,
+        "parliament_id": null
+    },
+    {
+        "name": "SURASH A/L SREENIVASAN",
+        "party_id": 3,
+        "dun_id": 344,
+        "parliament_id": null
+    },
+    {
+        "name": "KUMAR A/L S. PARAMASIVAM",
+        "party_id": 3,
+        "dun_id": 345,
+        "parliament_id": null
+    },
+    {
+        "name": "TEO KOK SEONG",
+        "party_id": 1,
+        "dun_id": 345,
+        "parliament_id": null
+    },
+    {
+        "name": "ZUL AZKI BIN MAT SULOP",
+        "party_id": 5,
+        "dun_id": 346,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD FADLI BIN CHE ME",
+        "party_id": 3,
+        "dun_id": 346,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD ASNA BIN AMIN",
+        "party_id": 2,
+        "dun_id": 346,
+        "parliament_id": null
+    },
+    {
+        "name": "GAN CHEE BIOW",
+        "party_id": 3,
+        "dun_id": 347,
+        "parliament_id": null
+    },
+    {
+        "name": "OMAR BIN MOHD ISA",
+        "party_id": 5,
+        "dun_id": 347,
+        "parliament_id": null
+    },
+    {
+        "name": "YESSU A/L SAMUEL",
+        "party_id": 5,
+        "dun_id": 347,
+        "parliament_id": null
+    },
+    {
+        "name": "ARUL KUMAR A/L JAMBUNATHAN",
+        "party_id": 1,
+        "dun_id": 347,
+        "parliament_id": null
+    },
+    {
+        "name": "NG SOON LEAN",
+        "party_id": 3,
+        "dun_id": 348,
+        "parliament_id": null
+    },
+    {
+        "name": "CHEW SEH YONG",
+        "party_id": 1,
+        "dun_id": 348,
+        "parliament_id": null
+    },
+    {
+        "name": "NG CHIN TSAI",
+        "party_id": 1,
+        "dun_id": 349,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD QUSYAIRI BIN ABDULL RAHIM",
+        "party_id": 1,
+        "dun_id": 349,
+        "parliament_id": null
+    },
+    {
+        "name": "CHUA ENG PU",
+        "party_id": 3,
+        "dun_id": 349,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD RAIHAN BIN MUHAMAD HILAL",
+        "party_id": 3,
+        "dun_id": 350,
+        "parliament_id": null
+    },
+    {
+        "name": "AMINUDDIN BIN HARUN",
+        "party_id": 1,
+        "dun_id": 350,
+        "parliament_id": null
+    },
+    {
+        "name": "BUJANG BIN ABU",
+        "party_id": 5,
+        "dun_id": 350,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMMED HAFIZ BIN BAHARUDIN",
+        "party_id": 5,
+        "dun_id": 350,
+        "parliament_id": null
+    },
+    {
+        "name": "TENGKU ZAMRAH BINTI TENGKU SULAIMAN",
+        "party_id": 1,
+        "dun_id": 351,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD GHAZALI BIN ZAINAL ABIDIN",
+        "party_id": 3,
+        "dun_id": 351,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD RAFIE BIN AB MALEK",
+        "party_id": 5,
+        "dun_id": 351,
+        "parliament_id": null
+    },
+    {
+        "name": "EDDIN SYAZLEE BIN SHITH",
+        "party_id": 3,
+        "dun_id": 352,
+        "parliament_id": null
+    },
+    {
+        "name": "BIBI SHARLIZA BINTI MOHD KHALID",
+        "party_id": 2,
+        "dun_id": 352,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD SUFIAN BIN MARADZI",
+        "party_id": 2,
+        "dun_id": 353,
+        "parliament_id": null
+    },
+    {
+        "name": "JAMALI BIN SALAM",
+        "party_id": 3,
+        "dun_id": 353,
+        "parliament_id": null
+    },
+    {
+        "name": "ISMAIL BIN LASIM",
+        "party_id": 2,
+        "dun_id": 354,
+        "parliament_id": null
+    },
+    {
+        "name": "AMRINA BINTI MOHD KHALID",
+        "party_id": 3,
+        "dun_id": 354,
+        "parliament_id": null
+    },
+    {
+        "name": "RAFIEI BIN MUSTAPHA",
+        "party_id": 3,
+        "dun_id": 355,
+        "parliament_id": null
+    },
+    {
+        "name": "NOORZUNITA BEGUM BINTI MOHD IBRAHIM",
+        "party_id": 1,
+        "dun_id": 355,
+        "parliament_id": null
+    },
+    {
+        "name": "SAIFUL YAZAN BIN SULAIMAN",
+        "party_id": 2,
+        "dun_id": 356,
+        "parliament_id": null
+    },
+    {
+        "name": "KAMARUDIN BIN MD TAHIR",
+        "party_id": 3,
+        "dun_id": 356,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD HANIFAH BIN ABU BAKER",
+        "party_id": 3,
+        "dun_id": 357,
+        "parliament_id": null
+    },
+    {
+        "name": "ISMAIL BIN AHMAD",
+        "party_id": 1,
+        "dun_id": 357,
+        "parliament_id": null
+    },
+    {
+        "name": "SUBRAMANIAM A/L PURUSHOTHAMA",
+        "party_id": 3,
+        "dun_id": 358,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD ZAMALI BIN MOHAMAD",
+        "party_id": 5,
+        "dun_id": 358,
+        "parliament_id": null
+    },
+    {
+        "name": "NICOLE TAN LEE KOON",
+        "party_id": 1,
+        "dun_id": 358,
+        "parliament_id": null
+    },
+    {
+        "name": "SIAU MEOW KONG",
+        "party_id": 1,
+        "dun_id": 359,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE BOON SHIAN",
+        "party_id": 3,
+        "dun_id": 359,
+        "parliament_id": null
+    },
+    {
+        "name": "YAP YEW WENG",
+        "party_id": 1,
+        "dun_id": 360,
+        "parliament_id": null
+    },
+    {
+        "name": "KUMARAVEL A/L RAMIAH",
+        "party_id": 5,
+        "dun_id": 360,
+        "parliament_id": null
+    },
+    {
+        "name": "SATHES KUMAR A/L NILAMEHAM",
+        "party_id": 3,
+        "dun_id": 360,
+        "parliament_id": null
+    },
+    {
+        "name": "GUNASEKAREN A/L PALASAMY",
+        "party_id": 1,
+        "dun_id": 361,
+        "parliament_id": null
+    },
+    {
+        "name": "LEE BAN FATT",
+        "party_id": 3,
+        "dun_id": 361,
+        "parliament_id": null
+    },
+    {
+        "name": "MUHAMMAD SYAKIR FITRI BIN SADRI",
+        "party_id": 5,
+        "dun_id": 362,
+        "parliament_id": null
+    },
+    {
+        "name": "NORWANI BINTI AHMAT",
+        "party_id": 1,
+        "dun_id": 362,
+        "parliament_id": null
+    },
+    {
+        "name": "KAMAROL RIDZUAN BIN MOHD ZAIN",
+        "party_id": 3,
+        "dun_id": 362,
+        "parliament_id": null
+    },
+    {
+        "name": "BAKLY BIN BABA",
+        "party_id": 3,
+        "dun_id": 363,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAIFULBAHRI BIN IDRIS",
+        "party_id": 2,
+        "dun_id": 363,
+        "parliament_id": null
+    },
+    {
+        "name": "ROZMAL BIN MALAKAN",
+        "party_id": 3,
+        "dun_id": 364,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHAMAD BIN HAJI HASAN",
+        "party_id": 2,
+        "dun_id": 364,
+        "parliament_id": null
+    },
+    {
+        "name": "SUHAIMI BIN AINI",
+        "party_id": 2,
+        "dun_id": 365,
+        "parliament_id": null
+    },
+    {
+        "name": "AHMAD SHUKRI BIN ABDUL SHUKOR",
+        "party_id": 3,
+        "dun_id": 365,
+        "parliament_id": null
+    },
+    {
+        "name": "TANG JAY SON",
+        "party_id": 3,
+        "dun_id": 366,
+        "parliament_id": null
+    },
+    {
+        "name": "YEW BOON LYE",
+        "party_id": 1,
+        "dun_id": 366,
+        "parliament_id": null
+    },
+    {
+        "name": "RAGU A/L SUBRAMANIAM",
+        "party_id": 3,
+        "dun_id": 367,
+        "parliament_id": null
+    },
+    {
+        "name": "CHOO KEN HWA",
+        "party_id": 1,
+        "dun_id": 367,
+        "parliament_id": null
+    },
+    {
+        "name": "ABDUL FATAH BIN ZAKARIA",
+        "party_id": 3,
+        "dun_id": 368,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD NAJIB BIN MOHD ISA",
+        "party_id": 2,
+        "dun_id": 368,
+        "parliament_id": null
+    },
+    {
+        "name": "MOHD FAIZAL BIN RAMLI",
+        "party_id": 2,
+        "dun_id": 369,
+        "parliament_id": null
+    },
+    {
+        "name": "ZAMRI BIN MD SAID",
+        "party_id": 3,
+        "dun_id": 369,
+        "parliament_id": null
+    },
+    {
+        "name": "ZABIDI BIN ARIFFIN",
+        "party_id": 3,
+        "dun_id": 370,
+        "parliament_id": null
+    },
+    {
+        "name": "RAJASEKARAN A/L GUNNASEKARAN",
+        "party_id": 1,
+        "dun_id": 370,
+        "parliament_id": null
+    },
+    {
+        "name": "RIDZUAN BIN AHMAD",
+        "party_id": 3,
+        "dun_id": 371,
+        "parliament_id": null
+    },
+    {
+        "name": "ABD RAZAK BIN AB SAID",
+        "party_id": 2,
+        "dun_id": 371,
+        "parliament_id": null
+    },
+    {
+        "name": "TENGKU ABDULLAH BIN TENGKU RAKMAN",
+        "party_id": 3,
+        "dun_id": 372,
+        "parliament_id": null
+    },
+    {
+        "name": "SUHAIMIZAN BIN BIZAR",
+        "party_id": 2,
+        "dun_id": 372,
+        "parliament_id": null
+    },
+    {
+        "name": "YONG LI YI",
+        "party_id": 3,
+        "dun_id": 373,
+        "parliament_id": null
+    },
+    {
+        "name": "VEERAPAN A/L SUPERAMANIAM",
+        "party_id": 1,
+        "dun_id": 373,
+        "parliament_id": null
+    }
+]
